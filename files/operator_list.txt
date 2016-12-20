@@ -1,0 +1,3026 @@
+1  ##  www.brasil.discovery.uol.com.br  ##  United States, Brazil
+2  ##  www.myfoxny.com  ##  New York, United States
+3  ##  www.kqed.org  ##  California, United States
+4  ##  www.mpbc.org  ##  Maine, United States
+5  ##  www.csncalifornia.com  ##  United States
+6  ##  www.c8.fr  ##  France
+7  ##  3d.tv.cn  ##  China
+8  ##  www.seetv.pk  ##  Pakistan
+9  ##  wsvn.com  ##  Florida, United States
+10  ##  www.kttc.com  ##  Minnesota, United States
+11  ##  www.wzzm13.com  ##  Michigan, United States
+12  ##  www.nrk.no  ##  Norway
+13  ##  www.trtworld.com  ##  Turkey
+14  ##  www.vtm.be  ##  Belgium
+15  ##  www.motorstv.com  ##  France
+16  ##  www.sportsnetla.com  ##  United States
+17  ##  www.toledonewsnow.com  ##  Ohio, United States
+18  ##  www.natgeotv.com  ##  United States, United Kingdom
+19  ##  www.telemundo33.com  ##  United States, Mexico
+20  ##  www.kanal5play.se  ##  Sweden
+21  ##  www.myfoxlubbock.com  ##  Texas, United States
+22  ##  www.elle.fr  ##  France
+23  ##  www.wabg.com  ##  Mississippi, United States
+24  ##  www.manutd.com  ##  United Kingdom
+25  ##  www.calle13universal.es  ##  United States, Spain
+26  ##  www.itshbo.nl  ##  United States, Netherlands
+27  ##  www.boomerangla.com  ##  United States, Mexico
+28  ##  www.rainbow-ch.com  ##  Japan
+29  ##  www.fox13news.com  ##  Florida, United States
+30  ##  www.luckystv.com  ##  China
+31  ##  www.morskoi.tv  ##  Russia
+32  ##  www.canal22.org.mx  ##  Mexico
+33  ##  www.nova.gr  ##  Greece
+34  ##  cimt.teleinterrives.com  ##  Canada
+35  ##  poptv.com  ##  United States
+36  ##  www.viasat.se  ##  Sweden
+37  ##  www.newmexicoscw.tv  ##  New Mexico, United States
+38  ##  www.cartoonnetwork.com.br  ##  United States, Brazil
+39  ##  mbnmoney.mbn.co.kr  ##  South Korea
+40  ##  www.fox11online.com  ##  Wisconsin, United States
+41  ##  www.starmovies.in  ##  Hong Kong, India
+42  ##  www.espnstar.com.cn  ##  Hong Kong, China
+43  ##  www.wgntv.com  ##  Illinois, United States
+44  ##  www.ami.ca  ##  Canada
+45  ##  tv11.prd.go.th  ##  Thailand
+46  ##  www.natgeowild.it  ##  United States, Italy
+47  ##  www.celestialmovies.com  ##  Hong Kong
+48  ##  woub.org  ##  Ohio, United States
+49  ##  www.hbo.com  ##  United States
+50  ##  www.kplus.vn  ##  Vietnam
+51  ##  www.fox23news.com  ##  New York, United States
+52  ##  www.france3.fr  ##  France
+53  ##  www.afriquemedia.tv  ##  Cameroon
+54  ##  www.kcbd.com  ##  Texas, United States
+55  ##  telefe.com  ##  Argentina
+56  ##  www.alekinoplus.pl  ##  Poland
+57  ##  www.fuse.tv  ##  United States
+58  ##  www.mytvz.com  ##  Virginia, United States
+59  ##  www.foxplay.com  ##  United States
+60  ##  www.atv.com.tr  ##  Turkey
+61  ##  theafricachannel.com  ##  United Kingdom, United States
+62  ##  aksiyon.sinematv.com.tr  ##  Turkey
+63  ##  www.cw30.com  ##  Utah, United States
+64  ##  www.myfoxdfw.com  ##  Texas, United States
+65  ##  www.reelz.com  ##  United States
+66  ##  www.foxlife.com.br  ##  United States, Brazil
+67  ##  www.joeswall.com  ##  Washington, United States
+68  ##  wytv.com  ##  Ohio, United States
+69  ##  videos.agazeta.net  ##  Brazil
+70  ##  www.news18.com  ##  United States, India
+71  ##  www.rts.rs  ##  Serbia
+72  ##  freeview.co.th  ##  Thailand
+73  ##  www.ocs.fr  ##  France
+74  ##  www.asiaetv.co.kr  ##  South Korea
+75  ##  hsn2.hsn.com  ##  United States
+76  ##  www.kanal9play.se  ##  Sweden
+77  ##  obosmeisya.ru  ##  United States, Russia
+78  ##  pittsburgh.cbslocal.com  ##  Pennsylvania, United States
+79  ##  www.cookingchanneltv.com  ##  United States
+80  ##  tv.eurosport.no  ##  France, Norway
+81  ##  tv.eurosport.nl  ##  France, Netherlands
+82  ##  www.ctitv.com.tw  ##  Taiwan
+83  ##  www.csnne.com  ##  United States
+84  ##  dave.uktv.co.uk  ##  United Kingdom
+85  ##  globonews.globo.com  ##  Brazil
+86  ##  wau.joj.sk  ##  Slovakia
+87  ##  www.hkstv.tv  ##  Hong Kong
+88  ##  megapix.globo.com  ##  Brazil
+89  ##  www.starworldasia.tv  ##  Hong Kong
+90  ##  www.skynewsarabia.com  ##  United Kingdom
+91  ##  www.sinematv.com.tr  ##  Turkey
+92  ##  www.kwkt.com  ##  Texas, United States
+93  ##  www.cnni.com  ##  United States
+94  ##  www.tbs.co.jp  ##  Japan
+95  ##  www.ngcjapan.com  ##  United States, Japan
+96  ##  tv2.yle.fi  ##  Finland
+97  ##  tvnfabula.pl  ##  Poland
+98  ##  www.wowtv.co.kr  ##  South Korea
+99  ##  www.tvr.ro  ##  Romania
+100  ##  www.wfaa.com  ##  Texas, United States
+101  ##  www.bollywoodtv.ro  ##  Romania
+102  ##  canaloff.globo.com  ##  Brazil
+103  ##  www.discovery.com  ##  United States, India
+104  ##  www.extremtv.ru  ##  Russia
+105  ##  www.wvia.org  ##  Pennsylvania, United States
+106  ##  www.telemundo47.com  ##  New Jersey, United States
+107  ##  nauticalchannel.com  ##  Italy
+108  ##  viasatexplore.pl  ##  Sweden, Poland
+109  ##  ici.exploratv.ca  ##  Canada
+110  ##  www.osn.com  ##  United Arab Emirates
+111  ##  www.festivalchannel.cz  ##  Czechia
+112  ##  www.amctv.es  ##  United States, Spain
+113  ##  www.foxsportsflorida.com  ##  United States
+114  ##  www.nseshop.com  ##  South Korea
+115  ##  www.kstp.com  ##  Minnesota, United States
+116  ##  www.wsbtv.com  ##  Georgia, United States
+117  ##  www.hse24.de  ##  Germany
+118  ##  www.wdtv.com  ##  West Virginia, United States
+119  ##  www.teletoon.com  ##  Canada
+120  ##  www.wemt39.com  ##  Tennessee, United States
+121  ##  www.ahctv.com  ##  United States
+122  ##  www.ktwu.org  ##  Kansas, United States
+123  ##  gnt.globo.com  ##  Brazil
+124  ##  www.hse24.it  ##  Germany, Italy
+125  ##  www.recordeuropa.com  ##  Brazil
+126  ##  www.my24milwaukee.com  ##  Wisconsin, United States
+127  ##  www.aetv.com  ##  United States
+128  ##  www.rtl2.de  ##  Germany
+129  ##  www.marinafm.com  ##  Kuwait
+130  ##  www.cartoonnetworkarabic.com  ##  United States
+131  ##  www.wcny.org  ##  New York, United States
+132  ##  www.saudi2tv.sa  ##  Saudi Arabia
+133  ##  www.musicair.co.jp  ##  Japan
+134  ##  www.foxillinois.com  ##  Illinois, United States
+135  ##  d-navi.tv  ##  Japan
+136  ##  www.optv.org  ##  Missouri, United States
+137  ##  www.ozarksfirst.com  ##  Missouri, United States
+138  ##  www.canal9.com.ar  ##  Argentina
+139  ##  www.foxkansas.com  ##  Kansas, United States
+140  ##  www.myfoxspokane.com  ##  Washington, United States
+141  ##  www.dr.dk  ##  Denmark
+142  ##  www.goshop.com.my  ##  Malaysia
+143  ##  www.canalaxn.com  ##  United States
+144  ##  fightnetwork.com  ##  Canada
+145  ##  1hd.ru  ##  Russia
+146  ##  www.zeetalkies.tv  ##  India
+147  ##  www.channel4.com  ##  United Kingdom
+148  ##  www.mundofox22.com  ##  California, United States
+149  ##  www.disney.es  ##  United States, Spain
+150  ##  telecafe.gov.co  ##  Colombia
+151  ##  barrie.ctvnews.ca  ##  Canada
+152  ##  www.cbn.com  ##  United States
+153  ##  www.rt.com  ##  Russia, United Kingdom
+154  ##  www.newspressnow.com  ##  Missouri, United States
+155  ##  www.wjactv.com  ##  Pennsylvania, United States
+156  ##  www.foxsportsohio.com  ##  United States
+157  ##  www.kbsn.co.kr  ##  South Korea
+158  ##  www.deltafox10.com  ##  Mississippi, United States
+159  ##  www.vpt.org  ##  Vermont, United States
+160  ##  www.cbs58.com  ##  Wisconsin, United States
+161  ##  www.pinkx.fr  ##  France
+162  ##  www.mywabashvalley.com  ##  Illinois, United States
+163  ##  www.wlns.com  ##  Michigan, United States
+164  ##  www.firstcoastnews.com  ##  Florida, United States
+165  ##  www.spiegel-geschichte.tv  ##  Germany
+166  ##  www.wmdt.com  ##  Maryland, United States
+167  ##  iglesianicristo.net  ##  Philippines
+168  ##  www.disney.com.br  ##  United States, Brazil
+169  ##  www.telepacifico.com  ##  Colombia
+170  ##  www.kmvt.com  ##  Idaho, United States
+171  ##  www.yonhapnewstv.co.kr  ##  South Korea
+172  ##  www.extreme.com  ##  Netherlands
+173  ##  www.cbs13.com  ##  California, United States
+174  ##  www.wunitv.com  ##  Massachusetts, United States
+175  ##  www.racinguk.com  ##  United Kingdom
+176  ##  www.m3tv.ca  ##  Canada
+177  ##  www.universalhd.com  ##  United States
+178  ##  www.polsatfilm.pl  ##  Poland
+179  ##  sbsplus.sbs.co.kr  ##  South Korea
+180  ##  asia.eurosport.com  ##  France
+181  ##  www.sdtv.com.cn  ##  China
+182  ##  www.newschannel10.com  ##  Texas, United States
+183  ##  www.wildnaturehd.tv  ##  Russia
+184  ##  www.greentv.com.mx  ##  Mexico
+185  ##  tvo.org  ##  Canada
+186  ##  www.hbo.hr  ##  United States, Croatia
+187  ##  abc7.com  ##  California, United States
+188  ##  www.tv8.com.tr  ##  Turkey
+189  ##  www.fxme.tv  ##  United States
+190  ##  espndeportes.espn.go.com  ##  United States
+191  ##  www.antena3.ro  ##  Romania
+192  ##  kuac.org  ##  Alaska, United States
+193  ##  www.svt.se  ##  Sweden
+194  ##  fnc.ebc.net.tw  ##  Taiwan
+195  ##  www.sport.novatv.bg  ##  Bulgaria
+196  ##  www.ktbs.com  ##  Louisiana, United States
+197  ##  www.kurdsatnews.com  ##  Iraq
+198  ##  www.alaoula.ma  ##  Morocco
+199  ##  www.gulli.fr  ##  France
+200  ##  www.csnwashington.com  ##  United States
+201  ##  www.local12.com  ##  Ohio, United States
+202  ##  salzburg.orf.at  ##  Austria
+203  ##  92newshd.tv  ##  Pakistan
+204  ##  www.wned.org  ##  New York, United States
+205  ##  www.wlky.com  ##  Kentucky, United States
+206  ##  www.discoverylife.com  ##  United States
+207  ##  www.numberone.com.tr  ##  Turkey
+208  ##  www.ripbs.org  ##  Rhode Island, United States
+209  ##  www.wtxl.com  ##  Florida, United States
+210  ##  www.wxxv25.com  ##  Mississippi, United States
+211  ##  www.sky.com.br  ##  Brazil
+212  ##  www.rtl.de  ##  Germany
+213  ##  www.efekto.tv  ##  Mexico
+214  ##  www.jtv.com  ##  United States
+215  ##  www.teve2.com.tr  ##  Turkey
+216  ##  www.ustv.com.tw  ##  Taiwan
+217  ##  www.canalgolden.tv  ##  Mexico
+218  ##  www.wkbn.com  ##  Ohio, United States
+219  ##  www.wsfx.com  ##  North Carolina, United States
+220  ##  www.mptv.org  ##  Wisconsin, United States
+221  ##  cbs2iowa.com  ##  Iowa, United States
+222  ##  www.tvchile.cl  ##  Chile
+223  ##  www.ndr.de  ##  Germany
+224  ##  www.arte.tv  ##  France, Germany
+225  ##  www.azteca.com  ##  Mexico
+226  ##  www.abc45.com  ##  North Carolina, United States
+227  ##  www.tn.com.ar  ##  Argentina
+228  ##  www.nick.com  ##  United States
+229  ##  al-nahar.tv  ##  Egypt
+230  ##  www.top-channel.tv  ##  Albania
+231  ##  fox8.com  ##  Ohio, United States
+232  ##  www.8newsnow.com  ##  Nevada, United States
+233  ##  www.discoverychannel.ru  ##  United States, Russia
+234  ##  www.beritasatu.com  ##  Indonesia
+235  ##  www.premiersports.tv  ##  Ireland
+236  ##  looktv.ro  ##  Romania
+237  ##  www.wfyi.org  ##  Indiana, United States
+238  ##  rockymountain.rootsports.com  ##  United States
+239  ##  www.byutv.org  ##  United States
+240  ##  ec.europa.eu  ##  Belgium
+241  ##  www.9news.com  ##  Colorado, United States
+242  ##  www.peachtreetv.com  ##  Georgia, United States
+243  ##  australia.bbcknowledge.com  ##  United Kingdom, Australia
+244  ##  www.cmore.se  ##  Sweden
+245  ##  pacifique.tv5monde.com  ##  France
+246  ##  www.cielotv.it  ##  Italy
+247  ##  www.wvgn.com  ##  United States, Virgin Islands (US)
+248  ##  www.canald.com  ##  Canada
+249  ##  www.prosiebenmaxx.de  ##  Germany
+250  ##  www.kabeleins.de  ##  Germany
+251  ##  newyork.cbslocal.com  ##  New York, United States
+252  ##  www.warnertvasia.com  ##  United States
+253  ##  www.my18.tv  ##  Michigan, United States
+254  ##  www.mtvla.com  ##  United States
+255  ##  www.fox28.com  ##  Indiana, United States
+256  ##  www.thaipbs.or.th  ##  Thailand
+257  ##  www.disney.co.uk  ##  United States, United Kingdom
+258  ##  www.cineplus.fr  ##  France
+259  ##  www.westernmassnews.com  ##  Massachusetts, United States
+260  ##  www.tv4.se  ##  Sweden
+261  ##  www.telemundo51.com  ##  Florida, United States
+262  ##  www.pursuitchannel.com  ##  United States
+263  ##  sports.abs-cbn.com  ##  Philippines
+264  ##  balkans.aljazeera.net  ##  Qatar, Bosnia and Herzegovina
+265  ##  www.sundance.tv  ##  United States
+266  ##  www.travelchanneltv.asia  ##  United States
+267  ##  www.investigationtele.com  ##  Canada
+268  ##  myaustintv.clientmediaserver.com  ##  Texas, United States
+269  ##  www.disneychannel.fr  ##  United States, France
+270  ##  www.wltz.com  ##  Georgia, United States
+271  ##  www.foxsanantonio.com  ##  Texas, United States
+272  ##  www.dptv.org  ##  Michigan, United States
+273  ##  www.fox17.com  ##  Tennessee, United States
+274  ##  www.sabtv.com  ##  India
+275  ##  www.mlsnet.com  ##  United States
+276  ##  www.kickmedia.tv  ##  Bulgaria
+277  ##  www.reuters.com  ##  United Kingdom
+278  ##  www.mega.cl  ##  Chile
+279  ##  kurdmax.tv  ##  Iraq
+280  ##  www.wnetwork.com  ##  Canada
+281  ##  www.wthi.com  ##  Indiana, United States
+282  ##  site.iptv.org  ##  Iowa, United States
+283  ##  www.alsharqiyatv.com  ##  United Arab Emirates
+284  ##  www.ntv.co.jp  ##  Japan
+285  ##  www.eltrecetv.com.ar  ##  Argentina
+286  ##  www.colorsmarathi.com  ##  India
+287  ##  www.yoopa.ca  ##  Canada
+288  ##  www.wtvi.org  ##  North Carolina, United States
+289  ##  www.cw15.com  ##  Pennsylvania, United States
+290  ##  www.smokyhillstv.org  ##  Kansas, United States
+291  ##  www.nick-asia.com  ##  United States, Philippines
+292  ##  news.sky.com  ##  United Kingdom
+293  ##  www.cosmote.gr  ##  Greece
+294  ##  edmonton.ctvnews.ca  ##  Canada
+295  ##  www.sonnenklar.tv  ##  Germany
+296  ##  siouxlandnews.com  ##  Iowa, United States
+297  ##  www.amctv.com  ##  United States
+298  ##  tv.orf.at  ##  Austria
+299  ##  www.kmtv.com  ##  Nebraska, United States
+300  ##  skyuno.sky.it  ##  Italy
+301  ##  www.mbcgn.kr  ##  South Korea
+302  ##  www.katc.com  ##  Louisiana, United States
+303  ##  maisglobosat.globo.com  ##  Brazil
+304  ##  www.bsu.edu  ##  Indiana, United States
+305  ##  sbsfune.sbs.co.kr  ##  South Korea
+306  ##  www.pts.org.tw  ##  Taiwan
+307  ##  www.raleighcw.com  ##  North Carolina, United States
+308  ##  www.cbs7.com  ##  Texas, United States
+309  ##  www.abcfoxmontana.com  ##  Montana, United States
+310  ##  www.ddindia.gov.in  ##  India
+311  ##  www.abudhabitv.ae  ##  United Arab Emirates
+312  ##  www.channelj.co.kr  ##  South Korea
+313  ##  www.thesportsmanchannel.com  ##  United States
+314  ##  www.eigeki.com  ##  Japan
+315  ##  www.rds.ca  ##  Canada
+316  ##  ystar.cu-media.co.kr  ##  South Korea
+317  ##  www.kfoxtv.com  ##  Texas, United States
+318  ##  canalmov.pt  ##  Portugal
+319  ##  www.tsn.ca  ##  Canada
+320  ##  www.paramountchannel.com.br  ##  United States, Brazil
+321  ##  www.melody.tv  ##  France
+322  ##  www.sonysix.com  ##  India
+323  ##  www.hdnetmovies.com  ##  United States
+324  ##  www.tkn.tv  ##  Illinois, United States
+325  ##  sport.tvp.pl  ##  Poland
+326  ##  www.trutv.com  ##  United States
+327  ##  www.universalchannel.pl  ##  United States, Poland
+328  ##  www.newsnet5.com  ##  Ohio, United States
+329  ##  www.khq.com  ##  Washington, United States
+330  ##  tristatehomepage.com  ##  Indiana, United States
+331  ##  www.lubbockcw.com  ##  Texas, United States
+332  ##  www.wlox.com  ##  Mississippi, United States
+333  ##  www.kntv.co.jp  ##  Japan
+334  ##  www.kesq.com  ##  California, United States
+335  ##  www.whdh.com  ##  Massachusetts, United States
+336  ##  www.face1.tv  ##  United Arab Emirates, Russia
+337  ##  www.science-et-vie.tv  ##  France
+338  ##  www.zjstv.com  ##  China
+339  ##  www.unicable.tv  ##  Mexico
+340  ##  www.wltx.com  ##  South Carolina, United States
+341  ##  www.wgrz.com  ##  New York, United States
+342  ##  sfltv.net  ##  Florida, United States
+343  ##  www.nbcconnecticut.com  ##  Connecticut, United States
+344  ##  www.myfoxboston.com  ##  Massachusetts, United States
+345  ##  www.ohotnikirybolov.tv  ##  Russia
+346  ##  www.dsmart.com.tr  ##  Turkey
+347  ##  www.ohk-tv.com  ##  United States, Singapore
+348  ##  www.tf1.fr  ##  France
+349  ##  www.seriesplus.com  ##  Canada
+350  ##  w.uktv.co.uk  ##  United Kingdom
+351  ##  www.wgem.com  ##  Illinois, United States
+352  ##  www.metvnetwork.com  ##  United States
+353  ##  www.n-tv.de  ##  Germany
+354  ##  univisionsacramento.univision.com  ##  California, United States
+355  ##  www.bbcnordic.com  ##  United Kingdom
+356  ##  www.canalcapital.gov.co  ##  Colombia
+357  ##  starsat.co.za  ##  China
+358  ##  www.nbc15.com  ##  Wisconsin, United States
+359  ##  www.igoshogi.com  ##  Japan
+360  ##  www.pioneer.org  ##  Minnesota, United States
+361  ##  www.cw21br.com  ##  Louisiana, United States
+362  ##  www.digtriad.com  ##  North Carolina, United States
+363  ##  www.aetn.org  ##  Arkansas, United States
+364  ##  www.zbc.co.zw  ##  Zimbabwe
+365  ##  www.eurosport.com  ##  France, Germany
+366  ##  www.polsatnews.pl  ##  Poland
+367  ##  www.sbs.com.au  ##  Australia
+368  ##  www.jxntv.cn  ##  China
+369  ##  zutv.ro  ##  Romania
+370  ##  www.tvbs.com.tw  ##  Taiwan
+371  ##  www.ky3.com  ##  Missouri, United States
+372  ##  www.animalplaneteurope.com  ##  United States, Russia
+373  ##  www.mbc-america.com  ##  South Korea, United States
+374  ##  www.mrtv4.com.mm  ##  Myanmar
+375  ##  www.wcov.com  ##  Alabama, United States
+376  ##  www.kvertv.com  ##  California, United States
+377  ##  www.fairchildtv.com  ##  Canada
+378  ##  www.nick.de  ##  United States, Germany
+379  ##  www.hbo.pl  ##  United States, Poland
+380  ##  combate.globo.com  ##  Brazil
+381  ##  www.siouxlandnews.com  ##  Iowa, United States
+382  ##  www.animalfamily.tv  ##  Russia
+383  ##  www.nollywoodtv.fr  ##  France
+384  ##  www.dcn.ae  ##  United Arab Emirates
+385  ##  www.myndytv.com  ##  Indiana, United States
+386  ##  www.abc22now.com  ##  Ohio, United States
+387  ##  www.foxsportsla.com  ##  United States
+388  ##  www.thefoxmoviechannel.com  ##  United States
+389  ##  www.skylife.co.kr  ##  South Korea
+390  ##  www.radioytvmexiquense.mx  ##  Mexico
+391  ##  losangeles.cbslocal.com  ##  California, United States
+392  ##  www.whbf.com  ##  Illinois, United States
+393  ##  www.wjhg.com  ##  Florida, United States
+394  ##  televisa-networks.com  ##  Mexico
+395  ##  www.centrictv.com  ##  United States
+396  ##  tv1.yle.fi  ##  Finland
+397  ##  www.ipmtv.tv  ##  Thailand
+398  ##  sanfrancisco.cbslocal.com  ##  California, United States
+399  ##  www.kinopokazhd1.tv  ##  Russia
+400  ##  m-net.dstv.com  ##  South Africa
+401  ##  onyxmovies.tv  ##  United Arab Emirates
+402  ##  www.kdlt.com  ##  South Dakota, United States
+403  ##  www.pbssocal.org  ##  California, United States
+404  ##  www.filmboxextra.pl  ##  United States
+405  ##  www.cw58.tv  ##  Tennessee, United States
+406  ##  www.localmemphis.com  ##  Tennessee, United States
+407  ##  www.kjct8.com  ##  Colorado, United States
+408  ##  www.wisn.com  ##  Wisconsin, United States
+409  ##  www.weartv.com  ##  Florida, United States
+410  ##  www.mcm.fr  ##  France
+411  ##  www.unctv.org  ##  North Carolina, United States
+412  ##  mywabashvalley.com  ##  Indiana, United States
+413  ##  www.daserste.de  ##  Germany
+414  ##  www.jn19television.com  ##  Peru
+415  ##  www.asianfoodchannel.com  ##  Singapore
+416  ##  www.hbocanada.com  ##  United States, Canada
+417  ##  www.cftf.ca  ##  Canada
+418  ##  www.enespanol.tudiscovery.com  ##  United States
+419  ##  www.kjrh.com  ##  Oklahoma, United States
+420  ##  www.setanta.ge  ##  Ireland, Georgia
+421  ##  www.cartoonnetwork.it  ##  United States, Italy
+422  ##  ckpg.com  ##  Canada
+423  ##  www.39online.com  ##  Texas, United States
+424  ##  www.tbc.co.kr  ##  South Korea
+425  ##  www.kfsm.com  ##  Arkansas, United States
+426  ##  www.kcra.com  ##  California, United States
+427  ##  www.wtva.com  ##  Mississippi, United States
+428  ##  www.kmbh.org  ##  Texas, United States
+429  ##  univisionatlanta.univision.com  ##  Georgia, United States
+430  ##  www.gemtvasia.com  ##  India
+431  ##  www.nationalgeographic.com.au  ##  United States, Australia, New Zealand
+432  ##  www.canalrcn.com  ##  Colombia
+433  ##  www.abcnewsone.tv  ##  United States
+434  ##  discoverymulher.uol.com.br  ##  United States, Brazil
+435  ##  www.bbc.com  ##  United Kingdom
+436  ##  www.trccampeche.gob.mx  ##  Mexico
+437  ##  www.wogx.com  ##  Florida, United States
+438  ##  www.14news.com  ##  Indiana, United States
+439  ##  vtv9.com.vn  ##  Vietnam
+440  ##  www.kadn.com  ##  Louisiana, United States
+441  ##  www.nrksuper.no  ##  Norway
+442  ##  th.beinsports.com  ##  Qatar, Thailand
+443  ##  www.hobbytv.bg  ##  Bulgaria
+444  ##  dajto.markiza.sk  ##  Slovakia
+445  ##  www.rtltvi.be  ##  Belgium
+446  ##  rmcdecouverte.bfmtv.com  ##  France
+447  ##  www.sport24-tv.com  ##  United Kingdom
+448  ##  zeenews.india.com  ##  India
+449  ##  www.wtoc.com  ##  Georgia, United States
+450  ##  www.wdaz.com  ##  North Dakota, United States
+451  ##  www.montanapbs.org  ##  Montana, United States
+452  ##  kitchener.ctvnews.ca  ##  Canada
+453  ##  www.my50.tv  ##  New Mexico, United States
+454  ##  www.wb49.net  ##  New York, United States
+455  ##  www.smc.ae  ##  United Arab Emirates
+456  ##  www.wilm-tv.com  ##  North Carolina, United States
+457  ##  g1.globo.com  ##  Brazil
+458  ##  www.wflx.com  ##  Florida, United States
+459  ##  www.cinemax.com  ##  United States
+460  ##  www.nasa.gov  ##  United States
+461  ##  www.recordbelem.com.br  ##  Brazil
+462  ##  www.hopechannel.ph  ##  United States, Philippines
+463  ##  www.foxme.tv  ##  United States
+464  ##  www.classica.de  ##  Germany
+465  ##  www.foxtv.no  ##  United States, Norway
+466  ##  www.tvarenasport.com  ##  Serbia, Croatia
+467  ##  tv.brtn.cn  ##  China
+468  ##  www.chillertv.com  ##  United States
+469  ##  interactive.wxxi.org  ##  New York, United States
+470  ##  www.netmedia.co.id  ##  Indonesia
+471  ##  www.epicchannel.com  ##  India
+472  ##  www.wqed.org  ##  Pennsylvania, United States
+473  ##  www.foxbaltimore.com  ##  Maryland, United States
+474  ##  www.kyma.com  ##  Arizona, United States
+475  ##  www.discoverychannel.se  ##  United States, Sweden
+476  ##  24kitchen.com.tr  ##  United States, Turkey
+477  ##  www.ksl.com  ##  Utah, United States
+478  ##  www.canalluz.org  ##  Argentina
+479  ##  www.disneyxd.nl  ##  United States, Netherlands
+480  ##  doc.rt.com  ##  Russia
+481  ##  www.addrama.ae  ##  United Arab Emirates
+482  ##  www.acmilan.com  ##  Italy
+483  ##  www.localnews8.com  ##  Idaho, United States
+484  ##  kcts9.org  ##  Washington, United States
+485  ##  www.toonamiasia.com  ##  United States
+486  ##  www.satv.tv  ##  Bangladesh
+487  ##  www.tnt.com.br  ##  United States, Brazil
+488  ##  www.wmcactionnews5.com  ##  Tennessee, United States
+489  ##  wtlw.com  ##  Ohio, United States
+490  ##  www.wwnytv.com  ##  New York, United States
+491  ##  www.es.tv  ##  United States
+492  ##  gemlife.tv  ##  United Arab Emirates
+493  ##  www.fxbrasil.com.br  ##  United States, Brazil
+494  ##  www.hustlerhd.com  ##  United States
+495  ##  rt.com  ##  Russia
+496  ##  www.rotana.net  ##  Saudi Arabia
+497  ##  www.bakersfieldnow.com  ##  California, United States
+498  ##  www.tfo.org  ##  Canada
+499  ##  www.tv3sport.dk  ##  Denmark
+500  ##  www.cnt.com.br  ##  Brazil
+501  ##  www.tv3.ir  ##  Iran
+502  ##  id.discoverybrasil.uol.com.br  ##  United States, Brazil
+503  ##  www.amitele.ca  ##  Canada
+504  ##  www.eutelsat.com  ##  France
+505  ##  www.hotstar.com  ##  India
+506  ##  www.tjk.org  ##  Turkey
+507  ##  www.tvlao.tv  ##  Laos
+508  ##  sgp.wakuwakujapan.tv  ##  Japan
+509  ##  www.cinestartvchannels.hr  ##  Croatia
+510  ##  www.nickelodeonarabia.com  ##  United States
+511  ##  www.gemonline.tv  ##  United Arab Emirates
+512  ##  www.fox43topeka.com  ##  Kansas, United States
+513  ##  www.bet.com  ##  United States
+514  ##  www.tvcine.pt  ##  Portugal
+515  ##  japan.discovery.com  ##  United States, Japan
+516  ##  www.prosieben.at  ##  Germany, Austria
+517  ##  max.iprima.cz  ##  Czechia
+518  ##  www.sinematv2.com.tr  ##  Turkey
+519  ##  dfw.cbslocal.com  ##  Texas, United States
+520  ##  www.paramountchannel.fr  ##  United States, France
+521  ##  premierefc.globo.com  ##  Brazil
+522  ##  www.fox30jax.com  ##  Florida, United States
+523  ##  www.va.gov  ##  United States
+524  ##  trace.tv  ##  France
+525  ##  www.disney.de  ##  United States, Germany
+526  ##  ottawa.ctvnews.ca  ##  Canada
+527  ##  id.beinsports.com  ##  Qatar, Indonesia
+528  ##  www.vh1la.com  ##  United States
+529  ##  www.protv.ro  ##  Romania
+530  ##  www.sbs6.nl  ##  Netherlands
+531  ##  www.sky-a.co.jp  ##  Japan
+532  ##  fanda.nova.cz  ##  Czechia
+533  ##  www.fm.tv  ##  United States
+534  ##  www.dorcel.tv  ##  Netherlands
+535  ##  www.wjbf.com  ##  Georgia, United States
+536  ##  www.kctv5.com  ##  Missouri, United States
+537  ##  kaernten.orf.at  ##  Austria
+538  ##  www.wgme.com  ##  Maine, United States
+539  ##  www.sjtv.com.tw  ##  Taiwan
+540  ##  www.clarochile.cl  ##  Chile
+541  ##  www.animalplanet.com.tw  ##  United States, Taiwan
+542  ##  www.davinci-learning.in  ##  Germany, India
+543  ##  www.ktxdtv.com  ##  Texas, United States
+544  ##  www.ouj.ac.jp  ##  Japan
+545  ##  www.sabc1.co.za  ##  South Africa
+546  ##  www.animalplanet.com  ##  United States, India
+547  ##  www.cbsfive.com  ##  Arizona, United States
+548  ##  www.golfchannel.com  ##  United States
+549  ##  www.wsiltv.com  ##  Illinois, United States
+550  ##  www.chrgd.ca  ##  United States, Canada
+551  ##  www.wswg.tv  ##  Georgia, United States
+552  ##  www.sembrandosatelital.com.ar  ##  Argentina
+553  ##  www.kaaltv.com  ##  Minnesota, United States
+554  ##  www.wmbb.com  ##  Florida, United States
+555  ##  rs.n1info.com  ##  Serbia
+556  ##  www.zoomoo.tv  ##  New Zealand
+557  ##  www.tvdmomo.com  ##  Thailand
+558  ##  rsu.tv  ##  Oklahoma, United States
+559  ##  www.klkntv.com  ##  Nebraska, United States
+560  ##  deportes.televisa.com  ##  Mexico
+561  ##  www.theqyou.com  ##  United States
+562  ##  www.band.uol.com.br  ##  Brazil
+563  ##  es.beinsports.com  ##  Qatar, Spain
+564  ##  www.ab1.tv  ##  France
+565  ##  www.daytime.discoveryfamilychannel.com  ##  United States
+566  ##  www.wiat.com  ##  Alabama, United States
+567  ##  www.myatltv.com  ##  Georgia, United States
+568  ##  www.waow.com  ##  Wisconsin, United States
+569  ##  www.kvue.com  ##  Texas, United States
+570  ##  www.sonychannel.de  ##  India, Germany
+571  ##  www.foodnetwork.ca  ##  United States, Canada
+572  ##  star.gdtv.cn  ##  China
+573  ##  fourstateshomepage.com  ##  Missouri, United States
+574  ##  www.wmur.com  ##  New Hampshire, United States
+575  ##  www.axn.co.jp  ##  United States, Japan
+576  ##  k3colorado.com  ##  Colorado, United States
+577  ##  www.shopch.jp  ##  Japan
+578  ##  www.recordgoias.com.br  ##  Brazil
+579  ##  www.amctv.la  ##  United States
+580  ##  www.foxsportswisconsin.com  ##  United States
+581  ##  www.estrellatv.com  ##  Texas, United States
+582  ##  nowtv.now.com  ##  Hong Kong
+583  ##  foxcrime.foxchannels.rs  ##  United States, Serbia
+584  ##  www.smithsonianchannel.ca  ##  United States, Canada
+585  ##  www.stingray.com  ##  Canada
+586  ##  www.nbc13.com  ##  Alabama, United States
+587  ##  www.elevensports.pl  ##  United Kingdom, Poland
+588  ##  mlb.mlb.com  ##  United States
+589  ##  www.kail.tv  ##  California, United States
+590  ##  www.teletoonplus.pl  ##  France, Poland
+591  ##  wvut.org  ##  Indiana, United States
+592  ##  setantaeurasiaplus.com  ##  Ireland
+593  ##  www.animaxhd-tw.com  ##  Japan, Taiwan
+594  ##  www.13emerueuniversal.fr  ##  United States, France
+595  ##  www.ksps.org  ##  Washington, United States
+596  ##  www.12newsnow.com  ##  Texas, United States
+597  ##  www.ksby.com  ##  California, United States
+598  ##  www.tvwfdc.com  ##  Virginia, United States
+599  ##  elevensportsnetwork.pl  ##  United Kingdom, Poland
+600  ##  www.whnt.com  ##  Alabama, United States
+601  ##  www.starsxxx.com  ##  Netherlands
+602  ##  www.myfoxdetroit.com  ##  Michigan, United States
+603  ##  www.discoveryfamilia.com  ##  United States
+604  ##  www.wdio.com  ##  Minnesota, United States
+605  ##  www.bibeltv.de  ##  Germany
+606  ##  alibi.uktv.co.uk  ##  United Kingdom
+607  ##  cbs4indy.com  ##  Indiana, United States
+608  ##  www.tvland.com  ##  United States
+609  ##  www.cwreno.com  ##  Nevada, United States
+610  ##  www.rte.ie  ##  Ireland
+611  ##  www.dishhdasia.com  ##  Taiwan
+612  ##  www.rfdtv.com  ##  United States
+613  ##  www.mavtv.com  ##  United States
+614  ##  www.chelseafc.com  ##  United Kingdom
+615  ##  www.juwelo.de  ##  Germany
+616  ##  www.jejumbc.com  ##  South Korea
+617  ##  www.uk.tlc.com  ##  United States, United Kingdom
+618  ##  www.gamefy.cn  ##  China
+619  ##  www.wsaw.com  ##  Wisconsin, United States
+620  ##  www.lifetimeasia.com  ##  United States, Philippines
+621  ##  www.viasat-channels.tv  ##  Sweden
+622  ##  tv.om  ##  Oman
+623  ##  www.bbcsouthafrica.com  ##  United Kingdom, South Africa
+624  ##  tvklan.al  ##  Albania
+625  ##  www.homedrama-ch.com  ##  Japan
+626  ##  www.anvien.vn  ##  Vietnam
+627  ##  www.kwtx.com  ##  Texas, United States
+628  ##  www.myzone.tv  ##  Connecticut, United States
+629  ##  www.senalcolombia.tv  ##  Colombia
+630  ##  www.lifedesigntv.com  ##  Colombia
+631  ##  www.winknews.com  ##  Florida, United States
+632  ##  www.hboasia.com  ##  United States
+633  ##  www.jsports.co.jp  ##  Japan
+634  ##  www.cc.com  ##  United States
+635  ##  iontelevision.com  ##  Texas, United States
+636  ##  www.aniboxtv.com  ##  South Korea
+637  ##  www.kdrv.com  ##  Oregon, United States
+638  ##  www.wdrb.com  ##  Kentucky, United States
+639  ##  www.kkfx.com  ##  California, United States
+640  ##  www.koco.com  ##  Oklahoma, United States
+641  ##  www.nick.co.uk  ##  United States
+642  ##  www.u.tv  ##  United Kingdom
+643  ##  www.tv3.ie  ##  Ireland
+644  ##  www.rai5.rai.it  ##  Italy
+645  ##  www.krextv.com  ##  Colorado, United States
+646  ##  univision14.univision.com  ##  California, United States
+647  ##  www.ct.com  ##  Connecticut, United States
+648  ##  www.foxnebraska.com  ##  Nebraska, United States
+649  ##  www.skynetdth.com  ##  Myanmar
+650  ##  www.wfsb.com  ##  Connecticut, United States
+651  ##  www.tvjapan.net  ##  United States, Japan
+652  ##  www.cartoonnetwork.co.uk  ##  United States, United Kingdom
+653  ##  www.beinsports.com  ##  Qatar, France
+654  ##  www.abcactionnews.com  ##  Florida, United States
+655  ##  espn.go.com  ##  United States
+656  ##  www.teletoonplus.fr  ##  France
+657  ##  www.animauxtv.fr  ##  France
+658  ##  www.whdt.net  ##  Florida, United States
+659  ##  cwpittsburgh.cbslocal.com  ##  Pennsylvania, United States
+660  ##  www.wrdw.com  ##  Georgia, United States
+661  ##  www.asongatv.com  ##  Equatorial Guinea
+662  ##  www.startimes.com.ng  ##  China
+663  ##  www.teennick.com  ##  United States
+664  ##  www.thaich8.com  ##  Thailand
+665  ##  www.hboplus-br.tv  ##  United States, Brazil
+666  ##  www.colorskannada.com  ##  India
+667  ##  www.sfrsport2.com  ##  France
+668  ##  jojfamily.blesk.cz  ##  Slovakia
+669  ##  www.wrcbtv.com  ##  Tennessee, United States
+670  ##  www.igtv.co.kr  ##  South Korea
+671  ##  www.thenewscenter.tv  ##  West Virginia, United States
+672  ##  music.truelife.com  ##  Thailand
+673  ##  www.13.cl  ##  Chile
+674  ##  www.foodnetworktv.com  ##  United States
+675  ##  www.uktv.com.au  ##  United Kingdom, Australia
+676  ##  www.krdotv.com  ##  Colorado, United States
+677  ##  www.kued.org  ##  Utah, United States
+678  ##  www.myfoxaustin.com  ##  Texas, United States
+679  ##  www.telemundoareadelabahia.com  ##  California, United States
+680  ##  www.disneylatino.com  ##  United States
+681  ##  wabi.tv  ##  Maine, United States
+682  ##  www.televisa.com  ##  Mexico
+683  ##  tv.edaily.co.kr  ##  South Korea
+684  ##  www.fox48tv.com  ##  Mississippi, United States
+685  ##  www.kgns.tv  ##  Texas, United States
+686  ##  www.fox33.com  ##  Michigan, United States
+687  ##  www.alfallujah.tv  ##  Iraq
+688  ##  www.discoveryvelocity.ca  ##  United States, Canada
+689  ##  www.aniplustv.com  ##  South Korea
+690  ##  wtnh.com  ##  Connecticut, United States
+691  ##  www.foxrio2.com  ##  Texas, United States
+692  ##  www.lorry.dk  ##  Denmark
+693  ##  www.viasat.fi  ##  Sweden, Finland
+694  ##  planeta.tv  ##  Bulgaria
+695  ##  www.wfla.com  ##  Florida, United States
+696  ##  www.cbcsport.tv  ##  Azerbaijan
+697  ##  ideastations.org  ##  Virginia, United States
+698  ##  univisionhouston.univision.com  ##  Texas, United States
+699  ##  www.wbko.com  ##  Kentucky, United States
+700  ##  tv.etomato.com  ##  South Korea
+701  ##  www.ksbw.com  ##  California, United States
+702  ##  www.coloradoconnection.com  ##  Colorado, United States
+703  ##  www.kswo.com  ##  Oklahoma, United States
+704  ##  www.canvas.be  ##  Belgium
+705  ##  www.wtvq.com  ##  Kentucky, United States
+706  ##  www.hboplus-la.tv  ##  United States
+707  ##  www.foxsports.com.br  ##  United States, Brazil
+708  ##  www.kristv.com  ##  Texas, United States
+709  ##  www.koamtv.com  ##  Kansas, United States
+710  ##  www.kanal7.com  ##  Turkey
+711  ##  www.lasposatv.it  ##  Italy
+712  ##  www.setxhomepage.com  ##  Texas, United States
+713  ##  www.tvcnetworks.mx  ##  Mexico
+714  ##  www.star-ch.jp  ##  Japan
+715  ##  www.numberoneturk.com.tr  ##  Turkey
+716  ##  www.redengt.com.br  ##  Brazil
+717  ##  www.hr-fernsehen.de  ##  Germany
+718  ##  id.tudiscovery.com  ##  United States
+719  ##  kpnz24.tv  ##  Utah, United States
+720  ##  www.cartoonnetworkla.com  ##  United States
+721  ##  www.viceland.com  ##  United States
+722  ##  www.tvn24.pl  ##  Poland
+723  ##  www.fox8live.com  ##  Louisiana, United States
+724  ##  www.myfoxzone.com  ##  Texas, United States
+725  ##  pilipinashd.com  ##  Philippines
+726  ##  www.chch.com  ##  Canada
+727  ##  www.mpbn.net  ##  Maine, United States
+728  ##  discoverychannel.com.tw  ##  United States, Taiwan
+729  ##  www.forevergroup.com.mm  ##  Myanmar
+730  ##  www.discoverychannel.com.tr  ##  United States, Turkey
+731  ##  www.sindagmp.com.tw  ##  Taiwan
+732  ##  www.tnt-tv.pl  ##  United States, Poland
+733  ##  www.myfoxyakima.com  ##  Washington, United States
+734  ##  www.cbssportsnetwork.com  ##  United States, Canada
+735  ##  kgebamerica.com  ##  Oklahoma, United States
+736  ##  www.liquidationchannel.com  ##  United States
+737  ##  www.tudiscoverykids.com  ##  United States
+738  ##  www.srf.ch  ##  Switzerland
+739  ##  www.fightbox.com  ##  United States
+740  ##  waarmedia.com  ##  Iraq
+741  ##  www.axntv.co.kr  ##  United States, South Korea
+742  ##  www.wchstv.com  ##  West Virginia, United States
+743  ##  www.miniminiplus.pl  ##  Poland
+744  ##  www.kktv.com  ##  Colorado, United States
+745  ##  www.kawaiian.tv  ##  Japan
+746  ##  www.obsw.co.kr  ##  South Korea
+747  ##  mzansimagic.dstv.com  ##  South Africa
+748  ##  www.fox50.com  ##  North Carolina, United States
+749  ##  hola.tv  ##  Spain
+750  ##  www.assembly.go.kr  ##  South Korea
+751  ##  pages.skytv.co.nz  ##  New Zealand
+752  ##  www.wtjr.org  ##  Illinois, United States
+753  ##  www.omnitv.ca  ##  Canada
+754  ##  canalf1latinamerica.com  ##  Spain
+755  ##  www.fox21delmarva.com  ##  Maryland, United States
+756  ##  www.kget.com  ##  California, United States
+757  ##  www.itvnewsindia.com  ##  India
+758  ##  www.myfoxatlanta.com  ##  Georgia, United States
+759  ##  www.bolnetwork.com  ##  Pakistan
+760  ##  www.kbsi23.com  ##  Missouri, United States
+761  ##  www.cwlouisville.com  ##  Kentucky, United States
+762  ##  www.mega.tv  ##  United States
+763  ##  myfox8.com  ##  North Carolina, United States
+764  ##  www.evine.com  ##  United States
+765  ##  www.clickorlando.com  ##  Florida, United States
+766  ##  www.wlov.com  ##  Mississippi, United States
+767  ##  www.sport2.co.il  ##  Israel
+768  ##  www.citltv.ca  ##  Canada
+769  ##  www.kirotv.com  ##  Washington, United States
+770  ##  www.slice.ca  ##  Canada
+771  ##  www.wowktv.com  ##  West Virginia, United States
+772  ##  www.bluehighwaystv.com  ##  United States
+773  ##  www.filmfour.com  ##  United Kingdom
+774  ##  www.tpt.org  ##  Minnesota, United States
+775  ##  www.wfgxtv.com  ##  Florida, United States
+776  ##  www.mtv.ru  ##  United States, Russia
+777  ##  www.fictw.com  ##  Hong Kong
+778  ##  tv.recordjp.com  ##  Brazil, Japan
+779  ##  tv.lovenature.com  ##  Canada
+780  ##  www.clickondetroit.com  ##  Michigan, United States
+781  ##  www.nhkworldpremium.com  ##  Japan
+782  ##  www.adsports.ae  ##  United Arab Emirates
+783  ##  www.elnettv.com  ##  Indonesia
+784  ##  www.9and10news.com  ##  Michigan, United States
+785  ##  www.wsoctv.com  ##  North Carolina, United States
+786  ##  www.hbo.ro  ##  United States, Romania
+787  ##  www.tbn.org  ##  United States
+788  ##  www.epix.com  ##  United States
+789  ##  www.serieclub.fr  ##  France
+790  ##  www.cz.filmboxextra.pl  ##  United States, Czechia
+791  ##  www.animalplanetlatino.com  ##  United States
+792  ##  www.univision.com  ##  United States
+793  ##  www.ringtv.sk  ##  Slovakia
+794  ##  www.discoveryuk.com  ##  United States, United Kingdom
+795  ##  www.movieplus.jp  ##  Japan
+796  ##  www.villagecinemas.gr  ##  Greece
+797  ##  www.valleypbs.org  ##  California, United States
+798  ##  detroit.cbslocal.com  ##  Michigan, United States
+799  ##  www.colorsbangla.com  ##  India
+800  ##  www.wifr.com  ##  Illinois, United States
+801  ##  uc.globo.com  ##  United States, Brazil
+802  ##  www.wxyz.com  ##  Michigan, United States
+803  ##  www.yourcwtv.com  ##  Mississippi, United States
+804  ##  www.wbgu.org  ##  Ohio, United States
+805  ##  www.iptv.org  ##  Iowa, United States
+806  ##  www.comedycentral.tv  ##  United States, Germany
+807  ##  www.ktul.com  ##  Oklahoma, United States
+808  ##  www.kabeleins.at  ##  Germany, Austria
+809  ##  www.kaet.asu.edu  ##  Arizona, United States
+810  ##  www.sundancetvglobal.com  ##  United States
+811  ##  tvp2.tvp.pl  ##  Poland
+812  ##  www.kob.com  ##  New Mexico, United States
+813  ##  www.awetv.com  ##  United States
+814  ##  www.mediaspar.tv  ##  Germany
+815  ##  www.plus.es  ##  Spain
+816  ##  www.m-on.jp  ##  Japan
+817  ##  www.myfox28columbus.com  ##  Ohio, United States
+818  ##  www.amctv.pt  ##  United States, Portugal
+819  ##  www.joj.sk  ##  Slovakia
+820  ##  www.mynetworktv.com  ##  Texas, United States
+821  ##  www.lequipe.fr  ##  France
+822  ##  www.kionrightnow.com  ##  California, United States
+823  ##  www.wwlp.com  ##  Massachusetts, United States
+824  ##  www.my9nj.com  ##  New Jersey, United States
+825  ##  www.colorsinfinity.com  ##  India
+826  ##  www.voxtv.no  ##  Norway
+827  ##  www.thinktv.org  ##  Ohio, United States
+828  ##  www.citvasia.com  ##  United States
+829  ##  www.telemundodenver.com  ##  Colorado, United States
+830  ##  lci.tf1.fr  ##  France
+831  ##  www.foxsoccerplus.com  ##  United States
+832  ##  www.kdlh.com  ##  Minnesota, United States
+833  ##  www.sport.ro  ##  Romania
+834  ##  www.carolinalive.com  ##  South Carolina, United States
+835  ##  www.news24.jp  ##  Japan
+836  ##  us.azteca.com  ##  Mexico, United States
+837  ##  yourerie.com  ##  Pennsylvania, United States
+838  ##  vorarlberg.orf.at  ##  Austria
+839  ##  kcvufox20.com  ##  California, United States
+840  ##  www.sinematvaile.com.tr  ##  Turkey
+841  ##  www.foxcomedy.it  ##  United States, Italy
+842  ##  www.wncn.com  ##  North Carolina, United States
+843  ##  www.etno.ro  ##  Romania
+844  ##  www.trt1.com.tr  ##  Turkey
+845  ##  www.foxlife.com.tr  ##  United States, Turkey
+846  ##  www.fox26medford.com  ##  Oregon, United States
+847  ##  www.foxlife.rs  ##  United States, Serbia
+848  ##  www.syfy.co.uk  ##  United States, United Kingdom
+849  ##  deportes.univision.com  ##  United States
+850  ##  www.amctv.co.uk  ##  United States, United Kingdom
+851  ##  www.familynet.com  ##  United States
+852  ##  www.click2houston.com  ##  Texas, United States
+853  ##  geokahani.tv  ##  Pakistan
+854  ##  www.getsecnetwork.com  ##  United States
+855  ##  www.dreamcast.co.id  ##  Indonesia
+856  ##  www.lakeshoreptv.com  ##  Indiana, United States
+857  ##  www.mbcplus.com  ##  South Korea
+858  ##  www.zeestudio.tv  ##  India
+859  ##  www.wsbt.com  ##  Indiana, United States
+860  ##  www.dhakabangla.com  ##  Bangladesh
+861  ##  www.spektrumtv.hu  ##  Hungary
+862  ##  www.telecinco.es  ##  Spain
+863  ##  www.tele5.de  ##  Germany
+864  ##  www.wgcbtv.com  ##  Pennsylvania, United States
+865  ##  hihd.pts.org.tw  ##  Taiwan
+866  ##  exxxtasy.com  ##  Canada
+867  ##  www.wsls.com  ##  Virginia, United States
+868  ##  www.wbintv.com  ##  New Hampshire, United States
+869  ##  www.lptv.org  ##  Minnesota, United States
+870  ##  www.nickelodeon.fr  ##  United States, France
+871  ##  www.asianet.co.in  ##  India
+872  ##  www.kboi2.com  ##  Idaho, United States
+873  ##  www.kansasfirstnews.com  ##  Kansas, United States
+874  ##  antenastars.ro  ##  Romania
+875  ##  www.eiplus.com.br  ##  Brazil
+876  ##  www.wfwa.org  ##  Indiana, United States
+877  ##  www.cartoonnetwork.com.ph  ##  United States, Philippines
+878  ##  www.kshb.com  ##  Kansas, United States
+879  ##  www.jilintv.cn  ##  China
+880  ##  tv.disney.fr  ##  United States, France
+881  ##  ici.artv.ca  ##  Canada
+882  ##  www.newschannel34.com  ##  New York, United States
+883  ##  www.diynet.com  ##  United States
+884  ##  www.recordrio.com.br  ##  Brazil
+885  ##  www.spiegelwissen.tv  ##  Germany
+886  ##  www.tntdrama.com  ##  United States
+887  ##  balapan.kaztrk.kz  ##  Kazakhstan
+888  ##  ntv.ca  ##  Canada
+889  ##  www.keyc.com  ##  Minnesota, United States
+890  ##  www.bs11.jp  ##  Japan
+891  ##  www.wucftv.org  ##  Florida, United States
+892  ##  www.qvc.fr  ##  United States, France
+893  ##  www.sport1tv.cz  ##  Hungary, Czechia
+894  ##  tvpuls.pl  ##  Poland
+895  ##  tv.echoroukonline.com  ##  Algeria
+896  ##  www.rtve.es  ##  Spain
+897  ##  tv.nova.cz  ##  Czechia
+898  ##  bridgetv.ru  ##  Russia
+899  ##  www.casatv.ca  ##  Canada
+900  ##  www.azamtv.com  ##  Tanzania
+901  ##  cdn.alkass.net  ##  Qatar
+902  ##  abc7amarillo.com  ##  Texas, United States
+903  ##  www.media.gov.kw  ##  Kuwait
+904  ##  www.abc32.com  ##  Alabama, United States
+905  ##  www.thebakersfieldchannel.com  ##  California, United States
+906  ##  www.fox44.com  ##  Louisiana, United States
+907  ##  www.sho.com  ##  United States
+908  ##  kube57.com  ##  Texas, United States
+909  ##  foxlife.canais-fox.pt  ##  United States, Portugal
+910  ##  www.kten.com  ##  Oklahoma, United States
+911  ##  www.tv4.pl  ##  Poland
+912  ##  www.foxkrbk.com  ##  Missouri, United States
+913  ##  datv.jp  ##  Japan
+914  ##  www.wpsdlocal6.com  ##  Kentucky, United States
+915  ##  www.puls4.com  ##  Austria
+916  ##  www.asiadigital.com.tw  ##  Taiwan
+917  ##  www.wcmu.org  ##  Michigan, United States
+918  ##  www.destinationamerica.com  ##  United States
+919  ##  www.telemundo52.com  ##  California, United States
+920  ##  www.axn.de  ##  United States, Germany
+921  ##  www.wsfa.com  ##  Alabama, United States
+922  ##  www.aljazeera.net  ##  Qatar
+923  ##  www.tcmuk.tv  ##  United States, United Kingdom
+924  ##  amediahd.ru  ##  Russia
+925  ##  www.kvie.org  ##  California, United States
+926  ##  www.kfyrtv.com  ##  North Dakota, United States
+927  ##  www.redlight.tv  ##  Netherlands
+928  ##  www.kpbs.org  ##  California, United States
+929  ##  www.whiznews.com  ##  Ohio, United States
+930  ##  nicktoons.nick.com  ##  United States
+931  ##  japan.videoland.com.tw  ##  Taiwan
+932  ##  www.unitelclassica.com  ##  Germany
+933  ##  bigcountryhomepage.com  ##  Texas, United States
+934  ##  www.usanetwork.com  ##  United States
+935  ##  www.hdlife.ru  ##  Russia
+936  ##  www.toledoonthemove.com  ##  Ohio, United States
+937  ##  www.amctv.com.br  ##  United States, Brazil
+938  ##  wishtv.com  ##  Indiana, United States
+939  ##  www.dorceltv.com  ##  Netherlands
+940  ##  www.gamberorosso.it  ##  Italy
+941  ##  www.aptn.ca  ##  Canada
+942  ##  boston.cbslocal.com  ##  Massachusetts, United States
+943  ##  www.comedieplus.fr  ##  France
+944  ##  www.wpbf.com  ##  Florida, United States
+945  ##  www.infowars.com  ##  United States
+946  ##  www.carolinascw.com  ##  South Carolina, United States
+947  ##  www.oann.com  ##  United States
+948  ##  www.kdbc.com  ##  Texas, United States
+949  ##  disneychannel.disney.go.com  ##  United States
+950  ##  www.supersport.al  ##  Albania
+951  ##  www.zingtv.in  ##  India
+952  ##  www3.nhk.or.jp  ##  Japan
+953  ##  www.komu.com  ##  Missouri, United States
+954  ##  www.mytvwichita.com  ##  Kansas, United States
+955  ##  www.nickelodeonjunior.fr  ##  United States, France
+956  ##  www.kmys.tv  ##  Texas, United States
+957  ##  www.wboc.com  ##  Maryland, United States
+958  ##  www.koaa.com  ##  Colorado, United States
+959  ##  www.man-x.tv  ##  Belgium
+960  ##  www.wbnx.com  ##  Ohio, United States
+961  ##  www.kusi.com  ##  California, United States
+962  ##  www.fox5vegas.com  ##  Nevada, United States
+963  ##  www.pxtv.tv  ##  Mexico
+964  ##  www.pnn.com.kh  ##  Cambodia
+965  ##  www.newswest9.com  ##  Texas, United States
+966  ##  www.bloomberg.com  ##  United States
+967  ##  arkansasmatters.com  ##  Arkansas, United States
+968  ##  whatson.astro.com.my  ##  Malaysia
+969  ##  www.goasean.com  ##  Malaysia
+970  ##  www.lifetimetv.co.uk  ##  United States, United Kingdom
+971  ##  www.tvnet.com.tr  ##  Turkey
+972  ##  www.ifctv.com  ##  United States
+973  ##  www.hawaiinewsnow.com  ##  Hawaii, United States
+974  ##  www.treehousetv.com  ##  Canada
+975  ##  www.stadafric.com  ##  France
+976  ##  youtooamerica.com  ##  United States
+977  ##  lasvegas.thistv.com  ##  Nevada, United States
+978  ##  www.wuft.tv  ##  Florida, United States
+979  ##  www.cartoonnetwork.fr  ##  United States, France
+980  ##  www.kscetv.com  ##  Texas, United States
+981  ##  www.domkino-premium.tv  ##  Russia
+982  ##  www.beartoothnbc.com  ##  Montana, United States
+983  ##  www.sunnatv.sa  ##  Saudi Arabia
+984  ##  www.mtn.co.kr  ##  South Korea
+985  ##  www.hkatv.com  ##  Hong Kong
+986  ##  www.newschannel5.com  ##  Tennessee, United States
+987  ##  www.thedenverchannel.com  ##  Colorado, United States
+988  ##  www.tg4.ie  ##  Ireland
+989  ##  www.tv2.no  ##  Norway
+990  ##  www.cnn.com  ##  United States
+991  ##  www.numero23.fr  ##  France
+992  ##  www.mundonick.com  ##  United States
+993  ##  baltimore.cbslocal.com  ##  Maryland, United States
+994  ##  www.cwrichmond.tv  ##  Virginia, United States
+995  ##  www.cartoonnetwork.com  ##  United States
+996  ##  quochoi.org  ##  Vietnam
+997  ##  www.rtl8.nl  ##  Netherlands
+998  ##  web.yesnetwork.com  ##  United States
+999  ##  www.comedycentral.es  ##  United States, Spain
+1000  ##  www.nbcmontana.com  ##  Montana, United States
+1001  ##  www.vier.be  ##  Belgium
+1002  ##  www.kiem-tv.com  ##  California, United States
+1003  ##  life.ru  ##  Russia
+1004  ##  www.kcet.org  ##  California, United States
+1005  ##  www.tv6.se  ##  Sweden
+1006  ##  www.mtv.co.uk  ##  United States, United Kingdom
+1007  ##  www.docuboxlive.com  ##  United States
+1008  ##  sportklub.rs  ##  Hungary, Serbia
+1009  ##  www.knoe.com  ##  Louisiana, United States
+1010  ##  www.thecwaustin.com  ##  Texas, United States
+1011  ##  www.wicd15.com  ##  Illinois, United States
+1012  ##  www.tatasky.com  ##  India
+1013  ##  cwtampa.cbslocal.com  ##  Florida, United States
+1014  ##  inspaffiliate.com  ##  United States
+1015  ##  tplusa.ru  ##  United States, Russia
+1016  ##  www.canalhollywood.es  ##  Spain, Portugal
+1017  ##  www.gpb.org  ##  Georgia, United States
+1018  ##  www.swrfernsehen.de  ##  Germany
+1019  ##  mapleleafs.nhl.com  ##  Canada
+1020  ##  www.sky.com  ##  United Kingdom
+1021  ##  www.raipremium.rai.it  ##  Italy
+1022  ##  www.nbcphiladelphia.com  ##  Pennsylvania, United States
+1023  ##  www.fidotvchannel.com  ##  United States
+1024  ##  www.eqtisadiyatv.sa  ##  Saudi Arabia
+1025  ##  www.katv.com  ##  Arkansas, United States
+1026  ##  www.film1.nl  ##  Netherlands
+1027  ##  www.foxchannels.rs  ##  United States, Serbia
+1028  ##  www.ntv.ru  ##  Russia
+1029  ##  www.tlcindia.co.in  ##  United States, India
+1030  ##  www.natgeowild.de  ##  United States, Germany
+1031  ##  www.cmusic.tv  ##  United Kingdom
+1032  ##  www.kanal4.dk  ##  Denmark
+1033  ##  www.htv.com.vn  ##  Vietnam
+1034  ##  www.kurdistan24.net  ##  Iraq
+1035  ##  www.fatafeat.com  ##  Egypt, United Arab Emirates
+1036  ##  www.ichannela.com  ##  South Korea
+1037  ##  kunptv.com  ##  Oregon, United States
+1038  ##  www.kare11.com  ##  Minnesota, United States
+1039  ##  www.telemundo.com  ##  United States
+1040  ##  www.onzeo.fr  ##  France
+1041  ##  www.nick.co.kr  ##  United States, South Korea
+1042  ##  www.supertennis.tv  ##  Italy
+1043  ##  www.khon2.com  ##  Hawaii, United States
+1044  ##  fusion.net  ##  United States
+1045  ##  www.13wham.com  ##  New York, United States
+1046  ##  www.webcenter11.com  ##  Alaska, United States
+1047  ##  www.cstar.fr  ##  France
+1048  ##  matchtv.ru  ##  Russia
+1049  ##  kunstv.com  ##  Washington, United States
+1050  ##  www.knvn.com  ##  California, United States
+1051  ##  www.fxnowcanada.ca  ##  United States, Canada
+1052  ##  www2.wspa.com  ##  South Carolina, United States
+1053  ##  intinetwork.tv  ##  Ecuador
+1054  ##  beta.lpb.org  ##  Louisiana, United States
+1055  ##  science.ytn.co.kr  ##  South Korea
+1056  ##  www.ctv8.com.kh  ##  Cambodia
+1057  ##  www.fxtv.com.tr  ##  United States, Turkey
+1058  ##  www.digisport.ro  ##  Romania, Hungary
+1059  ##  www.nbc11.com  ##  California, United States
+1060  ##  www.abs-cbn.com  ##  Philippines
+1061  ##  us.shorts.tv  ##  United Kingdom, United States
+1062  ##  www.moneycontrol.com  ##  United States, India
+1063  ##  www.elfinanciero.com.mx  ##  Mexico
+1064  ##  will.illinois.edu  ##  Illinois, United States
+1065  ##  www.wxvt.com  ##  Mississippi, United States
+1066  ##  www.kacv.org  ##  Texas, United States
+1067  ##  www.kgwn.tv  ##  Wyoming, United States
+1068  ##  www.discoverychannel.co.uk  ##  United States
+1069  ##  www.sundancechannelasia.com  ##  United States
+1070  ##  www.angeltv.org  ##  India
+1071  ##  www.fox47kxlt.com  ##  Minnesota, United States
+1072  ##  www.set-russia.com  ##  India, Russia
+1073  ##  www.cmore.dk  ##  Sweden, Denmark
+1074  ##  www.kpax.com  ##  Montana, United States
+1075  ##  www.bindass.com  ##  India
+1076  ##  www.myfoxwausau.com  ##  Wisconsin, United States
+1077  ##  www.twcdeportes.com  ##  United States
+1078  ##  www.canalplus-afrique.com  ##  France
+1079  ##  www.cetconnect.org  ##  Ohio, United States
+1080  ##  www.psichannel.com  ##  Thailand
+1081  ##  www.girondinstv.com  ##  France
+1082  ##  www.waff.com  ##  Alabama, United States
+1083  ##  www.imtcast.com  ##  South Korea
+1084  ##  www.kuqitv.com  ##  Texas, United States
+1085  ##  www.fightnetwork.it  ##  Canada, Italy
+1086  ##  www.kdsm17.com  ##  Iowa, United States
+1087  ##  www.cw5va.com  ##  Virginia, United States
+1088  ##  www.studiouniversal.com  ##  United States
+1089  ##  www.nbn.com.lb  ##  Lebanon
+1090  ##  www.wdr.de  ##  Germany
+1091  ##  www.telemundodallas.com  ##  Texas, United States
+1092  ##  www.recordhdtv.com.br  ##  Brazil
+1093  ##  www.c-span.org  ##  United States
+1094  ##  www.sunnetwork.in  ##  India
+1095  ##  www.westernreservepublicmedia.org  ##  Ohio, United States
+1096  ##  www.supertv2.hu  ##  Hungary
+1097  ##  www.nineentertainment.com.au  ##  Australia
+1098  ##  www.willow.tv  ##  United States
+1099  ##  www.canaldhe.com  ##  United States
+1100  ##  www.fox4now.com  ##  Florida, United States
+1101  ##  yourcwtv.com  ##  Idaho, United States
+1102  ##  www.astro.com.my  ##  Malaysia
+1103  ##  www.tlctv.de  ##  United States, Germany
+1104  ##  www.filtv.tv  ##  Turkey
+1105  ##  www.fuel.tv  ##  United States
+1106  ##  www.csnchicago.com  ##  United States
+1107  ##  fox43.com  ##  Pennsylvania, United States
+1108  ##  chau.teleinterrives.com  ##  Canada
+1109  ##  www.piwi.tv  ##  France
+1110  ##  www.onbadook.com  ##  South Korea
+1111  ##  www.bbcamerica.com  ##  United Kingdom, United States
+1112  ##  saskatoon.ctvnews.ca  ##  Canada
+1113  ##  www.conocemexico.tv  ##  Mexico
+1114  ##  www.foxtv.it  ##  United States, Italy
+1115  ##  a1.ro  ##  Romania
+1116  ##  www.koat.com  ##  New Mexico, United States
+1117  ##  fox6now.com  ##  Wisconsin, United States
+1118  ##  www.kimatv.com  ##  Washington, United States
+1119  ##  hboasia.com  ##  United States
+1120  ##  www.animax-asia.com  ##  Japan
+1121  ##  tv.milenio.com  ##  Mexico
+1122  ##  www.thecwprov.com  ##  Rhode Island, United States
+1123  ##  www.cbsnews.com  ##  Illinois, United States
+1124  ##  www.newschannel9.com  ##  Tennessee, United States
+1125  ##  www.om.net  ##  France
+1126  ##  www.myzen.tv  ##  France
+1127  ##  www.telecanal.cl  ##  Chile
+1128  ##  www.m6boutique.com  ##  France
+1129  ##  www.cksatv.ca  ##  Canada
+1130  ##  www.pokercentral.com  ##  United States
+1131  ##  tvglobointernacional.globo.com  ##  Brazil, Japan
+1132  ##  www.amctv.pl  ##  United States, Poland
+1133  ##  www.kbtc.org  ##  Washington, United States
+1134  ##  phtv.ifeng.com  ##  Hong Kong
+1135  ##  www.mondotv.jp  ##  Japan
+1136  ##  www.citv.it  ##  United States, Italy
+1137  ##  www.tv4sport.se  ##  Sweden
+1138  ##  golfchannel.co.th  ##  United States, Thailand
+1139  ##  www.ktuu.com  ##  Alaska, United States
+1140  ##  www.sportstimeohio.com  ##  United States
+1141  ##  www.fashiontv.com  ##  France, Russia
+1142  ##  www.wvpt.net  ##  Virginia, United States
+1143  ##  www.zap.co.ao  ##  Angola
+1144  ##  mirhd.ru  ##  Russia
+1145  ##  kdvr.com  ##  Colorado, United States
+1146  ##  www.jeitv.com  ##  South Korea
+1147  ##  www.cartoonnetwork.com.mx  ##  United States, Mexico
+1148  ##  www.tv3.dk  ##  Denmark
+1149  ##  www.foodnetwork.ru  ##  United States, Russia
+1150  ##  www.tv-asahi.co.jp  ##  Japan
+1151  ##  www.myrdctv.com  ##  North Carolina, United States
+1152  ##  www.krtv.com  ##  Montana, United States
+1153  ##  www.abcnews4.com  ##  South Carolina, United States
+1154  ##  conchovalleyhomepage.com  ##  Texas, United States
+1155  ##  ex-sports-tv.com  ##  Japan
+1156  ##  www.bell.ca  ##  Canada
+1157  ##  www.history.de  ##  United States, Germany
+1158  ##  www.tv5monde.com  ##  France, Belgium, Switzerland
+1159  ##  www.trutv.com.br  ##  United States, Brazil
+1160  ##  globalthunderbay.tbtv.com  ##  Canada
+1161  ##  www.utv44.com  ##  Florida, United States
+1162  ##  abclocal.go.com  ##  New York, United States
+1163  ##  www.sonymax.tv  ##  India
+1164  ##  global.mnet.com  ##  South Korea
+1165  ##  www.eltrece.mx  ##  Mexico
+1166  ##  www.abcstlouis.com  ##  Missouri, United States
+1167  ##  www.cbc.ca  ##  Canada
+1168  ##  www.tcm.com  ##  United States, Canada
+1169  ##  www.fox23.com  ##  Oklahoma, United States
+1170  ##  www.hifi.ca  ##  Canada
+1171  ##  www.wdtn.com  ##  Ohio, United States
+1172  ##  www.imagentv.com  ##  Mexico
+1173  ##  www.fenerbahce.org  ##  Turkey
+1174  ##  www.bikechannel.it  ##  Italy
+1175  ##  www.wthr.com  ##  Indiana, United States
+1176  ##  www.wctv.tv  ##  Florida, United States
+1177  ##  sbscnbc.sbs.co.kr  ##  South Korea, United States
+1178  ##  www.myfoxmaine.com  ##  Maine, United States
+1179  ##  www.foxsportsnorth.com  ##  United States
+1180  ##  www.wtvp.org  ##  Illinois, United States
+1181  ##  www.wxow.com  ##  Wisconsin, United States
+1182  ##  www.disneyxd-asia.com  ##  United States, Philippines
+1183  ##  www.kveo.com  ##  Texas, United States
+1184  ##  www.universalchannel.asia  ##  United States
+1185  ##  www.tokuhd.com  ##  United States
+1186  ##  www.playboytvla.com  ##  United States
+1187  ##  www.trthaber.com  ##  Turkey
+1188  ##  www.localsyr.com  ##  New York, United States
+1189  ##  www.walb.com  ##  Georgia, United States
+1190  ##  www.fox8.tv  ##  Australia
+1191  ##  www.tvbreizh.fr  ##  France
+1192  ##  www.mazhavilmanorama.com  ##  India
+1193  ##  www.travelchanneltv.eu  ##  United States
+1194  ##  www.g1tv.co.kr  ##  South Korea
+1195  ##  www.vgatineau.ca  ##  Canada
+1196  ##  www.kmir6.com  ##  California, United States
+1197  ##  www.so-net.ne.jp  ##  Japan
+1198  ##  www.13thstreet.de  ##  United States, Germany
+1199  ##  www.tv5.ca  ##  France, Canada
+1200  ##  www.ikmh.co.kr  ##  South Korea
+1201  ##  www.cbs19.tv  ##  Texas, United States
+1202  ##  www.mundofox.com  ##  United States
+1203  ##  www.komonews.com  ##  Washington, United States
+1204  ##  www.axn-asia.com  ##  United States
+1205  ##  www.setasia.tv  ##  India
+1206  ##  www.bigtennetwork.com  ##  United States
+1207  ##  www.cfjctv.com  ##  Canada
+1208  ##  www.digisport.sk  ##  Romania, Slovakia
+1209  ##  www.teleantioquia.co  ##  Colombia
+1210  ##  www.wect.com  ##  North Carolina, United States
+1211  ##  www.nickjr.co.uk  ##  United States, United Kingdom
+1212  ##  www.mountainlake.org  ##  New York, United States
+1213  ##  www.discovery.dk  ##  United States, Denmark
+1214  ##  www.discovery.de  ##  United States, Germany
+1215  ##  www.masn.tv  ##  United States
+1216  ##  dogtv.com  ##  United States
+1217  ##  www.ktvb.com  ##  Idaho, United States
+1218  ##  www.wcte.org  ##  Tennessee, United States
+1219  ##  www.slbenfica.pt  ##  Portugal
+1220  ##  www.americatv.com.ar  ##  Argentina
+1221  ##  www.kndu.com  ##  Washington, United States
+1222  ##  www.een.be  ##  Belgium
+1223  ##  tv.univision.com  ##  New Mexico, United States
+1224  ##  www.telepace.it  ##  Italy
+1225  ##  www.bravotv.com  ##  United States
+1226  ##  www.kptm.com  ##  Nebraska, United States
+1227  ##  bandsports.band.uol.com.br  ##  Brazil
+1228  ##  noovo.ca  ##  Canada
+1229  ##  www.mtv.com  ##  United States
+1230  ##  www.wnin.org  ##  Indiana, United States
+1231  ##  ooe.orf.at  ##  Austria
+1232  ##  www.j-one.com  ##  France
+1233  ##  ownca.oprah.com  ##  United States, Canada
+1234  ##  www.mtv.fi  ##  Finland
+1235  ##  tv45.org  ##  Florida, United States
+1236  ##  www.mtv.fr  ##  United States, France
+1237  ##  www.ahtv.cn  ##  China
+1238  ##  www.mcot.net  ##  Thailand
+1239  ##  www.investigationdiscovery.ca  ##  United States, Canada
+1240  ##  www.wvnstv.com  ##  West Virginia, United States
+1241  ##  redzonetv.nfl.com  ##  United States
+1242  ##  cwdetroit.cbslocal.com  ##  Michigan, United States
+1243  ##  www.sonymoviechannel.com  ##  United States
+1244  ##  alekhbariya.net  ##  Saudi Arabia
+1245  ##  www.ktnv.com  ##  Nevada, United States
+1246  ##  cinemagic.disney.de  ##  United States, Germany
+1247  ##  www.wdbj7.com  ##  Virginia, United States
+1248  ##  www.wftv.com  ##  Florida, United States
+1249  ##  www.wsst51.com  ##  Georgia, United States
+1250  ##  www.ksnt.com  ##  Kansas, United States
+1251  ##  www.wral-tv.com  ##  North Carolina, United States
+1252  ##  www.qurantv.sa  ##  Saudi Arabia
+1253  ##  www.kdoctv.net  ##  California, United States
+1254  ##  www.nbclosangeles.com  ##  California, United States
+1255  ##  www.etv.co.za  ##  South Africa
+1256  ##  natgeotv.nationalgeographic.es  ##  United States, Spain
+1257  ##  www.band.com.br  ##  Brazil
+1258  ##  comedycentralasia.com  ##  United States
+1259  ##  www.wjct.org  ##  Florida, United States
+1260  ##  www.foxsports.com.au  ##  United States, Australia
+1261  ##  www.foxlife.tv  ##  United States, Mexico
+1262  ##  www.foxlifetv.ru  ##  United States, Russia
+1263  ##  www.superrtl.de  ##  Germany
+1264  ##  noticias.r7.com  ##  Brazil
+1265  ##  www.teva.fr  ##  France
+1266  ##  www.myfox9online.com  ##  California, United States
+1267  ##  www.olweb.fr  ##  France
+1268  ##  www.boomerangtv.fr  ##  United States, France
+1269  ##  www.wlwt.com  ##  Ohio, United States
+1270  ##  www.carpa.com  ##  Puerto Rico
+1271  ##  www.47tv.com  ##  California, United States
+1272  ##  www.1011now.com  ##  Nebraska, United States
+1273  ##  www.kvewtv.com  ##  Washington, United States
+1274  ##  freeform.go.com  ##  United States
+1275  ##  www.hbofamily.com  ##  United States
+1276  ##  www.dishtv.in  ##  India
+1277  ##  www.starz.com  ##  United States
+1278  ##  www.dkids.asia  ##  United States
+1279  ##  www.powerplats.co.jp  ##  Japan
+1280  ##  www.kixe.org  ##  California, United States
+1281  ##  www.jstv.com  ##  China
+1282  ##  jtv.co.id  ##  Indonesia
+1283  ##  www.acritica.com  ##  Brazil
+1284  ##  www.fox5dc.com  ##  District of Columbia, United States
+1285  ##  www.nbcolympics.com  ##  United States
+1286  ##  illinoishomepage.net  ##  Illinois, United States
+1287  ##  www.ae-tv.de  ##  United States, Germany
+1288  ##  www.13wmaz.com  ##  Georgia, United States
+1289  ##  uk.startv.com  ##  Hong Kong, United Kingdom
+1290  ##  www.recordlitoral.com  ##  Brazil
+1291  ##  cwseattle.cbslocal.com  ##  Washington, United States
+1292  ##  wearecentralpa.com  ##  Pennsylvania, United States
+1293  ##  www.canalonce.mx  ##  Mexico
+1294  ##  www.tab.co.nz  ##  New Zealand
+1295  ##  www.wane.com  ##  Indiana, United States
+1296  ##  fri.tv2.dk  ##  Denmark
+1297  ##  www.kttz.org  ##  Texas, United States
+1298  ##  www.trans7.co.id  ##  Indonesia
+1299  ##  www.logotv.com  ##  United States
+1300  ##  mundogloob.globo.com  ##  Brazil
+1301  ##  www.foxsports.com  ##  United States
+1302  ##  russia.tv  ##  Russia
+1303  ##  www.paramountchannel.la  ##  United States
+1304  ##  www.watchfox29.com  ##  Louisiana, United States
+1305  ##  www.classicartsshowcase.org  ##  United States
+1306  ##  www.classica-jp.com  ##  Germany, Japan
+1307  ##  www.universalchannel.co.za  ##  United States, South Africa
+1308  ##  www.mysouthwestga.com  ##  Georgia, United States
+1309  ##  calgary.ctvnews.ca  ##  Canada
+1310  ##  www.csnhouston.com  ##  United States
+1311  ##  vtv6.vtv.vn  ##  Vietnam
+1312  ##  www.animax.co.jp  ##  Japan
+1313  ##  www.wbns10tv.com  ##  Ohio, United States
+1314  ##  www.footballua.tv  ##  Ukraine
+1315  ##  www.novatv.hr  ##  Croatia
+1316  ##  www.axn-india.com  ##  United States, India
+1317  ##  midnight-blue.com  ##  Japan
+1318  ##  www.wwe.com  ##  United States
+1319  ##  tv.eurosport.dk  ##  France, Denmark
+1320  ##  www.nihon-eiga.com  ##  Japan
+1321  ##  www.aljazeera.com  ##  Qatar
+1322  ##  www.lcp.fr  ##  France
+1323  ##  www.speedchannel.co.jp  ##  Japan
+1324  ##  www.bs4.jp  ##  Japan
+1325  ##  www.fashion4k.tv  ##  United States
+1326  ##  www.wktctv.com  ##  South Carolina, United States
+1327  ##  www.gingerhd.tv  ##  Russia
+1328  ##  www.hgtv.com  ##  United States
+1329  ##  www.romance-tv.pl  ##  Germany, Poland
+1330  ##  www.onetvasia.com  ##  India, South Korea
+1331  ##  questarabiya.com  ##  United States, United Arab Emirates
+1332  ##  www.disneychannel.ca  ##  United States, Canada
+1333  ##  www.wcpo.com  ##  Ohio, United States
+1334  ##  www.boomerangtv.com.tr  ##  United States, Turkey
+1335  ##  www.tvt.org.br  ##  Brazil
+1336  ##  www.clubbingtv.com  ##  France
+1337  ##  www.oregonsfox.biz  ##  Oregon, United States
+1338  ##  www.bbcearth.com  ##  United Kingdom, Romania
+1339  ##  cwatlanta.cbslocal.com  ##  Georgia, United States
+1340  ##  www.kobi5.com  ##  Oregon, United States
+1341  ##  www.newsx.com  ##  India
+1342  ##  www.kfor.com  ##  Oklahoma, United States
+1343  ##  bc.ctvnews.ca  ##  Canada
+1344  ##  www.myfoxtallahassee.com  ##  Florida, United States
+1345  ##  www.gmmz.tv  ##  Thailand
+1346  ##  www.wnbd33.com  ##  Mississippi, United States
+1347  ##  www.canalaetv.com  ##  United States
+1348  ##  channel.nationalgeographic.com  ##  United States
+1349  ##  www.wbbjtv.com  ##  Tennessee, United States
+1350  ##  www.wdef.com  ##  Tennessee, United States
+1351  ##  www.ktla.com  ##  California, United States
+1352  ##  www.japanet.co.jp  ##  Japan
+1353  ##  musicchoice.com  ##  United States
+1354  ##  www.n24.de  ##  Germany
+1355  ##  www.bni-life.co.id  ##  Indonesia
+1356  ##  www.russianmusicbox.tv  ##  Russia
+1357  ##  www.siouxlandmatters.com  ##  Iowa, United States
+1358  ##  www.wjfw-nbc12.com  ##  Wisconsin, United States
+1359  ##  www.ketv.com  ##  Nebraska, United States
+1360  ##  www.europaeuropa.tv  ##  United Kingdom
+1361  ##  www.trueselect.com  ##  Thailand
+1362  ##  www.ksdk.com  ##  Missouri, United States
+1363  ##  www.bfmtv.com  ##  France
+1364  ##  www.disney.com  ##  United States
+1365  ##  www.northlandsnewscenter.com  ##  Minnesota, United States
+1366  ##  www.telemundoatlanta.com  ##  Georgia, United States
+1367  ##  www.acasatv.ro  ##  Romania
+1368  ##  www.senalinstitucional.gov.co  ##  Colombia
+1369  ##  www.manototv.com  ##  United Kingdom
+1370  ##  nwahomepage.com  ##  Arkansas, United States
+1371  ##  www.wgte.org  ##  Ohio, United States
+1372  ##  arte.sky.it  ##  Italy
+1373  ##  www.knct.org  ##  Texas, United States
+1374  ##  www.hbo.cz  ##  United States, Czechia
+1375  ##  www.themovienetwork.ca  ##  Canada
+1376  ##  www.videoland.com.tw  ##  Taiwan
+1377  ##  losangeles.univision.com  ##  California, United States
+1378  ##  www.csnbaltimore.com  ##  United States
+1379  ##  www.mtvjapan.com  ##  United States, Japan
+1380  ##  www.abcspark.ca  ##  United States, Canada
+1381  ##  www.twcsportsnet.com  ##  United States
+1382  ##  www.necoweb.com  ##  Japan
+1383  ##  www.riyadiyatv.sa  ##  Saudi Arabia
+1384  ##  www.catholictv.com  ##  United States
+1385  ##  www.axnblack.pt  ##  United States, Portugal
+1386  ##  www.wowow.co.jp  ##  Japan
+1387  ##  doma.markiza.sk  ##  Slovakia
+1388  ##  www.gameone.net  ##  France
+1389  ##  www.euronews.com  ##  France
+1390  ##  www.viasatsport.se  ##  Sweden
+1391  ##  www.comedycentral.co.uk  ##  United States, United Kingdom
+1392  ##  beinmediagroup.com  ##  Qatar
+1393  ##  www.valleycentral.com  ##  Texas, United States
+1394  ##  www.k2tv.com  ##  Wyoming, United States
+1395  ##  www.thecoastalsource.com  ##  Georgia, United States
+1396  ##  france3-regions.francetvinfo.fr  ##  France
+1397  ##  www.aetv.com.au  ##  United States, Australia
+1398  ##  www.space.ca  ##  Canada
+1399  ##  www.witf.org  ##  Pennsylvania, United States
+1400  ##  atlantic.ctvnews.ca  ##  Canada
+1401  ##  www.barrandov.tv  ##  Czechia
+1402  ##  eden.uktv.co.uk  ##  United Kingdom
+1403  ##  www.canalplus-reunion.com  ##  France, Reunion
+1404  ##  weather.com  ##  United States
+1405  ##  www.francetvinfo.fr  ##  France
+1406  ##  myarklamiss.com  ##  Louisiana, United States
+1407  ##  www.discoverychannel.fr  ##  United States, France
+1408  ##  www.jidaigeki.com  ##  Japan
+1409  ##  www.cartoonnetwork.de  ##  United States, Germany
+1410  ##  www.easttennesseepbs.org  ##  Tennessee, United States
+1411  ##  www.wboy.com  ##  West Virginia, United States
+1412  ##  www.thirteen.org  ##  New York, United States
+1413  ##  www.cosmopolitantv.es  ##  Spain
+1414  ##  www.americatv.com.pe  ##  Peru
+1415  ##  sport.sky.it  ##  Italy
+1416  ##  www.kxan.com  ##  Texas, United States
+1417  ##  www.france24.com  ##  France
+1418  ##  www.high4k.com  ##  United States
+1419  ##  www.my4albany.com  ##  Massachusetts, United States
+1420  ##  www.hayat.ba  ##  Bosnia and Herzegovina
+1421  ##  www.foxsportsasia.com  ##  United States
+1422  ##  skyatlantic.sky.it  ##  Italy
+1423  ##  www.redefamilia.com.br  ##  Brazil
+1424  ##  www.zdf.de  ##  Germany
+1425  ##  www.foxcharlotte.com  ##  North Carolina, United States
+1426  ##  www.tlcasia.com  ##  United States
+1427  ##  www.espndeportes.com  ##  United States
+1428  ##  www.wbay.com  ##  Wisconsin, United States
+1429  ##  www.whas11.com  ##  Kentucky, United States
+1430  ##  www.fox44abc22yourvoice.com  ##  Vermont, United States
+1431  ##  www.okcfox.com  ##  Oklahoma, United States
+1432  ##  www.yastv.ae  ##  United Arab Emirates
+1433  ##  pixltv.com  ##  United States
+1434  ##  www.rtvcm.es  ##  Spain
+1435  ##  fightklub.pl  ##  Hungary, Poland
+1436  ##  www.kinopokazhd2.tv  ##  Russia
+1437  ##  www.romedynow.com  ##  India
+1438  ##  www.axn.com.br  ##  United States, Brazil
+1439  ##  permianbasin360.com  ##  Texas, United States
+1440  ##  www.telehit.com  ##  Mexico
+1441  ##  www.kxii.com  ##  Texas, United States
+1442  ##  www.wadldetroit.com  ##  Michigan, United States
+1443  ##  tv.cancaonova.com  ##  Brazil
+1444  ##  www.mundofox8miami.com  ##  Florida, United States
+1445  ##  www.s4c.cymru  ##  United Kingdom
+1446  ##  www.foxsportskansascity.com  ##  United States
+1447  ##  www.wcsh-tv.com  ##  Maine, United States
+1448  ##  canalbis.globo.com  ##  Brazil
+1449  ##  www.theozarkscw.com  ##  Missouri, United States
+1450  ##  www.peacetv.tv  ##  United Arab Emirates, United Kingdom
+1451  ##  www.gsntv.com  ##  United States
+1452  ##  www.foxrichmond.com  ##  Virginia, United States
+1453  ##  www.kake.com  ##  Kansas, United States
+1454  ##  www.myfoxtwincities.com  ##  Minnesota, United States
+1455  ##  www.myfoxhouston.com  ##  Texas, United States
+1456  ##  www.wkyc.com  ##  Ohio, United States
+1457  ##  www.kcwi23.com  ##  Iowa, United States
+1458  ##  site777tv.jp  ##  Japan
+1459  ##  www.bsfuji.tv  ##  Japan
+1460  ##  www.presstv.ir  ##  Iran
+1461  ##  www.kval.com  ##  Oregon, United States
+1462  ##  www.rds2.ca  ##  Canada
+1463  ##  www.wbna21.com  ##  Kentucky, United States
+1464  ##  foxinternationalchannels.com  ##  United States
+1465  ##  qvcbeauty.qvc.de  ##  United States, Germany
+1466  ##  www.wdse.org  ##  Minnesota, United States
+1467  ##  www.wbc.com.ru  ##  Russia
+1468  ##  www.baraem.tv  ##  Qatar
+1469  ##  www.rtvs.sk  ##  Slovakia
+1470  ##  www.lbgtv.com  ##  Alabama, United States
+1471  ##  www.sat1.de  ##  Germany
+1472  ##  www.cablenoticias.tv  ##  Colombia
+1473  ##  marquettehomepage.com  ##  Michigan, United States
+1474  ##  www.vpara.com  ##  Japan
+1475  ##  www.wmyt12.com  ##  South Carolina, United States
+1476  ##  www.cbseuropa.eu  ##  United States, Poland
+1477  ##  www.zeecinema.com  ##  India
+1478  ##  www.tveda.ru  ##  Russia
+1479  ##  www.tbs.com  ##  United States
+1480  ##  www.mdr.de  ##  Germany
+1481  ##  www.comedycentral.in  ##  United States, India
+1482  ##  www.indemand.com  ##  United States
+1483  ##  esporteinterativo.com.br  ##  Brazil
+1484  ##  www.rtvslo.si  ##  Slovenia
+1485  ##  www.qvcplus.de  ##  United States, Germany
+1486  ##  www.foxafrica.com  ##  United States
+1487  ##  triad20.com  ##  North Carolina, United States
+1488  ##  pfc.globo.com  ##  Brazil
+1489  ##  denver.cbslocal.com  ##  Colorado, United States
+1490  ##  www.cs959.com  ##  Japan
+1491  ##  www.nbc.com  ##  United States
+1492  ##  www.spaceshowertvplus.com  ##  Japan
+1493  ##  www.ncaa.com  ##  United States
+1494  ##  www.wusf.usf.edu  ##  Florida, United States
+1495  ##  www.pbj.co.jp  ##  United States, Japan
+1496  ##  www.foxtv.es  ##  United States, Spain
+1497  ##  www.xxl.tv  ##  France
+1498  ##  www.news8000.com  ##  Wisconsin, United States
+1499  ##  www.majid.ae  ##  United Arab Emirates
+1500  ##  www.rsi.ch  ##  Switzerland
+1501  ##  www.sky.it  ##  Italy
+1502  ##  fox.canais-fox.pt  ##  United States, Portugal
+1503  ##  www.kix-tv.com  ##  Hong Kong, Malaysia
+1504  ##  www.polsat2.com.pl  ##  Poland
+1505  ##  www.btv.bg  ##  Bulgaria
+1506  ##  www.wkno.org  ##  Tennessee, United States
+1507  ##  rtv21.tv  ##  Serbia
+1508  ##  www.dhctheater.com  ##  Japan
+1509  ##  www.raimovie.rai.it  ##  Italy
+1510  ##  varzishtv.tj  ##  Tajikistan
+1511  ##  www.twellv.co.jp  ##  Japan
+1512  ##  www.digiturk.com.tr  ##  Turkey
+1513  ##  elgourmet.com  ##  Argentina
+1514  ##  www.kiiitv.com  ##  Texas, United States
+1515  ##  www.whky.com  ##  North Carolina, United States
+1516  ##  fortwaynehomepage.net  ##  Indiana, United States
+1517  ##  www.andtv.com  ##  India
+1518  ##  www.stansport.tv  ##  Turkey
+1519  ##  www.wkow.com  ##  Wisconsin, United States
+1520  ##  www.klru.org  ##  Texas, United States
+1521  ##  www.kinochannel.ru  ##  Russia
+1522  ##  www.telemundolasvegas.com  ##  Nevada, United States
+1523  ##  www.kasa.com  ##  New Mexico, United States
+1524  ##  www.sat1gold.de  ##  Germany
+1525  ##  twn.wakuwakujapan.tv  ##  Japan, Taiwan
+1526  ##  www.ilivingtv.co.kr  ##  South Korea
+1527  ##  www.my59.tv  ##  Illinois, United States
+1528  ##  www.prairiepublic.org  ##  North Dakota, United States
+1529  ##  www.rbb-online.de  ##  Germany
+1530  ##  www.my43.tv  ##  New York, United States
+1531  ##  www.elreynetwork.com  ##  United States
+1532  ##  www.nhl.com  ##  United States
+1533  ##  www.dreamshopping.co.kr  ##  South Korea
+1534  ##  www.htv.com  ##  United States
+1535  ##  www.alaraby.tv  ##  United Kingdom
+1536  ##  www.kanala.com.tr  ##  Turkey
+1537  ##  www.sixx.de  ##  Germany
+1538  ##  www.csnbayarea.com  ##  United States
+1539  ##  kbsworld.kbs.co.kr  ##  South Korea
+1540  ##  www.msg.com  ##  United States
+1541  ##  www.radx.ca  ##  Canada
+1542  ##  www.hgtv.ca  ##  United States, Canada
+1543  ##  www.wnit.org  ##  Indiana, United States
+1544  ##  rudaw.net  ##  Iraq
+1545  ##  www.mediaklikk.hu  ##  Hungary
+1546  ##  www.univision18.com  ##  Texas, United States
+1547  ##  www.spacego.tv.br  ##  Argentina, Brazil
+1548  ##  tv.cctv.com  ##  China
+1549  ##  www.familyjr.ca  ##  Canada
+1550  ##  www.ktmf.com  ##  Montana, United States
+1551  ##  www.nastroy-kino.ru  ##  Russia
+1552  ##  www.wlos.com  ##  North Carolina, United States
+1553  ##  www.wfxg.com  ##  Georgia, United States
+1554  ##  www.pigoo.jp  ##  Japan
+1555  ##  www.myabc50.com  ##  New York, United States
+1556  ##  www.sfrsport3.com  ##  France
+1557  ##  litvchannel.com  ##  Malaysia
+1558  ##  www.10news.com  ##  California, United States
+1559  ##  pittsburgh.rootsports.com  ##  United States
+1560  ##  www.sonlifetv.com  ##  United States
+1561  ##  univisionaustin.univision.com  ##  Texas, United States
+1562  ##  www.universalchannel.co.uk  ##  United States, United Kingdom
+1563  ##  www.zoomtv.in  ##  India
+1564  ##  rusroman.ru  ##  Russia
+1565  ##  www.wciu.com  ##  Illinois, United States
+1566  ##  texomashomepage.com  ##  Texas, United States
+1567  ##  360tv.ru  ##  Russia
+1568  ##  www.telemundo40.com  ##  Texas, United States
+1569  ##  www.superdramatv.com  ##  Japan
+1570  ##  cignal.tv  ##  Philippines
+1571  ##  www.360tvdigital.com  ##  Argentina
+1572  ##  www.channel5.com  ##  United Kingdom
+1573  ##  www.foodnetwork.pl  ##  United States, Poland
+1574  ##  www.krwg-tv.org  ##  New Mexico, United States
+1575  ##  univisionchicago.univision.com  ##  Indiana, United States
+1576  ##  www.fightsports.tv  ##  United States
+1577  ##  www.connectmidmissouri.com  ##  Missouri, United States
+1578  ##  www.nbc4i.com  ##  Ohio, United States
+1579  ##  www.gsshop.com  ##  South Korea
+1580  ##  www.sonychannelasia.com  ##  India
+1581  ##  www.newscentralga.com  ##  Georgia, United States
+1582  ##  www.foxbangor.com  ##  Maine, United States
+1583  ##  www.madanitv.net  ##  Indonesia
+1584  ##  www.paris-premiere.fr  ##  France
+1585  ##  dothanconnect.revrocket.us  ##  Alabama, United States
+1586  ##  www.fyitv18.com  ##  United States, India
+1587  ##  www.foxsyracuse.com  ##  New York, United States
+1588  ##  campagnestv.com  ##  France
+1589  ##  www.frenchlover.tv  ##  Austria
+1590  ##  www.k-baduk.com  ##  South Korea
+1591  ##  www.fox14tv.com  ##  Kansas, United States
+1592  ##  www.wvva.com  ##  West Virginia, United States
+1593  ##  www.wcyb.tv  ##  Virginia, United States
+1594  ##  www.juventus.com  ##  Italy
+1595  ##  www.wqln.org  ##  Pennsylvania, United States
+1596  ##  www.eonline.com  ##  United States
+1597  ##  tennischannel.com  ##  United States
+1598  ##  www.amarintv.com  ##  Thailand
+1599  ##  www.graffititv.jp  ##  Japan
+1600  ##  www.wgcu.org  ##  Florida, United States
+1601  ##  www.kbsworld.ne.jp  ##  South Korea, Japan
+1602  ##  www.ket.org  ##  Kentucky, United States
+1603  ##  weather.ytn.co.kr  ##  South Korea
+1604  ##  www.wyff4.com  ##  South Carolina, United States
+1605  ##  www.docuchina.tv  ##  China
+1606  ##  www.fgtv.com  ##  South Korea
+1607  ##  www.kxly.com  ##  Washington, United States
+1608  ##  www.wljt.org  ##  Tennessee, United States
+1609  ##  globointernacional.globo.com  ##  Brazil
+1610  ##  www.jctv.co.jp  ##  United States, Japan
+1611  ##  www.peacetvurdu.org  ##  United Arab Emirates
+1612  ##  www.yourjax.com  ##  Florida, United States
+1613  ##  www.sciencechannel.ca  ##  United States, Canada
+1614  ##  www.english-club.tv  ##  United Kingdom
+1615  ##  www.hyundaihmall.com  ##  South Korea
+1616  ##  www.jibstv.com  ##  South Korea
+1617  ##  www.brtn.cn  ##  China
+1618  ##  www.kwsu.org  ##  Washington, United States
+1619  ##  www.vegaspbs.org  ##  Nevada, United States
+1620  ##  www.ushuaiatv.fr  ##  France
+1621  ##  www.woay.com  ##  West Virginia, United States
+1622  ##  www.beinsports.tv  ##  Qatar, United States
+1623  ##  www.wkrn.com  ##  Tennessee, United States
+1624  ##  www.telemundopr.com  ##  United States, Puerto Rico
+1625  ##  www.hallmarkchannel.com  ##  United States
+1626  ##  playboytv.co.kr  ##  United States, South Korea
+1627  ##  q13fox.com  ##  Washington, United States
+1628  ##  www.fox45now.com  ##  Ohio, United States
+1629  ##  www.kmbc.com  ##  Missouri, United States
+1630  ##  www.thecinema.jp  ##  Japan
+1631  ##  www.sdpb.org  ##  South Dakota, United States
+1632  ##  www.mjtv.jp  ##  Japan
+1633  ##  www.pac-12.com  ##  United States
+1634  ##  www.thairath.tv  ##  Thailand
+1635  ##  www.wcax.com  ##  Vermont, United States
+1636  ##  www.canal9.dk  ##  Denmark
+1637  ##  www.ketknbc.com  ##  Texas, United States
+1638  ##  www.kurdsat.tv  ##  Iraq
+1639  ##  www.iba.org.il  ##  Israel
+1640  ##  www.dishsouthasiantv.com  ##  United States
+1641  ##  www.lntv.cn  ##  China
+1642  ##  www.kbcbtv.com  ##  Washington, United States
+1643  ##  indianapublicmedia.org  ##  Indiana, United States
+1644  ##  www.hustlerhd.eu  ##  United States
+1645  ##  www.wedu.org  ##  Florida, United States
+1646  ##  ontveg.com  ##  Egypt
+1647  ##  www.wivb.com  ##  New York, United States
+1648  ##  www.mtv.de  ##  United States, Germany
+1649  ##  www.skytv.co.nz  ##  Australia, New Zealand
+1650  ##  www.egg.network  ##  Malaysia
+1651  ##  www.24kitchen.rs  ##  United States, Serbia
+1652  ##  www.wfnatv.com  ##  Alabama, United States
+1653  ##  www.cherrybomb.co.jp  ##  Japan
+1654  ##  www.jtv.co.kr  ##  South Korea
+1655  ##  www.cartoonnetwork.cl  ##  United States, Chile
+1656  ##  www.powerfm.com.tr  ##  Turkey
+1657  ##  www.newschannel6now.com  ##  Texas, United States
+1658  ##  www.wcvb.com  ##  Massachusetts, United States
+1659  ##  www.sport5.co.il  ##  Israel
+1660  ##  www.abc4.com  ##  Utah, United States
+1661  ##  www.wcbi.com  ##  Mississippi, United States
+1662  ##  it.eurosport.com  ##  France, Italy
+1663  ##  www.wwaytv3.com  ##  North Carolina, United States
+1664  ##  www.actionnewsjax.com  ##  Florida, United States
+1665  ##  shx.astro.com.my  ##  Malaysia
+1666  ##  www.travelchannel.com  ##  United States
+1667  ##  www.tvpublica.com.ar  ##  Argentina
+1668  ##  www.voyage.fr  ##  France
+1669  ##  cool.iprima.cz  ##  Czechia
+1670  ##  northwest.rootsports.com  ##  United States
+1671  ##  www.tolo.tv  ##  Afghanistan
+1672  ##  cwphilly.cbslocal.com  ##  Pennsylvania, United States
+1673  ##  www.tvplus.bg  ##  Bulgaria
+1674  ##  www.kshop.co.kr  ##  South Korea
+1675  ##  www.ceskoslovensko.tv  ##  Czechia
+1676  ##  www.dc50tv.com  ##  District of Columbia, United States
+1677  ##  www.telemundohouston.com  ##  Texas, United States
+1678  ##  www.abmoteurs.fr  ##  France
+1679  ##  www.history.ca  ##  United States, Canada
+1680  ##  www.filmandarts.tv  ##  Argentina, Mexico
+1681  ##  www.netnebraska.org  ##  Nebraska, United States
+1682  ##  www.saudiatv.sa  ##  Saudi Arabia
+1683  ##  www.boomerangtv.de  ##  United States, Germany
+1684  ##  www.weiu.net  ##  Illinois, United States
+1685  ##  www.my64.tv  ##  Ohio, United States
+1686  ##  kamu.tamu.edu  ##  Texas, United States
+1687  ##  www.servustv.com  ##  Austria
+1688  ##  ntvplus.ru  ##  Russia
+1689  ##  www.bs-asahi.co.jp  ##  Japan
+1690  ##  steiermark.orf.at  ##  Austria
+1691  ##  www.fxx.com  ##  United States
+1692  ##  www.entermeitele.com  ##  Japan
+1693  ##  www.sonypix.com  ##  India
+1694  ##  www.nickjr.com  ##  United States
+1695  ##  www.chc2004.cn  ##  China
+1696  ##  www.trtbelgesel.net.tr  ##  Turkey
+1697  ##  www.nba.com  ##  United States
+1698  ##  www.trekhd.tv  ##  France
+1699  ##  www.pba.org  ##  Georgia, United States
+1700  ##  www.family.ca  ##  Canada
+1701  ##  www.abc-11.com  ##  Louisiana, United States
+1702  ##  www.ktxs.com  ##  Texas, United States
+1703  ##  www.discoverychannel.it  ##  United States, Italy
+1704  ##  www.newsmaxtv.com  ##  United States
+1705  ##  wvpublic.org  ##  West Virginia, United States
+1706  ##  www.ktsm.com  ##  Texas, United States
+1707  ##  www.tvtv.com  ##  Alaska, United States
+1708  ##  www.kcpt.org  ##  Missouri, United States
+1709  ##  nv-paradise.jp  ##  Japan
+1710  ##  globalnews.ca  ##  Canada
+1711  ##  www.abc27.com  ##  Pennsylvania, United States
+1712  ##  www.ch7.com  ##  Thailand
+1713  ##  www.extremetv.fr  ##  Netherlands, France
+1714  ##  www.kcoy.com  ##  California, United States
+1715  ##  www.animaxtv.co.kr  ##  Japan, South Korea
+1716  ##  www.fashionone.com  ##  United States
+1717  ##  one.ard.de  ##  Germany
+1718  ##  www.wktv.com  ##  New York, United States
+1719  ##  www.ourmaine.com  ##  Maine, United States
+1720  ##  www.zdfneo.de  ##  Germany
+1721  ##  www.golfnetwork.co.jp  ##  Japan
+1722  ##  www.bingo-boom.ru  ##  Russia
+1723  ##  www.wgby.org  ##  Massachusetts, United States
+1724  ##  www.lifetimetv.pl  ##  United States, Poland
+1725  ##  natgeotv.nationalgeographic.it  ##  United States, Italy
+1726  ##  www.tensports.com  ##  India
+1727  ##  www.canaltbs.com  ##  United States
+1728  ##  www.kanald.ro  ##  Turkey, Romania
+1729  ##  www.wgal.com  ##  Pennsylvania, United States
+1730  ##  www.foxplaybrasil.com.br  ##  United States, Brazil
+1731  ##  tv.esquire.com  ##  United States
+1732  ##  www.foxsports.nl  ##  United States, Netherlands
+1733  ##  www.animalplanet.se  ##  United States
+1734  ##  www.ajyaltv.sa  ##  Saudi Arabia
+1735  ##  www.tve.com.br  ##  Brazil
+1736  ##  showcasechannel.com.au  ##  Australia
+1737  ##  www.watchmy27.com  ##  Texas, United States
+1738  ##  www.nbcwashington.com  ##  District of Columbia, United States
+1739  ##  www.kivitv.com  ##  Idaho, United States
+1740  ##  www.deepto.tv  ##  Bangladesh
+1741  ##  www.wistv.com  ##  South Carolina, United States
+1742  ##  www.aspor.com.tr  ##  Turkey
+1743  ##  www.kanal5.dk  ##  Denmark
+1744  ##  montreal.ctvnews.ca  ##  Canada
+1745  ##  www.tv5.org  ##  France
+1746  ##  www.goltv.tv  ##  United States
+1747  ##  www.eurekahd.tv  ##  Russia
+1748  ##  www.superchannel.ca  ##  Canada
+1749  ##  amedia1.ru  ##  Russia
+1750  ##  www.wmtw.com  ##  Maine, United States
+1751  ##  www.ufcnetwork.com  ##  United States
+1752  ##  www.wicz.com  ##  New York, United States
+1753  ##  www.myfoxchattanooga.com  ##  Tennessee, United States
+1754  ##  www.wvii.com  ##  Maine, United States
+1755  ##  www.tvn.pl  ##  Poland
+1756  ##  www.historytv.ru  ##  United States, Russia
+1757  ##  www.wpt5.org  ##  Wisconsin, United States
+1758  ##  wlfi.com  ##  Indiana, United States
+1759  ##  www.theindychannel.com  ##  Indiana, United States
+1760  ##  www.bs-sptv.com  ##  Japan
+1761  ##  www.telemundo17-3.com  ##  California, United States
+1762  ##  kyknet.dstv.com  ##  South Africa
+1763  ##  www.wcnc.com  ##  North Carolina, United States
+1764  ##  www.myfoxorlando.com  ##  Florida, United States
+1765  ##  www.wnyt.com  ##  New York, United States
+1766  ##  www.supersport.com  ##  South Africa
+1767  ##  www.nbapremiumtv.com  ##  United States, Philippines
+1768  ##  www.zeetvusa.com  ##  India, United States
+1769  ##  cinema.sky.it  ##  Italy
+1770  ##  www.liverpoolfc.com  ##  United Kingdom
+1771  ##  www.sporttv.pt  ##  Portugal
+1772  ##  www.turkmaxgurme.com  ##  Turkey
+1773  ##  www.kcns-tv.com  ##  California, United States
+1774  ##  viasathistory.pl  ##  Sweden, Poland
+1775  ##  www.m6.fr  ##  France, Switzerland
+1776  ##  www.azfamily.com  ##  Arizona, United States
+1777  ##  www.kcrg.com  ##  Iowa, United States
+1778  ##  fox4kc.com  ##  Missouri, United States
+1779  ##  www.skysports.com  ##  United Kingdom
+1780  ##  www.kids-station.com  ##  Japan
+1781  ##  www.weathernationtv.com  ##  United States
+1782  ##  www.semerkand.tv  ##  Turkey
+1783  ##  www.aztv.com  ##  Arizona, United States
+1784  ##  www.ntvspor.net  ##  Turkey
+1785  ##  www.woodtv.com  ##  Michigan, United States
+1786  ##  www.holaciudad.com  ##  California, United States
+1787  ##  www.cwalbany.com  ##  New York, United States
+1788  ##  www.12news.com  ##  Arizona, United States
+1789  ##  www.ctvnews.ca  ##  Canada
+1790  ##  web.sny.tv  ##  United States
+1791  ##  www.syfy.asia  ##  United States
+1792  ##  www.setindia.com  ##  India
+1793  ##  www.history.co.uk  ##  United States, United Kingdom
+1794  ##  www.cinepop.ca  ##  Canada
+1795  ##  kron4.com  ##  California, United States
+1796  ##  www.mor-tv.com  ##  Florida, United States
+1797  ##  www.myfoxmemphis.com  ##  Tennessee, United States
+1798  ##  www.kwqc.com  ##  Iowa, United States
+1799  ##  www.fcworld.tv  ##  Croatia
+1800  ##  www.ert.gr  ##  Greece
+1801  ##  www.wsiu.org  ##  Illinois, United States
+1802  ##  www.ctnow.com  ##  Connecticut, United States
+1803  ##  www.kwwl.com  ##  Iowa, United States
+1804  ##  www.klewtv.com  ##  Idaho, United States
+1805  ##  www.abc2news.com  ##  Maryland, United States
+1806  ##  espn.uol.com.br  ##  United States, Brazil
+1807  ##  www.wuvntv.com  ##  Connecticut, United States
+1808  ##  www.univisionsandiego.com  ##  California, United States
+1809  ##  www.iontelevision.com  ##  California, United States
+1810  ##  www.proyecto40.com  ##  Mexico
+1811  ##  www.wbir.com  ##  Tennessee, United States
+1812  ##  www.oxygen.com  ##  United States
+1813  ##  www.foxsportsil.com  ##  United States
+1814  ##  tv.eurosport.pl  ##  France, Poland
+1815  ##  www.filmboxturkiye.com  ##  United States, Turkey
+1816  ##  www.rmpbs.org  ##  Colorado, United States
+1817  ##  www.wsmh.com  ##  Michigan, United States
+1818  ##  www.luxe.tv  ##  Luxembourg
+1819  ##  www.qvc.com  ##  United States
+1820  ##  uk.eonline.com  ##  United States, United Kingdom
+1821  ##  www.hunantv.com  ##  China
+1822  ##  www.ewtn.com  ##  United States
+1823  ##  www.somosnoticiascolorado.com  ##  Colorado, United States
+1824  ##  www.infosportplus.fr  ##  France
+1825  ##  tachikawa-seibuen-keirin.com  ##  Japan
+1826  ##  www.atv.hu  ##  Hungary
+1827  ##  cnyhomepage.com  ##  New York, United States
+1828  ##  www.valleynewslive.com  ##  North Dakota, United States
+1829  ##  univisionfresno.univision.com  ##  California, United States
+1830  ##  djazz.stingray.com  ##  Canada, Netherlands
+1831  ##  www.tvasiausa.com  ##  United States
+1832  ##  www.foxbusiness.com  ##  United States
+1833  ##  www.zliving.com  ##  India
+1834  ##  www.dance-ch.jp  ##  Japan
+1835  ##  disneyxd.disney.fr  ##  United States, France
+1836  ##  www.wbbz.tv  ##  New York, United States
+1837  ##  www.wpgh53.com  ##  Pennsylvania, United States
+1838  ##  www.cctvdf.com  ##  China
+1839  ##  utv.ie  ##  United Kingdom, Ireland
+1840  ##  www.msnbc.com  ##  United States
+1841  ##  www.soptv.org  ##  Oregon, United States
+1842  ##  www.domoplus.pl  ##  Poland
+1843  ##  www.channel3000.com  ##  Wisconsin, United States
+1844  ##  wgnt.com  ##  Virginia, United States
+1845  ##  www.rtl9.com  ##  Luxembourg
+1846  ##  www.axnspin.pl  ##  United States, Poland
+1847  ##  www.wfmz.com  ##  Pennsylvania, United States
+1848  ##  zoom.iprima.cz  ##  Czechia
+1849  ##  www.phoenix.de  ##  Germany
+1850  ##  www.sinetivi.com.tr  ##  Turkey
+1851  ##  www.evasion.tv  ##  Canada
+1852  ##  www.canaltr3ce.co  ##  Colombia
+1853  ##  www.recordpaulista.com.br  ##  Brazil
+1854  ##  www.goneviraltv.com  ##  Barbados
+1855  ##  www.mystery.co.jp  ##  United States, Japan
+1856  ##  www.rtl7.nl  ##  Netherlands
+1857  ##  www.foxlife.es  ##  United States, Spain
+1858  ##  www.whmbtv.com  ##  Indiana, United States
+1859  ##  www.knvotv48.com  ##  Texas, United States
+1860  ##  www.mpt.org  ##  Maryland, United States
+1861  ##  www.my40.tv  ##  South Carolina, United States
+1862  ##  www.ktvd.com  ##  Colorado, United States
+1863  ##  www.w9.fr  ##  France
+1864  ##  globoesporte.globo.com  ##  Brazil
+1865  ##  www.paradisetv.co.jp  ##  Japan
+1866  ##  www.wsaz.com  ##  West Virginia, United States
+1867  ##  www.zeste.tv  ##  Canada
+1868  ##  www.ekattor.tv  ##  Bangladesh
+1869  ##  www.krgv.com  ##  Texas, United States
+1870  ##  www.wtvm.com  ##  Georgia, United States
+1871  ##  www.gaora.co.jp  ##  Japan
+1872  ##  www.excelsior.com.mx  ##  Mexico
+1873  ##  www.connecttristates.com  ##  Missouri, United States
+1874  ##  www.whro.com  ##  Virginia, United States
+1875  ##  nesn.com  ##  United States
+1876  ##  www.unidosok.com  ##  Oklahoma, United States
+1877  ##  www.tvnorge.no  ##  Norway
+1878  ##  www.wyzz43.com  ##  Illinois, United States
+1879  ##  www.41nbc.com  ##  Georgia, United States
+1880  ##  www.natgeowild.ro  ##  United States, Romania
+1881  ##  www.wtwc40.com  ##  Florida, United States
+1882  ##  www.betheltv.tv  ##  Peru
+1883  ##  www.tv3.no  ##  Norway
+1884  ##  www.alrayyan.tv  ##  Qatar
+1885  ##  burgenland.orf.at  ##  Austria
+1886  ##  www.ochanneltv.com  ##  Indonesia
+1887  ##  www.sportsnet.ca  ##  Canada
+1888  ##  www.centralillinoisproud.com  ##  Illinois, United States
+1889  ##  www.fox47.com  ##  Wisconsin, United States
+1890  ##  www.kedt.org  ##  Texas, United States
+1891  ##  www.mezzo.tv  ##  France
+1892  ##  www.wagt.com  ##  Georgia, United States
+1893  ##  www.cnnturk.com  ##  United States, Turkey
+1894  ##  www.kptv.com  ##  Oregon, United States
+1895  ##  www.wmcn.tv  ##  Pennsylvania, United States
+1896  ##  www.cntv.co.kr  ##  South Korea
+1897  ##  www.ligtv.com.tr  ##  Turkey
+1898  ##  www.foxcharleston.com  ##  South Carolina, United States
+1899  ##  redebahia.rbt.com.br  ##  Brazil
+1900  ##  www.discoverychannelasia.com  ##  United States
+1901  ##  www.mokpombc.co.kr  ##  South Korea
+1902  ##  www.wiwn.tv  ##  Wisconsin, United States
+1903  ##  tvasports.ca  ##  Canada
+1904  ##  www.zeetelevisionasia.com  ##  India
+1905  ##  www.discoverychannel.ca  ##  United States, Canada
+1906  ##  www.sciencechannel.com  ##  United States
+1907  ##  www.itv.com  ##  United Kingdom
+1908  ##  q2.be  ##  Belgium
+1909  ##  ctvvancouverisland.ca  ##  Canada
+1910  ##  www.wotv4women.com  ##  Michigan, United States
+1911  ##  www.rtl5.nl  ##  Netherlands
+1912  ##  www.portlands32.com  ##  Oregon, United States
+1913  ##  www.wmbfnews.com  ##  South Carolina, United States
+1914  ##  www.ckprthunderbay.com  ##  Canada
+1915  ##  www.trtspor.com  ##  Turkey
+1916  ##  red.cherrybomb.co.jp  ##  Japan
+1917  ##  cottagelife.com  ##  Canada
+1918  ##  www.citytv.com  ##  Canada
+1919  ##  www.foxsports.jp  ##  United States, Japan
+1920  ##  www.rederecordrs.com.br  ##  Brazil
+1921  ##  winnipeg.ctvnews.ca  ##  Canada
+1922  ##  www.kayopops.jp  ##  Japan
+1923  ##  www.catchon.co.kr  ##  South Korea
+1924  ##  www.ktv.go.kr  ##  South Korea
+1925  ##  www.universalchannel.de  ##  United States, Germany
+1926  ##  www.sctv.com  ##  China
+1927  ##  www.kthv.com  ##  Arkansas, United States
+1928  ##  phl17.com  ##  Pennsylvania, United States
+1929  ##  www.touchtmj4.com  ##  Wisconsin, United States
+1930  ##  www.oprah.com  ##  United States
+1931  ##  www.abc6onyourside.com  ##  Ohio, United States
+1932  ##  www.velocity.com  ##  United States
+1933  ##  philadelphia.cbslocal.com  ##  Pennsylvania, United States
+1934  ##  toronto.ctvnews.ca  ##  Canada
+1935  ##  rtd.rt.com  ##  Russia
+1936  ##  www.ktre.com  ##  Texas, United States
+1937  ##  www.myfoxchicago.com  ##  Illinois, United States
+1938  ##  www.kuvi45.com  ##  California, United States
+1939  ##  www.historychannel.co.jp  ##  United States, Japan
+1940  ##  www.discoverymujer.com  ##  United States
+1941  ##  www.abc-7.com  ##  Florida, United States
+1942  ##  www.dtxpolska.pl  ##  United States, Poland
+1943  ##  www.historiatv.com  ##  Canada
+1944  ##  www.ksn.com  ##  Kansas, United States
+1945  ##  www.kvmdtv.com  ##  California, United States
+1946  ##  www.midlandsconnect.com  ##  South Carolina, United States
+1947  ##  www.ytn.co.kr  ##  South Korea
+1948  ##  www.telemundochicago.com  ##  Illinois, United States
+1949  ##  kanalukraina.tv  ##  Ukraine
+1950  ##  tv.eurosport.se  ##  France, Sweden
+1951  ##  www.nextsteptv.com  ##  Thailand
+1952  ##  www.king5.com  ##  Washington, United States
+1953  ##  kwgn.com  ##  Colorado, United States
+1954  ##  fr.eonline.com  ##  United States, France
+1955  ##  www.nickindia.com  ##  United States, India
+1956  ##  www.nhk.or.jp  ##  Japan
+1957  ##  www.kbyutv.org  ##  Utah, United States
+1958  ##  www.chilevision.cl  ##  Chile
+1959  ##  www.motorvision.tv  ##  Germany
+1960  ##  www.wliw.org  ##  New York, United States
+1961  ##  www.discoverybrasil.com  ##  United States, Brazil
+1962  ##  www.alaskapublic.org  ##  Alaska, United States
+1963  ##  www.keet.org  ##  California, United States
+1964  ##  www.disneyxd.com.my  ##  United States, Malaysia
+1965  ##  www.wwsi-tv.com  ##  New Jersey, United States
+1966  ##  www.zoetv.tv  ##  Ghana
+1967  ##  www.starworld.in  ##  Hong Kong, India
+1968  ##  amediahit.ru  ##  Russia
+1969  ##  www.boxnation.com  ##  United Kingdom
+1970  ##  www.cjb.co.kr  ##  South Korea
+1971  ##  asia.tv5monde.com  ##  France
+1972  ##  www.koinlocal6.com  ##  Oregon, United States
+1973  ##  www.foxchannel.co.kr  ##  United States, South Korea
+1974  ##  www.mondoclassica.it  ##  Germany, Italy
+1975  ##  www.brtk.net  ##  Cyprus
+1976  ##  www.kfvs12.com  ##  Missouri, United States
+1977  ##  www.watchheartlandtv.com  ##  United States
+1978  ##  www.your4state.com  ##  Maryland, United States
+1979  ##  vuzu.dstv.com  ##  South Africa
+1980  ##  www.mundofoxfresno.com  ##  California, United States
+1981  ##  tv.foxjapan.com  ##  United States, Japan
+1982  ##  sacramento.cbslocal.com  ##  California, United States
+1983  ##  www.paramountchannel.it  ##  United States, Italy
+1984  ##  www.dishbusiness.com  ##  United States
+1985  ##  www.wtok.com  ##  Mississippi, United States
+1986  ##  www.my65orlando.com  ##  Florida, United States
+1987  ##  www.disneychannel-asia.com  ##  United States, Philippines
+1988  ##  www.ch-ginga.jp  ##  Japan
+1989  ##  www.foxlifetv.gr  ##  United States, Greece
+1990  ##  www.cbs46.com  ##  Georgia, United States
+1991  ##  www.cpt12.org  ##  Colorado, United States
+1992  ##  www.fox-greece.gr  ##  United States, Greece
+1993  ##  cinema.nova.cz  ##  Czechia
+1994  ##  www.canalplus.fr  ##  France, Reunion
+1995  ##  www.ttv.com.tw  ##  Taiwan
+1996  ##  krqe.com  ##  New Mexico, United States
+1997  ##  www.tnnthailand.com  ##  Thailand
+1998  ##  www.lbcgroup.tv  ##  Lebanon
+1999  ##  www.wnpt.net  ##  Tennessee, United States
+2000  ##  www.kunskapskanalen.se  ##  Sweden
+2001  ##  www.wgvu.org  ##  Michigan, United States
+2002  ##  www.nhlnetwork.com  ##  Canada, United States
+2003  ##  everythinglubbock.com  ##  Texas, United States
+2004  ##  www.360tunebox.com  ##  United States
+2005  ##  www.mbcnet.co.kr  ##  South Korea
+2006  ##  www.wset.com  ##  Virginia, United States
+2007  ##  www.axnwhite.pt  ##  United States, Portugal
+2008  ##  www.setanta.com  ##  Ireland
+2009  ##  iranntv.com  ##  United Kingdom
+2010  ##  wggs16.com  ##  South Carolina, United States
+2011  ##  www.ebs.co.kr  ##  South Korea
+2012  ##  www.gstv.jp  ##  United States, Japan
+2013  ##  www.tjtv.com.cn  ##  China
+2014  ##  www.tvr.com.ve  ##  Venezuela
+2015  ##  www.tvn7.pl  ##  Poland
+2016  ##  tetsudo-ch.com  ##  Japan
+2017  ##  www.sport1.de  ##  Germany
+2018  ##  www.libido-tv.fr  ##  France
+2019  ##  www.hbo.hu  ##  United States, Hungary
+2020  ##  myhighplains.com  ##  Texas, United States
+2021  ##  www.wgbh.org  ##  Massachusetts, United States
+2022  ##  www.sora-otenkich.com  ##  Japan
+2023  ##  www.cable4k.jp  ##  Japan
+2024  ##  luxuryhd.tv  ##  Russia
+2025  ##  int.foxplay.com  ##  United States, Chile
+2026  ##  www.wkbw.com  ##  New York, United States
+2027  ##  www.wutv29.com  ##  New York, United States
+2028  ##  www.tricolor.tv  ##  Russia
+2029  ##  keiba.tv  ##  Japan
+2030  ##  www.historyasia.com  ##  United States, Philippines
+2031  ##  www.sbt.com.br  ##  Brazil
+2032  ##  www.wbng.com  ##  New York, United States
+2033  ##  ninenet.org  ##  Missouri, United States
+2034  ##  www.latam.discovery.com  ##  United States
+2035  ##  www.zeeclassic.com  ##  India
+2036  ##  www.fox2127.com  ##  Virginia, United States
+2037  ##  www.mystateline.com  ##  Illinois, United States
+2038  ##  www.wxii12.com  ##  North Carolina, United States
+2039  ##  www.tlcsverige.se  ##  United States, Sweden
+2040  ##  www.canalplus-caraibes.com  ##  France
+2041  ##  jbstv.org  ##  United States
+2042  ##  www.wventv.com  ##  Florida, United States
+2043  ##  www.currenttime.tv  ##  Czechia
+2044  ##  www.finelivingnetwork.com  ##  United States
+2045  ##  www.wvah.com  ##  West Virginia, United States
+2046  ##  www.kviqcbs17.com  ##  California, United States
+2047  ##  www.mediaset.es  ##  Spain
+2048  ##  www.wgnamerica.com  ##  United States
+2049  ##  tg24.sky.it  ##  Italy
+2050  ##  www.fami-geki.com  ##  Japan
+2051  ##  www.muchmusic.com  ##  Canada
+2052  ##  spored.24ur.com  ##  Slovenia
+2053  ##  www.vh1.in  ##  United States, India
+2054  ##  www.arte.co.kr  ##  South Korea
+2055  ##  www.fox54.com  ##  Alabama, United States
+2056  ##  www.foxsportssandiego.com  ##  United States
+2057  ##  www.knn.co.kr  ##  South Korea
+2058  ##  www.ceskatelevize.cz  ##  Czechia
+2059  ##  www.si.com  ##  United States
+2060  ##  www.dizitv.com.tr  ##  Turkey
+2061  ##  sic.sapo.pt  ##  Portugal
+2062  ##  www.local10.com  ##  Florida, United States
+2063  ##  www.sat1.at  ##  Germany, Austria
+2064  ##  www.imagica-bs.com  ##  Japan
+2065  ##  www3.iconcerts.com  ##  Switzerland
+2066  ##  www.actiontv.fr  ##  France
+2067  ##  www.hustlertv.com  ##  United States
+2068  ##  geb.gebamerica.com  ##  United States
+2069  ##  www.shinnyoen.org  ##  Japan
+2070  ##  www.wndu.com  ##  Indiana, United States
+2071  ##  www.dlife.jp  ##  Japan
+2072  ##  disneyxd.disney.it  ##  United States, Italy
+2073  ##  www.kpts.org  ##  Kansas, United States
+2074  ##  edgesport.com  ##  United Kingdom
+2075  ##  www.dtourtv.com  ##  Canada
+2076  ##  www.vrak.tv  ##  Canada
+2077  ##  www.nebraska.tv  ##  Nebraska, United States
+2078  ##  www.foxtv.co.uk  ##  United States, United Kingdom
+2079  ##  www.veronicatv.nl  ##  Netherlands
+2080  ##  www.wowt.com  ##  Nebraska, United States
+2081  ##  www.boingtv.fr  ##  Italy, France
+2082  ##  www.inettv.tv  ##  South Korea
+2083  ##  www.24kitchen.pt  ##  United States, Portugal
+2084  ##  www.ksla.com  ##  Louisiana, United States
+2085  ##  www.sr.de  ##  Germany
+2086  ##  www.dmax.de  ##  United States, Germany
+2087  ##  www.uppermichiganssource.com  ##  Michigan, United States
+2088  ##  www.barmedas.tv  ##  Tanzania
+2089  ##  www.physique-tv.com  ##  United Arab Emirates
+2090  ##  www.kimt.com  ##  Iowa, United States
+2091  ##  www.foxsports.it  ##  United States, Italy
+2092  ##  programme.tvb.com  ##  Hong Kong
+2093  ##  regina.ctvnews.ca  ##  Canada
+2094  ##  www.abc19.tv  ##  Tennessee, United States
+2095  ##  tvhappy.ro  ##  Romania
+2096  ##  www.kark.com  ##  Arkansas, United States
+2097  ##  www.wakuwakujapan.tv  ##  Japan, Indonesia, Myanmar
+2098  ##  www.bloomberght.com  ##  United States, Turkey
+2099  ##  www.foxnews.com  ##  United States
+2100  ##  www.animalplanet.ca  ##  United States, Canada
+2101  ##  www.rzdtv.ru  ##  Russia
+2102  ##  br.canalsony.com  ##  India, Brazil
+2103  ##  www.tv20detroit.com  ##  Michigan, United States
+2104  ##  keiba9.com  ##  Japan
+2105  ##  www.foxchannel.de  ##  United States, Germany
+2106  ##  www.nickelodeon.ru  ##  United States
+2107  ##  www.at-x.com  ##  Japan
+2108  ##  www.wpbt2.org  ##  Florida, United States
+2109  ##  www.wlextv.com  ##  Kentucky, United States
+2110  ##  www.fishingandhuntingtv.com  ##  Hungary
+2111  ##  fox17online.com  ##  Michigan, United States
+2112  ##  adventuretv.pl  ##  Poland
+2113  ##  www.foxanimation.it  ##  United States, Italy
+2114  ##  www2.wjtv.com  ##  Mississippi, United States
+2115  ##  www.warnerchannel.com  ##  United States
+2116  ##  www.lifeok.com  ##  Hong Kong, India
+2117  ##  www.fashionboxlive.com  ##  United States
+2118  ##  tv.eurosport.ro  ##  France, Romania
+2119  ##  www.tabichan.jp  ##  Japan
+2120  ##  www.njtvonline.org  ##  New Jersey, United States
+2121  ##  www.thecwlasvegas.tv  ##  Nevada, United States
+2122  ##  www.mediasetpremium.it  ##  Italy
+2123  ##  www.wilx.com  ##  Michigan, United States
+2124  ##  www.kbzk.com  ##  Montana, United States
+2125  ##  www.wetv.com  ##  United States
+2126  ##  www.canalvie.com  ##  Canada
+2127  ##  www.dw.com  ##  Germany
+2128  ##  www.worldmate.or.jp  ##  Japan
+2129  ##  www.sportstv.com.tr  ##  Turkey
+2130  ##  www.whiotv.com  ##  Ohio, United States
+2131  ##  www.playboytv.com  ##  United States
+2132  ##  www.canalviajar.com  ##  Spain
+2133  ##  sbssports.sbs.co.kr  ##  South Korea
+2134  ##  www.wjhl.com  ##  Tennessee, United States
+2135  ##  www.eroticatv.tv  ##  Netherlands
+2136  ##  www.rai.it  ##  Italy
+2137  ##  arabic.rt.com  ##  Russia
+2138  ##  minnesota.cbslocal.com  ##  Minnesota, United States
+2139  ##  www.counton2.com  ##  South Carolina, United States
+2140  ##  qtv.joins.com  ##  South Korea
+2141  ##  www.polsatsport.pl  ##  Poland
+2142  ##  www.wxel.org  ##  Florida, United States
+2143  ##  www.nbcdfw.com  ##  Texas, United States
+2144  ##  www.mavs.com  ##  United States
+2145  ##  www.klrn.org  ##  Texas, United States
+2146  ##  www.kfdm.com  ##  Texas, United States
+2147  ##  www.abc6.com  ##  Massachusetts, United States
+2148  ##  www.trutvla.com  ##  United States
+2149  ##  www.kvrr.com  ##  North Dakota, United States
+2150  ##  www.wrex.com  ##  Illinois, United States
+2151  ##  www.ksee24.com  ##  California, United States
+2152  ##  recordminas.com  ##  Brazil
+2153  ##  www.tagesschau24.de  ##  Germany
+2154  ##  www.max.no  ##  Norway
+2155  ##  www.kjzz.com  ##  Utah, United States
+2156  ##  www.ducktv.tv  ##  Slovakia
+2157  ##  www.penthousetv.com  ##  United States
+2158  ##  www.kolotv.com  ##  Nevada, United States
+2159  ##  au.tv.yahoo.com  ##  Australia
+2160  ##  www.billiardstv.co.kr  ##  South Korea
+2161  ##  www.lifestyler.co.kr  ##  South Korea
+2162  ##  rochesterhomepage.net  ##  New York, United States
+2163  ##  www.cpbn.org  ##  Connecticut, United States
+2164  ##  www.wcjb.com  ##  Florida, United States
+2165  ##  www.hbosouthasia.com  ##  United States
+2166  ##  www.local8now.com  ##  Tennessee, United States
+2167  ##  www.wtkr.com  ##  Virginia, United States
+2168  ##  www.tv5.com.ph  ##  Philippines
+2169  ##  www.kait8.com  ##  Arkansas, United States
+2170  ##  www.klfy.com  ##  Louisiana, United States
+2171  ##  www.disney.it  ##  United States, Italy
+2172  ##  www.auto-motor-und-sport.de  ##  Germany
+2173  ##  www.shawdirect.ca  ##  Canada
+2174  ##  foxchannels.rs  ##  United States, Serbia
+2175  ##  www.mylifetime.com  ##  United States
+2176  ##  www.abc17news.com  ##  Missouri, United States
+2177  ##  www.teledom.tv  ##  Russia
+2178  ##  www.fem.no  ##  Norway
+2179  ##  www.tlcnorge.no  ##  United States, Norway
+2180  ##  www.whno.com  ##  Louisiana, United States
+2181  ##  www.kbs.co.kr  ##  South Korea
+2182  ##  www.sportdigital.de  ##  Germany
+2183  ##  www.wsav.com  ##  Georgia, United States
+2184  ##  www.beyaztv.com.tr  ##  Turkey
+2185  ##  www.sky.de  ##  Germany
+2186  ##  www.cw23.com  ##  New York, United States
+2187  ##  www.kaeftv.com  ##  California, United States
+2188  ##  www.novasports.gr  ##  Greece
+2189  ##  www.ztele.com  ##  Canada
+2190  ##  www.nbcsports.com  ##  United States
+2191  ##  www.gch.jrao.ne.jp  ##  Japan
+2192  ##  www.historytv.pl  ##  United States, Poland
+2193  ##  www.eurosport.co.uk  ##  France, United Kingdom
+2194  ##  www.anionetv.com  ##  South Korea
+2195  ##  www.wlbz2.com  ##  Maine, United States
+2196  ##  www.vanillasky-ch.com  ##  Japan
+2197  ##  www.wave3.com  ##  Kentucky, United States
+2198  ##  www.trt.net.tr  ##  Turkey
+2199  ##  www.crimeandinvestigationnetwork.com  ##  United States
+2200  ##  www.altitude.tv  ##  United States
+2201  ##  multishow.globo.com  ##  Brazil
+2202  ##  www.wfmj.com  ##  Ohio, United States
+2203  ##  www.transtv.co.id  ##  Indonesia
+2204  ##  www.davinci-learning.com  ##  Germany
+2205  ##  www.kens5.com  ##  Texas, United States
+2206  ##  www.redbyhbo.com  ##  United States, Singapore
+2207  ##  www.idahoptv.org  ##  Idaho, United States
+2208  ##  www.kjla.com  ##  California, United States
+2209  ##  www.laliga.es  ##  Spain
+2210  ##  www.insight.tv  ##  Netherlands
+2211  ##  www.rikstoto.no  ##  Norway
+2212  ##  www.axn.ro  ##  United States, Romania
+2213  ##  www.bluemovie.cc  ##  Germany
+2214  ##  www.tv3.se  ##  Sweden
+2215  ##  www.foxtvasia.com  ##  United States
+2216  ##  www.kstc45.com  ##  Minnesota, United States
+2217  ##  www.local21news.com  ##  Pennsylvania, United States
+2218  ##  www.keyetv.com  ##  Texas, United States
+2219  ##  www.ta3.com  ##  Slovakia
+2220  ##  www.qvc.de  ##  United States, Germany
+2221  ##  www.recordriopreto.com.br  ##  Brazil
+2222  ##  www.vh1.com  ##  United States
+2223  ##  www.lasexta.com  ##  Spain
+2224  ##  sport.optus.com.au  ##  Australia
+2225  ##  www.kxnet.com  ##  North Dakota, United States
+2226  ##  www.telemax.com.mx  ##  Mexico
+2227  ##  www.amctvasia.com  ##  United States
+2228  ##  oun.knou.ac.kr  ##  South Korea
+2229  ##  www.mbc.net  ##  United Arab Emirates
+2230  ##  www.raisport.rai.it  ##  Italy
+2231  ##  www.wjzy.com  ##  North Carolina, United States
+2232  ##  www.babyfirsttv.com  ##  United States
+2233  ##  www.mylifetimetv.ca  ##  United States, Canada
+2234  ##  www.3sat.de  ##  Germany
+2235  ##  www.kgla.tv  ##  Louisiana, United States
+2236  ##  www.kldotv.com  ##  Texas, United States
+2237  ##  www.mygtn.tv  ##  Florida, United States
+2238  ##  news.bbc.co.uk  ##  United Kingdom
+2239  ##  www.startv.com.tr  ##  Turkey
+2240  ##  www.historychannel.it  ##  United States, Italy
+2241  ##  www.wycc.org  ##  Illinois, United States
+2242  ##  intl.startv.com.tw  ##  Hong Kong, Singapore
+2243  ##  www.wlae.com  ##  Louisiana, United States
+2244  ##  www.hgtv.asia  ##  United States
+2245  ##  www.cnnindonesia.com  ##  United States, Indonesia
+2246  ##  www.weny.com  ##  New York, United States
+2247  ##  www.teletravelhd.tv  ##  Russia
+2248  ##  www.wavy.com  ##  Virginia, United States
+2249  ##  www.youralaskalink.com  ##  Alaska, United States
+2250  ##  www.wibw.com  ##  Kansas, United States
+2251  ##  www.keloland.com  ##  South Dakota, United States
+2252  ##  www.lifestyle.com.au  ##  Australia
+2253  ##  www.hd-plus.de  ##  Luxembourg
+2254  ##  wfc.tv  ##  Italy, Russia
+2255  ##  wgno.com  ##  Louisiana, United States
+2256  ##  intertvonline.globo.com  ##  Brazil
+2257  ##  www.boomeranghq.net  ##  United States
+2258  ##  www.ntvplus.ru  ##  Russia
+2259  ##  www.tlcpolska.pl  ##  United States, Poland
+2260  ##  www.wesh.com  ##  Florida, United States
+2261  ##  kplr11.com  ##  Missouri, United States
+2262  ##  tvmu.tv  ##  Indonesia
+2263  ##  www.ktxl.com  ##  California, United States
+2264  ##  www.france2.fr  ##  France
+2265  ##  www.wnep.com  ##  Pennsylvania, United States
+2266  ##  www.knowledge.ca  ##  Canada
+2267  ##  www.wjmbc.co.kr  ##  South Korea
+2268  ##  sport.tn.nova.cz  ##  Czechia
+2269  ##  www.kofytv.com  ##  California, United States
+2270  ##  wmfp-tv.com  ##  Massachusetts, United States
+2271  ##  www.wlmb.com  ##  Ohio, United States
+2272  ##  www.tvb.com.br  ##  Brazil
+2273  ##  www.wreg.com  ##  Tennessee, United States
+2274  ##  www.skyvision.co.jp  ##  Japan
+2275  ##  www.ksmq.org  ##  Minnesota, United States
+2276  ##  www.kanal11play.se  ##  Sweden
+2277  ##  www.khou.com  ##  Texas, United States
+2278  ##  www.idjdigital.com  ##  Serbia
+2279  ##  www.tucsonnewsnow.com  ##  Arizona, United States
+2280  ##  www.bbclatinoamerica.com  ##  United Kingdom
+2281  ##  www.knpb.org  ##  Nevada, United States
+2282  ##  wjla.com  ##  District of Columbia, United States
+2283  ##  www.kanald.com.tr  ##  Turkey
+2284  ##  www.primeboxbrazil.tv.br  ##  Brazil
+2285  ##  www.taraftv.ro  ##  Romania
+2286  ##  www.obs.co.kr  ##  South Korea
+2287  ##  www.quick6.com  ##  Arizona, United States
+2288  ##  www.telemagino.ca  ##  Canada
+2289  ##  www.ctnonline.com  ##  United States
+2290  ##  www.wtsp.com  ##  Florida, United States
+2291  ##  www.wtrf.com  ##  West Virginia, United States
+2292  ##  www.wbaltv.com  ##  Maryland, United States
+2293  ##  www.sundancechannel.la  ##  United States
+2294  ##  www.tonis.ua  ##  Ukraine
+2295  ##  www.weta.org  ##  District of Columbia, United States
+2296  ##  www.qvc.jp  ##  United States, Japan
+2297  ##  tvnz.co.nz  ##  New Zealand
+2298  ##  www.kohavision.net  ##  Serbia
+2299  ##  www.canaltro.com  ##  Colombia
+2300  ##  www.imbc.com  ##  South Korea
+2301  ##  goodfood.uktv.co.uk  ##  United Kingdom
+2302  ##  www.ctv.com.tw  ##  Taiwan
+2303  ##  www.jeemtv.net  ##  Qatar
+2304  ##  www.19actionnews.com  ##  Ohio, United States
+2305  ##  www.wqpt.org  ##  Illinois, United States
+2306  ##  www.cartoonnetworkasia.com  ##  United States
+2307  ##  univision65.univision.com  ##  New Jersey, United States
+2308  ##  www.dmax.it  ##  United States, Italy
+2309  ##  www.wtvynews4.com  ##  Alabama, United States
+2310  ##  www.nickelodeon.es  ##  United States, Spain, Portugal
+2311  ##  www.rs21.com.br  ##  Brazil
+2312  ##  www.nikkei-cnbc.co.jp  ##  United States, Japan
+2313  ##  www.mynews3.com  ##  Nevada, United States
+2314  ##  www.nbcchicago.com  ##  Illinois, United States
+2315  ##  www.wafb.com  ##  Louisiana, United States
+2316  ##  www.musicboxbrazil.tv.br  ##  Brazil
+2317  ##  www.jtbc.co.kr  ##  South Korea
+2318  ##  www.natgeo.tv  ##  United States
+2319  ##  www.canal7.tv  ##  Argentina
+2320  ##  www.turkmenelitv.com  ##  Iraq
+2321  ##  www.canalj.fr  ##  France
+2322  ##  www.axnwhite.es  ##  United States, Spain
+2323  ##  www.zeetv.com  ##  India
+2324  ##  www.wabm68.com  ##  Alabama, United States
+2325  ##  www.madisonscw.com  ##  Wisconsin, United States
+2326  ##  deportv.gov.ar  ##  Argentina
+2327  ##  starplus.startv.in  ##  Hong Kong, India
+2328  ##  www.kmos.org  ##  Missouri, United States
+2329  ##  www.viasat.no  ##  Sweden, Norway
+2330  ##  www.kuchniaplus.pl  ##  Poland
+2331  ##  www.cw18milwaukee.com  ##  Wisconsin, United States
+2332  ##  tvp1.tvp.pl  ##  Poland
+2333  ##  www.cdf.cl  ##  Chile
+2334  ##  www.teledoce.com  ##  Uruguay
+2335  ##  www.cbs8.com  ##  California, United States
+2336  ##  www.1-2-3.tv  ##  Germany
+2337  ##  www.wtae.com  ##  Pennsylvania, United States
+2338  ##  www.bloomberg.com.br  ##  United States, Brazil
+2339  ##  www.non-stop-people.com  ##  France
+2340  ##  www.kmtr.com  ##  Oregon, United States
+2341  ##  www.foxcrime.it  ##  United States, Italy
+2342  ##  www.tv3.co.nz  ##  New Zealand
+2343  ##  www.bbcchannels.com  ##  United Kingdom
+2344  ##  www.polsatplay.pl  ##  Poland
+2345  ##  www.anixehd.tv  ##  Germany
+2346  ##  www.thaqafiyatv.sa  ##  Saudi Arabia
+2347  ##  www.easternflorida.edu  ##  Florida, United States
+2348  ##  www.wqad.com  ##  Illinois, United States
+2349  ##  www.wapa.tv  ##  United States, Puerto Rico
+2350  ##  www.historymiddleeast.com  ##  United States
+2351  ##  h2.historyasia.com  ##  United States
+2352  ##  www.nhptv.org  ##  New Hampshire, United States
+2353  ##  www.disneyjunior.ca  ##  United States, Canada
+2354  ##  www.dolce-sport.ro  ##  Romania
+2355  ##  tvn24bis.pl  ##  Poland
+2356  ##  www.wmdntv.com  ##  Mississippi, United States
+2357  ##  www.ongamenet.com  ##  South Korea
+2358  ##  www.nbcmiami.com  ##  Florida, United States
+2359  ##  www.kpmrtv.com  ##  California, United States
+2360  ##  www.ionline.tv  ##  Washington, United States
+2361  ##  www.tvctime.com  ##  South Korea
+2362  ##  www.bravo.ca  ##  United States, Canada
+2363  ##  www.kluz.tv  ##  New Mexico, United States
+2364  ##  www.myfoxfairbanks.com  ##  Alaska, United States
+2365  ##  www.klrt.com  ##  Arkansas, United States
+2366  ##  www.channelstv.com  ##  Nigeria
+2367  ##  www.tolonews.com  ##  Afghanistan
+2368  ##  redeglobo.globo.com  ##  Brazil
+2369  ##  www.foxmoviestv.com  ##  United States
+2370  ##  www.cinewsnow.com  ##  Illinois, United States
+2371  ##  www.redevida.com.br  ##  Brazil
+2372  ##  www.realtimetv.it  ##  United States, Italy
+2373  ##  www.kitv.com  ##  Hawaii, United States
+2374  ##  globotv.globo.com  ##  Brazil
+2375  ##  abc7news.com  ##  California, United States
+2376  ##  www.abc23.com  ##  Pennsylvania, United States
+2377  ##  www.comedycentral.com.br  ##  United States, Brazil
+2378  ##  www.canaluno.com.co  ##  Colombia
+2379  ##  www.tvn.cl  ##  Chile
+2380  ##  www.tvone.tv  ##  United States
+2381  ##  www.wpsu.org  ##  Pennsylvania, United States
+2382  ##  www.ikbc.co.kr  ##  South Korea
+2383  ##  www.concertchanneltv.com  ##  United States
+2384  ##  www.wics.com  ##  Illinois, United States
+2385  ##  www.daai.tv  ##  Taiwan
+2386  ##  www.living.al  ##  Albania
+2387  ##  www.tvsd.com.br  ##  Brazil
+2388  ##  www.fox44tv.com  ##  Indiana, United States
+2389  ##  www.wnky.net  ##  Kentucky, United States
+2390  ##  www.jayatvnetwork.com  ##  India
+2391  ##  www.historychannel.co.il  ##  United States, Israel
+2392  ##  myafn.dodmedia.osd.mil  ##  United States
+2393  ##  www.jlc.ne.jp  ##  Japan
+2394  ##  www.my50chicago.com  ##  Illinois, United States
+2395  ##  mooztv.net  ##  Romania
+2396  ##  revolt.tv  ##  United States
+2397  ##  www.prosieben.de  ##  Germany
+2398  ##  www.hbomax.tv  ##  United States, Brazil
+2399  ##  www.midmissouricw.com  ##  Missouri, United States
+2400  ##  www.daystar.com  ##  United States
+2401  ##  www.tvagatineau.ca  ##  Canada
+2402  ##  www.skylifetv.co.kr  ##  South Korea
+2403  ##  www.lpb.org  ##  Louisiana, United States
+2404  ##  www.mangas.fr  ##  France
+2405  ##  www.aptndirect.com  ##  United Kingdom
+2406  ##  www.wxtx.com  ##  Georgia, United States
+2407  ##  www.eurosport.fr  ##  France
+2408  ##  www.upnorthlive.com  ##  Michigan, United States
+2409  ##  www.tv2.hu  ##  Hungary
+2410  ##  www.mytvtampabay.com  ##  Florida, United States
+2411  ##  www.planeteplus.com  ##  France
+2412  ##  www.sunchanneltv.com  ##  Venezuela
+2413  ##  www.kcwx.com  ##  Texas, United States
+2414  ##  www.dongatv.com  ##  South Korea
+2415  ##  www.wusatv9.com  ##  District of Columbia, United States
+2416  ##  www.tlc.com  ##  United States, Canada
+2417  ##  www.kgun9.com  ##  Arizona, United States
+2418  ##  www.alhurra.com  ##  United States
+2419  ##  www.kgmb.com  ##  Hawaii, United States
+2420  ##  ktnw.publictelevision.org  ##  Washington, United States
+2421  ##  veracidadchannel.com  ##  Mexico
+2422  ##  www.abcmontana.com  ##  Montana, United States
+2423  ##  www.foxcomedy.pl  ##  United States, Poland
+2424  ##  www.ksat.com  ##  Texas, United States
+2425  ##  www.hbo-centraleurope.com  ##  United States
+2426  ##  www.wttw.com  ##  Illinois, United States
+2427  ##  www.whyy.org  ##  Delaware, United States
+2428  ##  www.foxactionmovies.com  ##  United States
+2429  ##  rederecord.r7.com  ##  Brazil
+2430  ##  www.cwokc.com  ##  Oklahoma, United States
+2431  ##  www.local15tv.com  ##  Alabama, United States
+2432  ##  www.historyindia.com  ##  United States, India
+2433  ##  klankosova.tv  ##  Albania, Serbia
+2434  ##  www.kqet.com  ##  California, United States
+2435  ##  noe.orf.at  ##  Austria
+2436  ##  www.antena3.com  ##  Spain
+2437  ##  www.kswt.com  ##  Arizona, United States
+2438  ##  www.ktvu.com  ##  California, United States
+2439  ##  puertorico.univision.com  ##  United States, Puerto Rico
+2440  ##  www.foxwesttexas.com  ##  Texas, United States
+2441  ##  www.qvc.it  ##  United States, Italy
+2442  ##  www.cbs6albany.com  ##  New York, United States
+2443  ##  www.tvparanaiba.com.br  ##  Brazil
+2444  ##  www.history.com  ##  United States
+2445  ##  actualidad.rt.com  ##  Russia
+2446  ##  www.fox10tv.com  ##  Alabama, United States
+2447  ##  www.iztv.com.tr  ##  Turkey
+2448  ##  www.wbkb11.com  ##  Michigan, United States
+2449  ##  www.universalchannel.tv  ##  United States
+2450  ##  www.abc.net.au  ##  Australia
+2451  ##  www.asroma.com  ##  Italy
+2452  ##  www.telequebec.tv  ##  Canada
+2453  ##  idahoptv.org  ##  Idaho, United States
+2454  ##  www.disney.co.kr  ##  United States, South Korea
+2455  ##  www.ovationtv.com  ##  United States
+2456  ##  www.wskg.org  ##  New York, United States
+2457  ##  www.wviz.org  ##  Ohio, United States
+2458  ##  www.kcentv.com  ##  Texas, United States
+2459  ##  www.natgeowild.co.uk  ##  United States
+2460  ##  www.cp24.com  ##  Canada
+2461  ##  www.cqbntv.cn  ##  China
+2462  ##  www.news10.net  ##  California, United States
+2463  ##  www.wcti12.com  ##  North Carolina, United States
+2464  ##  www.andpictures.in  ##  India
+2465  ##  www.afp.com  ##  France
+2466  ##  www.korotv.com  ##  Texas, United States
+2467  ##  www.news4jax.com  ##  Florida, United States
+2468  ##  www.kpvi.com  ##  Idaho, United States
+2469  ##  www.canalhollywood.pt  ##  Spain, Portugal
+2470  ##  www.redetv.uol.com.br  ##  Brazil
+2471  ##  www.kttw.com  ##  South Dakota, United States
+2472  ##  www.oneworldsports.com  ##  United States
+2473  ##  www.france4.fr  ##  France
+2474  ##  www.kmov.com  ##  Missouri, United States
+2475  ##  www.powerturk.tv  ##  Turkey
+2476  ##  www.pbs39.org  ##  Pennsylvania, United States
+2477  ##  canalviva.globo.com  ##  Brazil
+2478  ##  www.axs.tv  ##  United States
+2479  ##  us.cnbc.com  ##  United States
+2480  ##  canalbrasil.globo.com  ##  Brazil
+2481  ##  colors.in.com  ##  India
+2482  ##  www.mynews4.com  ##  Nevada, United States
+2483  ##  www.sundancechannelglobal.com  ##  United States
+2484  ##  www.jalshamovies.com  ##  India
+2485  ##  www.andongmbc.co.kr  ##  South Korea
+2486  ##  www.wpri.com  ##  Rhode Island, United States
+2487  ##  www.112.ua  ##  Ukraine
+2488  ##  www.pbs.org  ##  United States
+2489  ##  nightcaptv.com  ##  Texas, United States
+2490  ##  www.comedycentral.la  ##  United States
+2491  ##  www.kltv.com  ##  Texas, United States
+2492  ##  www.kutp.com  ##  Arizona, United States
+2493  ##  www.wbtv.com  ##  North Carolina, United States
+2494  ##  www.big-tv.com  ##  Indonesia
+2495  ##  www.waka.com  ##  Alabama, United States
+2496  ##  www.kvia.com  ##  Texas, United States
+2497  ##  www.region10.com  ##  Arkansas, United States
+2498  ##  www.kera.org  ##  Texas, United States
+2499  ##  www.onehd.net  ##  Thailand
+2500  ##  www.whec.com  ##  New York, United States
+2501  ##  www.nbc26.com  ##  Wisconsin, United States
+2502  ##  www.franceo.fr  ##  France
+2503  ##  ngckorea.com  ##  United States, South Korea
+2504  ##  www.colmaxtv.com  ##  France
+2505  ##  www.ksmstv.com  ##  California, United States
+2506  ##  smhos.org  ##  Nigeria
+2507  ##  www.nbcnewyork.com  ##  New York, United States
+2508  ##  pix11.com  ##  New York, United States
+2509  ##  www.tnt-tv.de  ##  United States, Germany
+2510  ##  12ktrv.com  ##  Idaho, United States
+2511  ##  www.wosu.org  ##  Ohio, United States
+2512  ##  www.canaltnt.es  ##  United States, Spain
+2513  ##  www.kwch.com  ##  Kansas, United States
+2514  ##  www.kbtx.com  ##  Texas, United States
+2515  ##  www.fox47news.com  ##  Michigan, United States
+2516  ##  kids.skylife.co.kr  ##  South Korea
+2517  ##  www.primetv.co.nz  ##  New Zealand
+2518  ##  www.tvmas.mx  ##  Mexico
+2519  ##  www.abclocal.go.com  ##  Texas, United States
+2520  ##  www.kshv.com  ##  Louisiana, United States
+2521  ##  www.iaa.bh  ##  Bahrain
+2522  ##  wtvnoticias.tv  ##  Mexico
+2523  ##  www.wfn.tv  ##  Canada
+2524  ##  www.la7.it  ##  Italy
+2525  ##  www.wpxi.com  ##  Pennsylvania, United States
+2526  ##  maschic.com  ##  United States
+2527  ##  knlc.tv  ##  Missouri, United States
+2528  ##  tvslow.com  ##  Russia
+2529  ##  www.tvaabitibi.ca  ##  Canada
+2530  ##  www.seasons.fr  ##  France
+2531  ##  www.kgw.com  ##  Oregon, United States
+2532  ##  sportv.globo.com  ##  Brazil
+2533  ##  www.macon.tv  ##  Georgia, United States
+2534  ##  www.canaltcm.com  ##  United States, Spain
+2535  ##  www.wtvr.com  ##  Virginia, United States
+2536  ##  www.syfy.de  ##  United States, Germany
+2537  ##  rtl.hu  ##  Germany, Hungary
+2538  ##  www.khsltv.com  ##  California, United States
+2539  ##  freedom43tv.com  ##  Oklahoma, United States
+2540  ##  www.mtuneshd.com  ##  India
+2541  ##  www.addik.tv  ##  Canada
+2542  ##  www.tvnstyle.pl  ##  Poland
+2543  ##  www.wtcitv.org  ##  Tennessee, United States
+2544  ##  www.zeemarathi.com  ##  India
+2545  ##  iskushenie.tv  ##  Russia
+2546  ##  www.fujitv.co.jp  ##  Japan
+2547  ##  www.investigationdiscovery.com  ##  United States
+2548  ##  www.discoverykidsbrasil.com  ##  United States, Brazil
+2549  ##  www.fox43tv.com  ##  Virginia, United States
+2550  ##  www.foxtv.pl  ##  United States, Poland
+2551  ##  www.fox8tv.com  ##  Pennsylvania, United States
+2552  ##  itv-choice.com  ##  United Kingdom
+2553  ##  www.br.de  ##  Germany
+2554  ##  www.sirina.tv  ##  Greece
+2555  ##  www.wric.com  ##  Virginia, United States
+2556  ##  spiintl.com  ##  United States
+2557  ##  www.thecwchattanooga.net  ##  Tennessee, United States
+2558  ##  www.erietvnews.com  ##  Pennsylvania, United States
+2559  ##  www.cw56.com  ##  Massachusetts, United States
+2560  ##  www.fyiasia.tv  ##  United States
+2561  ##  dsc.discovery.com  ##  United States, Italy
+2562  ##  www.travelxp.tv  ##  India
+2563  ##  www.ebo.tv  ##  Bolivia
+2564  ##  www.hitstv.com  ##  Singapore
+2565  ##  www.13abc.com  ##  Ohio, United States
+2566  ##  www.r-9.at  ##  Austria
+2567  ##  www.shepherdschapel.com  ##  United States
+2568  ##  www.seuhistory.com  ##  United States, Brazil
+2569  ##  www.csnnw.com  ##  United States
+2570  ##  www.wkrg.com  ##  Alabama, United States
+2571  ##  www.planeteplus.pl  ##  France, Poland
+2572  ##  www.daytonscw.com  ##  Ohio, United States
+2573  ##  www.rtbf.be  ##  Belgium
+2574  ##  www.setv.com.cn  ##  China
+2575  ##  www.abccolumbia.com  ##  South Carolina, United States
+2576  ##  www.ses.com  ##  Luxembourg
+2577  ##  www.one.co.il  ##  Israel
+2578  ##  www.olivetv.co.kr  ##  South Korea
+2579  ##  www.canaltbs.com.br  ##  United States, Brazil
+2580  ##  www.animal-planet.jp  ##  United States, Japan
+2581  ##  theadvocate.com  ##  Louisiana, United States
+2582  ##  www.kxxv.com  ##  Texas, United States
+2583  ##  www.wapt.com  ##  Mississippi, United States
+2584  ##  www.hsn.com  ##  United States
+2585  ##  www.houstonpbs.org  ##  Texas, United States
+2586  ##  www.cnycentral.com  ##  New York, United States
+2587  ##  www.canalsat.fr  ##  France
+2588  ##  msnlatino.telemundo.com  ##  New Hampshire, United States
+2589  ##  www.my29tv.com  ##  Minnesota, United States
+2590  ##  www.polsat.pl  ##  Poland
+2591  ##  www.kfbb.com  ##  Montana, United States
+2592  ##  www.fishing-v.jp  ##  Japan
+2593  ##  www.hallmarkmoviesandmysteries.com  ##  United States
+2594  ##  www.fox5sandiego.com  ##  California, United States
+2595  ##  www.myabc5.com  ##  Iowa, United States
+2596  ##  www.espn.com.au  ##  United States, Australia
+2597  ##  www.itele.fr  ##  France
+2598  ##  www.unavozcontodos.mx  ##  Mexico
+2599  ##  www.ytv.com  ##  Canada
+2600  ##  www.npo.nl  ##  Netherlands
+2601  ##  videorola.com  ##  Mexico
+2602  ##  tv.sbs.co.kr  ##  South Korea
+2603  ##  miami.cbslocal.com  ##  Florida, United States
+2604  ##  vtv.vn  ##  Vietnam
+2605  ##  wkar.org  ##  Michigan, United States
+2606  ##  www.bbcpolska.com  ##  United Kingdom, Poland, Turkey
+2607  ##  www.cts.com.tw  ##  Taiwan
+2608  ##  www.opb.org  ##  Oregon, United States
+2609  ##  www.wdsu.com  ##  Louisiana, United States
+2610  ##  www.directv.com  ##  United States
+2611  ##  reseau.tva.ca  ##  Canada
+2612  ##  43theblock.com  ##  Ohio, United States
+2613  ##  www.hbtv.com.cn  ##  China
+2614  ##  prosports.mbc.net  ##  United Arab Emirates
+2615  ##  sport.tv2.dk  ##  Denmark
+2616  ##  www.cw6sandiego.com  ##  United States, Mexico
+2617  ##  mywdka.com  ##  Kentucky, United States
+2618  ##  www.turnto10.com  ##  Rhode Island, United States
+2619  ##  www.showcase.ca  ##  Canada
+2620  ##  www.ziggosporttotaal.nl  ##  Netherlands
+2621  ##  www.wzrb.tv  ##  South Carolina, United States
+2622  ##  www.themuseumchannel.tv  ##  France
+2623  ##  www.gactv.com  ##  United States
+2624  ##  www.waaytv.com  ##  Alabama, United States
+2625  ##  www.tvnturbo.pl  ##  Poland
+2626  ##  krcb.org  ##  California, United States
+2627  ##  doc.aljazeera.net  ##  Qatar
+2628  ##  www.scetv.org  ##  South Carolina, United States
+2629  ##  www.weau.com  ##  Wisconsin, United States
+2630  ##  www.wwmt.com  ##  Michigan, United States
+2631  ##  www.nfl.com  ##  United States
+2632  ##  www.stjoechannel.com  ##  Missouri, United States
+2633  ##  www.axn.pt  ##  United States, Portugal
+2634  ##  www.tlctv.com.br  ##  United States, Brazil
+2635  ##  mbn.mk.co.kr  ##  South Korea
+2636  ##  www.rtlnitro.de  ##  Germany
+2637  ##  www.oln.ca  ##  Canada
+2638  ##  www.homestorytv.com  ##  South Korea
+2639  ##  www.wmyo.com  ##  Kentucky, United States
+2640  ##  www.foxcarolina.com  ##  South Carolina, United States
+2641  ##  www.kvoa.com  ##  Arizona, United States
+2642  ##  www.tvp.pl  ##  Poland
+2643  ##  www.kezi.com  ##  Oregon, United States
+2644  ##  www.wptv.com  ##  Florida, United States
+2645  ##  www.tivibuspor.com  ##  Turkey
+2646  ##  www.wpbstv.org  ##  New York, United States
+2647  ##  willax.tv  ##  Peru
+2648  ##  disney.go.com  ##  United States
+2649  ##  www.kplus-asia.com  ##  South Korea
+2650  ##  www.live5news.com  ##  South Carolina, United States
+2651  ##  www.naaptol.com  ##  India
+2652  ##  www.ktvn.com  ##  Nevada, United States
+2653  ##  www.kcsm.org  ##  California, United States
+2654  ##  www.skyperfectv.co.jp  ##  Japan
+2655  ##  www.mylaredofox.com  ##  Texas, United States
+2656  ##  www.pearl.de  ##  Germany
+2657  ##  www.foxlexington.com  ##  Kentucky, United States
+2658  ##  zulu.tv2.dk  ##  Denmark
+2659  ##  www.ntv.com.tr  ##  Turkey
+2660  ##  www.fox51.com  ##  Texas, United States
+2661  ##  www.kansascw.com  ##  Kansas, United States
+2662  ##  www.cwarkansas.com  ##  Arkansas, United States
+2663  ##  www.videocond2h.com  ##  India
+2664  ##  www.wydctv.com  ##  New York, United States
+2665  ##  mundonick.uol.com.br  ##  United States, Brazil
+2666  ##  www.whut.org  ##  District of Columbia, United States
+2667  ##  www.13ulica.pl  ##  United States, Poland
+2668  ##  www.kcostv.org  ##  Texas, United States
+2669  ##  www.wandtv.com  ##  Illinois, United States
+2670  ##  www.zdfinfo.de  ##  Germany
+2671  ##  unis.ca  ##  Canada
+2672  ##  www.newmexicopbs.org  ##  New Mexico, United States
+2673  ##  www.cth.co.th  ##  Thailand
+2674  ##  www.thecomedynetwork.ca  ##  Canada
+2675  ##  www.showtv.com.tr  ##  Turkey
+2676  ##  www.futura.org.br  ##  Brazil
+2677  ##  zhongwen.astro.com.my  ##  Malaysia
+2678  ##  mx.tuhistory.com  ##  United States
+2679  ##  www.atresseries.com  ##  Spain
+2680  ##  www.nbcuniverso.com  ##  United States
+2681  ##  www.mvtv.co.th  ##  Thailand
+2682  ##  www.kika.de  ##  Germany
+2683  ##  www.kplctv.com  ##  Louisiana, United States
+2684  ##  ttv.pl  ##  Poland
+2685  ##  tvcultura.com.br  ##  Brazil
+2686  ##  www.my48.tv  ##  North Carolina, United States
+2687  ##  www.utvaction.in  ##  India
+2688  ##  www.kspr.com  ##  Missouri, United States
+2689  ##  www.aniplus-asia.com  ##  South Korea
+2690  ##  www.wevv.com  ##  Indiana, United States
+2691  ##  www.mytv30web.com  ##  Tennessee, United States
+2692  ##  mtv.uol.com.br  ##  United States, Brazil
+2693  ##  www.cartoonnetworkeurope.com  ##  United States
+2694  ##  www.tycsports.com  ##  Argentina
+2695  ##  www.cwtv.com  ##  United States
+2696  ##  www.kvcr.org  ##  California, United States
+2697  ##  tvbrasil.ebc.com.br  ##  Brazil
+2698  ##  www.channel21.de  ##  Germany
+2699  ##  www.vtv.com.br  ##  Brazil
+2700  ##  tricolor.tv  ##  Russia
+2701  ##  www.rfm.fr  ##  France
+2702  ##  www.divatv.asia  ##  United States
+2703  ##  www.cbs12.com  ##  Florida, United States
+2704  ##  www.34cwtv.com  ##  Florida, United States
+2705  ##  www.pbshawaii.org  ##  Hawaii, United States
+2706  ##  www.witn.com  ##  North Carolina, United States
+2707  ##  www.aptv.org  ##  Alabama, United States
+2708  ##  www.braintv.co.kr  ##  South Korea
+2709  ##  www.starselect.com  ##  Hong Kong
+2710  ##  klax-tv.com  ##  Louisiana, United States
+2711  ##  www.sukachan.com  ##  Japan
+2712  ##  www.abc12.com  ##  Michigan, United States
+2713  ##  www.myfoxnepa.com  ##  Pennsylvania, United States
+2714  ##  www.nbc12.com  ##  Virginia, United States
+2715  ##  www.tjmbc.co.kr  ##  South Korea
+2716  ##  dramax.cu-media.co.kr  ##  South Korea
+2717  ##  www.bbcasia.com  ##  United Kingdom
+2718  ##  www.lala.tv  ##  Japan
+2719  ##  www.delta.edu  ##  Michigan, United States
+2720  ##  www1.movistarplus.es  ##  Spain
+2721  ##  hollywoodsuite.ca  ##  Canada
+2722  ##  www.whotv.com  ##  Iowa, United States
+2723  ##  www.sky4tv.com  ##  North Carolina, United States
+2724  ##  telecine.globo.com  ##  Brazil
+2725  ##  www.disneyme.com  ##  United States
+2726  ##  www.wday.com  ##  North Dakota, United States
+2727  ##  www.whsv.com  ##  Virginia, United States
+2728  ##  www.myfoxal.com  ##  Alabama, United States
+2729  ##  www.ksfy.com  ##  South Dakota, United States
+2730  ##  www.foxlife.it  ##  United States, Italy
+2731  ##  www.outdoorchannel.com  ##  United States
+2732  ##  www.cwbaltimore.com  ##  Maryland, United States
+2733  ##  www.markiza.sk  ##  Slovakia
+2734  ##  www.discoverychannel.no  ##  United States, Norway
+2735  ##  www.qtv.qa  ##  Qatar
+2736  ##  www.ulketv.com.tr  ##  Turkey
+2737  ##  www.oi.com.br  ##  Brazil
+2738  ##  www.tlc-tv.ru  ##  United States, Russia
+2739  ##  nrttv.com  ##  Iraq
+2740  ##  www.reydesalem.com  ##  United States
+2741  ##  www.digi-world.tv  ##  Romania
+2742  ##  www.abc17.tv  ##  North Dakota, United States
+2743  ##  www.wxix.com  ##  Ohio, United States
+2744  ##  www.wvpubcast.org  ##  West Virginia, United States
+2745  ##  www.aalitv.edu.sa  ##  Saudi Arabia
+2746  ##  www.fxtvasia.com  ##  United States
+2747  ##  www.keyt.com  ##  California, United States
+2748  ##  mega.tv  ##  Florida, United States
+2749  ##  www.ktva.com  ##  Alaska, United States
+2750  ##  www.smithsonianchannel.com  ##  United States
+2751  ##  www.gci.com  ##  United States
+2752  ##  www.wptz.com  ##  Vermont, United States
+2753  ##  www.polsatcafe.pl  ##  Poland
+2754  ##  www.kfre.com  ##  California, United States
+2755  ##  www.tv8.sk  ##  Slovakia
+2756  ##  www.tv5.co.th  ##  Thailand
+2757  ##  kchftv.org  ##  New Mexico, United States
+2758  ##  www.htvc.vn  ##  Vietnam
+2759  ##  setantaeurasia.com  ##  Ireland
+2760  ##  www.abc57.com  ##  Indiana, United States
+2761  ##  www.bashundharagroup.com  ##  Bangladesh
+2762  ##  www.tvpasiones.com  ##  United States
+2763  ##  www.golfchannel-la.com  ##  United States
+2764  ##  www.wbtw.com  ##  South Carolina, United States
+2765  ##  www.abc3340.com  ##  Alabama, United States
+2766  ##  brava.stingray.com  ##  Canada, Netherlands
+2767  ##  bfmbusiness.bfmtv.com  ##  France
+2768  ##  www.indianasnewscenter.com  ##  Indiana, United States
+2769  ##  fox2now.com  ##  Missouri, United States
+2770  ##  www.cetv1.com  ##  China
+2771  ##  www.wtto21.com  ##  Alabama, United States
+2772  ##  www.wdam.com  ##  Mississippi, United States
+2773  ##  www.kutv.com  ##  Utah, United States
+2774  ##  www.kxlatv.com  ##  California, United States
+2775  ##  www.canalfx.tv  ##  United States
+2776  ##  www.channelnewsasia.com  ##  Singapore
+2777  ##  www.wyes.org  ##  Louisiana, United States
+2778  ##  www.mpbonline.org  ##  Mississippi, United States
+2779  ##  www.superecran.com  ##  Canada
+2780  ##  www.disneyxd.ca  ##  United States, Canada
+2781  ##  www.viasat4.no  ##  Norway
+2782  ##  www.kpbt.org  ##  Texas, United States
+2783  ##  www.thecwtc.com  ##  Minnesota, United States
+2784  ##  www.mtv.it  ##  United States, Italy
+2785  ##  edition.cnn.com  ##  United States
+2786  ##  www.abc5.tv  ##  United States, Puerto Rico
+2787  ##  www.disney.fr  ##  United States, France
+2788  ##  www.cinemaworld.asia  ##  Singapore
+2789  ##  jp.mnet.com  ##  South Korea, Japan
+2790  ##  www.myfoxphoenix.com  ##  Arizona, United States
+2791  ##  www.arirang.co.kr  ##  South Korea
+2792  ##  www.kint.com  ##  Texas, United States
+2793  ##  www.nbc11news.com  ##  Colorado, United States
+2794  ##  www.ahaber.com.tr  ##  Turkey
+2795  ##  www.spiketv.com  ##  United States
+2796  ##  jtbcgolf.joins.com  ##  South Korea
+2797  ##  www.disneychannel.jp  ##  United States, Japan
+2798  ##  www.bnn.ca  ##  Canada
+2799  ##  www.canalplus.pl  ##  Poland
+2800  ##  www.cinemax.eu  ##  United States
+2801  ##  www.rtn.tv  ##  United States
+2802  ##  www.wate.com  ##  Tennessee, United States
+2803  ##  www.cinemaxasia.com  ##  United States
+2804  ##  www.wgbctv.com  ##  Mississippi, United States
+2805  ##  www.lotteimall.com  ##  South Korea
+2806  ##  www.novacinema.gr  ##  Greece
+2807  ##  www.naturerelaxation.com  ##  United States
+2808  ##  www.wacp.com  ##  New Jersey, United States
+2809  ##  www.cabletv.com.hk  ##  Hong Kong
+2810  ##  vizionplus.al  ##  Albania
+2811  ##  www.wsre.org  ##  Florida, United States
+2812  ##  www.vgtv.no  ##  Norway
+2813  ##  www.discoverychannel.pl  ##  United States, Poland
+2814  ##  www.rtl4.nl  ##  Netherlands
+2815  ##  www.hbodefined.in  ##  United States, India
+2816  ##  www.atv.at  ##  Austria
+2817  ##  www2.wrbl.com  ##  Georgia, United States
+2818  ##  www.cartoonnetwork.co.jp  ##  United States, Japan
+2819  ##  www.cwbayarea.com  ##  California, United States
+2820  ##  www.syfy.es  ##  United States, Spain
+2821  ##  www.kcwy13.com  ##  Wyoming, United States
+2822  ##  www.nsport.pl  ##  Poland
+2823  ##  www.krem.com  ##  Washington, United States
+2824  ##  www.lejel.co.id  ##  Indonesia
+2825  ##  www.asiantv.co.kr  ##  South Korea
+2826  ##  www.foodnetwork.com  ##  United States
+2827  ##  mystateline.com  ##  Illinois, United States
+2828  ##  tv.sport1.de  ##  Germany
+2829  ##  www.nbc-2.com  ##  Florida, United States
+2830  ##  www.cjoshopping.com  ##  South Korea
+2831  ##  stylecast.co.jp  ##  Japan
+2832  ##  www.mypittsburghtv.com  ##  Pennsylvania, United States
+2833  ##  www.foodnetworkasia.com  ##  United States
+2834  ##  www.telenovela.co.kr  ##  South Korea
+2835  ##  tlum.ru  ##  Russia
+2836  ##  www.wmht.org  ##  New York, United States
+2837  ##  www.kwkb.com  ##  Iowa, United States
+2838  ##  westernreservepublicmedia.org  ##  Ohio, United States
+2839  ##  www.wsmv.com  ##  Tennessee, United States
+2840  ##  tv.haberturk.com  ##  Turkey
+2841  ##  www.hebtv.com.cn  ##  China
+2842  ##  www.spotv.net  ##  South Korea
+2843  ##  www.lemar.tv  ##  Afghanistan
+2844  ##  www.immall.co.kr  ##  South Korea
+2845  ##  www.wnct.com  ##  North Carolina, United States
+2846  ##  arenatv.sk  ##  Slovakia
+2847  ##  www.fox.com.tr  ##  United States, Turkey
+2848  ##  www.wnem.com  ##  Michigan, United States
+2849  ##  la.canalsony.com  ##  India
+2850  ##  www.kmsstv.com  ##  Louisiana, United States
+2851  ##  www.1tv.ru  ##  Russia
+2852  ##  fox13now.com  ##  Utah, United States
+2853  ##  www.deluxemusic.tv  ##  Germany
+2854  ##  www.ktvl.com  ##  Oregon, United States
+2855  ##  www.news10.com  ##  New York, United States
+2856  ##  www.filmplusz.hu  ##  Hungary
+2857  ##  www.cmt.com  ##  United States
+2858  ##  recruit.hnsmall.co.kr  ##  South Korea
+2859  ##  www.kztv10.com  ##  Texas, United States
+2860  ##  www.wbra.org  ##  Virginia, United States
+2861  ##  www.6ter.fr  ##  France, Switzerland
+2862  ##  univision41.univision.com  ##  Texas, United States
+2863  ##  www.wwltv.com  ##  Louisiana, United States
+2864  ##  www.wveatv.com  ##  Florida, United States
+2865  ##  www.emarattv.ae  ##  United Arab Emirates
+2866  ##  www.kmtv.asia  ##  South Korea
+2867  ##  www.axn.cz  ##  United States, Czechia
+2868  ##  www.sport1tv.hu  ##  Hungary
+2869  ##  www.gzstv.com  ##  China
+2870  ##  www.11alive.com  ##  Georgia, United States
+2871  ##  www.katu.com  ##  Oregon, United States
+2872  ##  foxtelmovies.com.au  ##  Australia
+2873  ##  www.kljb.com  ##  Iowa, United States
+2874  ##  www.entv.dz  ##  Algeria
+2875  ##  www.discoveryafrica.com  ##  United States
+2876  ##  www.wlrn.org  ##  Florida, United States
+2877  ##  www.eurosport.de  ##  France, Germany
+2878  ##  www.skysport.co.nz  ##  New Zealand
+2879  ##  pahomepage.com  ##  Pennsylvania, United States
+2880  ##  www.foxreno.com  ##  Nevada, United States
+2881  ##  www.filmeuropechannel.eu  ##  Czechia
+2882  ##  tv.chosun.com  ##  South Korea
+2883  ##  www.equidia.fr  ##  France
+2884  ##  mbc3.mbc.net  ##  United Arab Emirates
+2885  ##  www.wetmtv.com  ##  New York, United States
+2886  ##  www.multimedios.com  ##  Mexico
+2887  ##  www.studiouniversal.co.za  ##  United States
+2888  ##  www.mgmhd.com  ##  United States, Russia
+2889  ##  rtl-crime.rtl.de  ##  Germany
+2890  ##  www.spacego.tv  ##  Argentina
+2891  ##  www.tct.tv  ##  United States
+2892  ##  www.vox.de  ##  Germany
+2893  ##  news.ebc.net.tw  ##  Taiwan
+2894  ##  www.rts.ch  ##  Switzerland
+2895  ##  www.newschannel6.tv  ##  Louisiana, United States
+2896  ##  www.cooltv.hu  ##  Hungary
+2897  ##  univisionnuevayork.univision.com  ##  New Jersey, United States
+2898  ##  www.fyi.tv  ##  United States
+2899  ##  www.stv.tv  ##  United Kingdom
+2900  ##  www.abc15.com  ##  Arizona, United States
+2901  ##  tirol.orf.at  ##  Austria
+2902  ##  www.sproutonline.com  ##  United States
+2903  ##  jojcinema.cz  ##  Slovakia
+2904  ##  www.ideastream.org  ##  Ohio, United States
+2905  ##  www.exploratv.it  ##  Italy
+2906  ##  www.nbcsandiego.com  ##  California, United States
+2907  ##  ozarksfirst.com  ##  Missouri, United States
+2908  ##  www.net5.nl  ##  Netherlands
+2909  ##  www.fox21online.com  ##  Minnesota, United States
+2910  ##  www.paramountchannel.pl  ##  United States, Poland
+2911  ##  1001.sinematv.com.tr  ##  Turkey
+2912  ##  www.wtnzfox43.com  ##  Tennessee, United States
+2913  ##  www.kmph.com  ##  California, United States
+2914  ##  web.ubc.co.kr  ##  South Korea
+2915  ##  www.bs-tbs.co.jp  ##  Japan
+2916  ##  www.eclectic-wiyc.net  ##  Alabama, United States
+2917  ##  www.my20dc.com  ##  District of Columbia, United States
+2918  ##  www.oeta.tv  ##  Oklahoma, United States
+2919  ##  www.fxtv.com.au  ##  United States, Australia
+2920  ##  www.myfoxphilly.com  ##  Pennsylvania, United States
+2921  ##  www.nbc33tv.com  ##  Louisiana, United States
+2922  ##  www.wvua7.com  ##  Alabama, United States
+2923  ##  www.candytv.eu  ##  Russia
+2924  ##  www.jawapos.tv  ##  Indonesia
+2925  ##  www.fxnetworks.com  ##  United States
+2926  ##  www.truevisionstv.com  ##  Thailand
+2927  ##  msn.foxsports.com  ##  United States
+2928  ##  www.zuku.co.ke  ##  Kenya
+2929  ##  www.ucvmedios.cl  ##  Chile
+2930  ##  www.woai.com  ##  Texas, United States
+2931  ##  www.nrj-play.fr  ##  France
+2932  ##  www.mytvcharleston.com  ##  South Carolina, United States
+2933  ##  foxcrime.canais-fox.pt  ##  United States, Portugal
+2934  ##  univisiondallas.univision.com  ##  Texas, United States
+2935  ##  www.zeecafe.tv  ##  India
+2936  ##  www.eftv.co.kr  ##  South Korea
+2937  ##  www.foxtvpuertorico.com  ##  United States, Puerto Rico, Virgin Islands (US)
+2938  ##  www.minbcnews.com  ##  Michigan, United States
+2939  ##  www.mediaset.it  ##  Italy
+2940  ##  prise2.canoe.com  ##  Canada
+2941  ##  www.hbolatino.com  ##  United States
+2942  ##  sport.videoland.com.tw  ##  Taiwan
+2943  ##  www.bbc.co.uk  ##  United Kingdom
+2944  ##  www.kgcwtv.com  ##  Iowa, United States
+2945  ##  www.ktiv.com  ##  Iowa, United States
+2946  ##  sport.bt.com  ##  United Kingdom
+2947  ##  www.kalb.com  ##  Louisiana, United States
+2948  ##  www.kxvo.com  ##  Nebraska, United States
+2949  ##  www.mgmmovies.co.il  ##  United States, Israel
+2950  ##  plus.joj.sk  ##  Slovakia
+2951  ##  www.tntla.com  ##  United States, Colombia
+2952  ##  hdtv.vtc.vn  ##  Vietnam
+2953  ##  www.hometownstations.com  ##  Ohio, United States
+2954  ##  www.4029tv.com  ##  Arkansas, United States
+2955  ##  www.alarabiya.net  ##  United Arab Emirates
+2956  ##  www.krcrtv.com  ##  California, United States
+2957  ##  www.csnphilly.com  ##  United States
+2958  ##  www.kvtv13laredo.com  ##  Texas, United States
+2959  ##  www.disney.pl  ##  United States, Poland
+2960  ##  www.keprtv.com  ##  Washington, United States
+2961  ##  www.pptvthailand.com  ##  Thailand
+2962  ##  ebstv.tv  ##  United States
+2963  ##  www.vtv.com.uy  ##  Uruguay
+2964  ##  www.sophiatv.de  ##  Germany
+2965  ##  fox59.com  ##  Indiana, United States
+2966  ##  ch.interest.me  ##  South Korea
+2967  ##  www.6-eren.dk  ##  Denmark
+2968  ##  www.ibsportstv.com  ##  South Korea
+2969  ##  www.wkyt.com  ##  Kentucky, United States
+2970  ##  natgeotv.com  ##  United States
+2971  ##  www.cuatro.com  ##  Spain
+2972  ##  www.dish.com  ##  United States
+2973  ##  www.bs-j.co.jp  ##  Japan
+2974  ##  www.bnt.bg  ##  Bulgaria
+2975  ##  tv8.it  ##  Italy
+2976  ##  www.crimeandinvestigation.co.uk  ##  United States, United Kingdom
+2977  ##  www.mediaoffice.ae  ##  United Arab Emirates
+2978  ##  www.k5thehometeam.com  ##  Hawaii, United States
+2979  ##  www.wisconsinscw.com  ##  Wisconsin, United States
+2980  ##  premiere.starworld.in  ##  Hong Kong
+2981  ##  www.cignal.tv  ##  Philippines
+2982  ##  www.ctvn.org  ##  Pennsylvania, United States
+2983  ##  www.wfsu.org  ##  Florida, United States
+2984  ##  www.syfy.fr  ##  United States, France
+2985  ##  www.msnewsnow.com  ##  Mississippi, United States
+2986  ##  diemaxtra.novatv.bg  ##  Bulgaria
+2987  ##  www.unire.gov.it  ##  Italy
+2988  ##  indomaret.co.id  ##  Indonesia
+2989  ##  tvanouvelles.ca  ##  Canada
+2990  ##  www.kcci.com  ##  Iowa, United States
+2991  ##  www.tcmcinema.fr  ##  United States, France
+2992  ##  www.foxsports.my  ##  United States, Malaysia
+2993  ##  www.babytv.com  ##  United Kingdom
+2994  ##  www.movietimetv.ca  ##  Canada
+2995  ##  www.foxtv.ru  ##  United States, Russia
+2996  ##  univision23.univision.com  ##  Florida, United States
+2997  ##  www.montecarlotv.com.uy  ##  Uruguay
+2998  ##  www.759ch.tv  ##  Japan
+2999  ##  www.iprima.cz  ##  Czechia
+3000  ##  www.bbt757.co.jp  ##  Japan
+3001  ##  www.lifetv.org.tw  ##  Taiwan
+3002  ##  tv.khl.ru  ##  Russia
+3003  ##  www.hopechannel.de  ##  United States, Germany
+3004  ##  digitalb.al  ##  Albania
+3005  ##  www.fox2548.com  ##  Wisconsin, United States
+3006  ##  www.radio-canada.ca  ##  Canada
+3007  ##  www.wtov9.com  ##  Ohio, United States
+3008  ##  www.comedycentral.pl  ##  United States, Poland
+3009  ##  www.wfxb.com  ##  South Carolina, United States
+3010  ##  www.sky.com.mx  ##  Mexico
+3011  ##  www.atv.pe  ##  Peru
+3012  ##  www.starsports.com  ##  Hong Kong, India
+3013  ##  www.sohotv.com.au  ##  Australia
+3014  ##  www.boomerangtv.co.uk  ##  United States, United Kingdom
+3015  ##  www.zeeone.de  ##  India, Germany
+3016  ##  www.syfy.com  ##  United States
+3017  ##  www.cheknews.ca  ##  Canada
+3018  ##  www.france5.fr  ##  France
+3019  ##  www.histoire.fr  ##  France
+3020  ##  www.pmcmtv.com  ##  New Jersey, United States
+3021  ##  www.azpm.org  ##  Arizona, United States
+3022  ##  www.foxla.com  ##  California, United States
+3023  ##  www.spaceshowertv.com  ##  Japan
+3024  ##  www.smg.cn  ##  China
+3025  ##  www.abc24.com  ##  Tennessee, United States
+3026  ##  www.wvec.com  ##  Virginia, United States
