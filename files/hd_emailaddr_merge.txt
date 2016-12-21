@@ -8,11 +8,21 @@ pix@8newsnow.com
 vmurphy@8newsnow.com
 cmaathuis@8newsnow.com
 
-002, extracted from search results of : www.9news.com
+002, extracted from search results of : www.9and10news.com
+TessiaKlix@9and10news.com
+
+003, extracted from search results of : www.9news.com
 pfkusa@9news.com
 kusa@9news.com
 
-003, extracted from search results of : www.acmilan.com
+004, extracted from search results of : www.abcactionnews.com
+Info_VABPetitioner@leeclerk.org
+iteam@abcactionnews.com
+cwilliams@abcactionnews.com
+jcallaway@abcactionnews.com
+Info@fdle.state.fl.us
+
+005, extracted from search results of : www.acmilan.com
 highopes@163.com
 Ly.Mi@163.com
 mosha0@163.com
@@ -21,24 +31,24 @@ nine@acmilan.com.cn
 dfzjacm@acmilan.com.cn
 wsmy8812135@yahoo.cn
 
-004, extracted from search results of : www.aetv.com
+006, extracted from search results of : www.aetv.com
 feedback@aetv.com
 homevideo@aetv.com
 
-005, extracted from search results of : www.amctv.com
+007, extracted from search results of : www.amctv.com
 info@amctv.com
 Charlie.Collier@amctv.com
 
-006, extracted from search results of : www.animalplanet.com
+008, extracted from search results of : www.animalplanet.com
 quiltro@animalplanet.com
 
-007, extracted from search results of : www.antena3.ro
+009, extracted from search results of : www.antena3.ro
 carla.donciu@antena3.ro
 
-008, extracted from search results of : www.anvien.vn
+010, extracted from search results of : www.anvien.vn
 noreply@rhyta.com
 
-009, extracted from search results of : www.arte.tv
+011, extracted from search results of : www.arte.tv
 hr4@hr-online.de
 hr2@hr-online.de
 info@br-online.de
@@ -46,40 +56,68 @@ info@phoenix.de
 wochenblatt@szbz.de
 hr1@hr-online.de
 
-010, extracted from search results of : www.bakersfieldnow.com
+012, extracted from search results of : www.assembly.go.kr
+jangks@assembly.go.kr
+dhcho@assembly.go.kr
+2020jwk@assembly.go.kr
+queendie@gmail.com
+bgchoung@assembly.go.kr
+m567h@na.go.kr
+jhs01000@hanmail.net
+johj98@assembly.go.kr
+
+013, extracted from search results of : www.bakersfieldnow.com
 ant@gogocast.com
 
-011, extracted from search results of : www.bet.com
+014, extracted from search results of : www.bet.com
 Vincent.M.morris@bet.com
 Vincent@bet.com
 llamarr@bet.com
 
-012, extracted from search results of : www.bibeltv.de
+015, extracted from search results of : www.bibeltv.de
 info@bibeltv.de
 
-013, extracted from search results of : www.canal9.com.ar
+016, extracted from search results of : www.canal9.com.ar
 lacornisa@sion.com
 kummy_@hotmail.com
 kiturreria@canal9.com.ar
 la_otrahistoria@yahoo.com.ar
 la14internacional@yahoo.com.ar
 
-014, extracted from search results of : www.canalrcn.com
+017, extracted from search results of : www.canalrcn.com
 estudios@rtitv.com
 
-015, extracted from search results of : www.cbn.com
+018, extracted from search results of : www.canvas.be
+r.vraak@tweedekamer.nl
+utrecht@doorbraak.eu
+griffie@const-court.be
+iedereenberoemd@een.be
+rik.torfs@law.kuleuven.be
+panorama@sanoma-uitgevers.nl
+terzake@canvas.be
+knack@knack.be
+ekc.avanrooij@gmail.com
+info@renaatlanduyt.be
+reyerslaat@canvas.be
+jan.born@eenvandaag.nl
+rtorfs@cdenv.be
+info@demorgen.be
+m.agema@tweedekamer.nl
+panorama@canvas.be
+
+019, extracted from search results of : www.cbn.com
 michaelbent@cbn.com
 simitasi@cbn.com
 remittance_department@cbn.com
 alhajibarau_cbn@yahoo.co.jp
 
-016, extracted from search results of : www.cbs7.com
+020, extracted from search results of : www.cbs7.com
 ccrews@kwes.com
 webmaster@cbs7.com
 john.ray@wrdw.com
 dpalmer@cbs7.com
 
-017, extracted from search results of : www.cc.com
+021, extracted from search results of : www.cc.com
 cc@cc.com
 a@aa.com
 bb@bb.com
@@ -87,7 +125,7 @@ c@cc.com
 b@bb.com
 dd@dd.com'
 
-018, extracted from search results of : www.channel4.com
+022, extracted from search results of : www.channel4.com
 newsdesk@rte.ie
 todaypk@rte.ie
 news@dailystar.co.uk
@@ -101,13 +139,45 @@ luke.johnson@channel4.com
 news@timesonline.co.uk
 vincent.browne@rte.ie
 
-019, extracted from search results of : www.classica.de
+023, extracted from search results of : www.chch.com
+mikisewcreewoman@hotmail.com
+mridhashen@yahoo.com
+mobilecells01@gmail.com
+jayne_womenbuild@yahoo.com
+karl.hard@astrazeneca.com
+thekats@alleykatbeer.com
+nancy.leblanc@redcross.ca
+christine.cho@chch.com
+lboyd@fmshrc.gov
+
+024, extracted from search results of : www.classica.de
 f.foerster@ribosped.de
 
-020, extracted from search results of : www.cmore.se
+025, extracted from search results of : www.click2houston.com
+sunnews@baytownsun.com
+houstoninformer@yahoo.com
+khwbnews@tribune.com
+newsdesk@fox26.com
+timesnews@katytimes.com
+
+026, extracted from search results of : www.clickondetroit.com
+frenzy@clickondetroit.com
+sneavling@gmail.com
+city@freepress.com
+carterj@branson.k12.mo.us
+wxyzdesk@wxyz.com
+local4@clickondetroit.com
+stafford@freepress.com
+features@freepress.com
+
+027, extracted from search results of : www.clickorlando.com
+theinvestigators@clickorlando.com
+wpgs@wpgs.com
+
+028, extracted from search results of : www.cmore.se
 Johan.Kleberg@cmore.se?
 
-021, extracted from search results of : www.cnt.com.br
+029, extracted from search results of : www.cnt.com.br
 rondineligonzalez@gmail.com
 sede@anajustra.org.br
 selene.marinho@terra.com.br
@@ -124,10 +194,10 @@ servidor@odianet.com.br
 eocaetano@universal.org.br
 salette@cnt.com.br
 
-022, extracted from search results of : www.cosmote.gr
+030, extracted from search results of : www.cosmote.gr
 nkaldri@cosmote.gr.blackberry.com
 
-023, extracted from search results of : www.csnwashington.com
+031, extracted from search results of : www.csnwashington.com
 camdenfeministgroup@hotmail.co.uk
 holly@jaymz.ca
 wcosug@gmail.com
@@ -151,7 +221,11 @@ peng.changhui@uqam.ca
 rsalzman@illinois.edu
 dbrew1984@hotmail.com
 
-024, extracted from search results of : www.ctitv.com.tw
+032, extracted from search results of : www.ct.com
+vedansh.mm@ct.com
+ghgh@ff.com
+
+033, extracted from search results of : www.ctitv.com.tw
 qjh@landtool.com
 zrf@landtool.com
 service@gisinfo.com
@@ -160,12 +234,12 @@ service@ctitv.com.tw
 wd@landtool.com
 support@mapbar.com
 
-025, extracted from search results of : www.cw15.com
+034, extracted from search results of : www.cw15.com
 fcvb@co.franklin.pa.us
 events@fredmag.com
 features@gburgtimes.com
 
-026, extracted from search results of : www.daserste.de
+035, extracted from search results of : www.daserste.de
 info@3sat.de
 redaktion@wdr.de
 fnp.hessen@fsd.de
@@ -174,7 +248,7 @@ frontal21@zdf.de
 plusminus@mdr.de
 reporter@zdf.de
 
-027, extracted from search results of : www.disney.com.br
+036, extracted from search results of : www.disney.com.br
 John.Rogovin@warnerbros.com
 ronnydllai@gmail.com
 alan.n.braverman@disney.com
@@ -184,13 +258,13 @@ rogerwong@millionfareast.com
 erasmo@disney.com.br
 ronald0917@hotmail.com
 
-028, extracted from search results of : www.disney.de
+037, extracted from search results of : www.disney.de
 hilfe@disney.de
 
-029, extracted from search results of : www.dptv.org
+038, extracted from search results of : www.dptv.org
 hrudy@dptv.org
 
-030, extracted from search results of : www.dr.dk
+039, extracted from search results of : www.dr.dk
 editor@cbc.ca
 dr.dk@dr.dk
 drkommunikation@dr.dk
@@ -199,7 +273,7 @@ master@cbc.ca
 dofa@dr.dk
 info@vrt.be
 
-031, extracted from search results of : www.elle.fr
+040, extracted from search results of : www.elle.fr
 gabrielle@elle.fr
 regie@publicat.fr
 redactionweb@marieclairemaison.com
@@ -207,14 +281,14 @@ flongeville@hfp.fr
 courrier@telerama.fr
 presse@lexpress.fr
 
-032, extracted from search results of : www.es.tv
+041, extracted from search results of : www.es.tv
 byron@es.tv
 eric@es.tv
 
-033, extracted from search results of : www.eutelsat.com
+042, extracted from search results of : www.eutelsat.com
 pgriffiths@eutelsat.com
 
-034, extracted from search results of : www.extremtv.ru
+043, extracted from search results of : www.extremtv.ru
 admin@womenclub.ru
 adv@ittv.com.ua
 advesti@advesti.ru
@@ -222,7 +296,7 @@ adv@kurier.kharkov.ua
 adv@ochki.net
 administrator@extremtv.ru
 
-035, extracted from search results of : www.fairchildtv.com
+044, extracted from search results of : www.fairchildtv.com
 marketing@worldjournal.net
 tedward@fairchildtv.com
 newsroom@fairchildtv.com
@@ -233,15 +307,15 @@ research2@globaltv.ca
 Dennis@fairchildtv.com
 bains_jasmine@sd36.bc.ca
 
-036, extracted from search results of : www.filmboxextra.pl
+045, extracted from search results of : www.filmboxextra.pl
 widzowie@tvp.pl
 eurosport@eurosport.pl
 
-037, extracted from search results of : www.fox11online.com
+046, extracted from search results of : www.fox11online.com
 Mark@fox11online.com
 Mark.Leland@fox11online.com
 
-038, extracted from search results of : www.fox13news.com
+047, extracted from search results of : www.fox13news.com
 emma.dove@uwa.edu.au
 yarsan@aol.com
 dkoerber1@gmail.com
@@ -264,38 +338,38 @@ cnowland@utah.gov
 bbloedorn@utah.gov
 nsajid@utsc.utoronto.ca
 
-039, extracted from search results of : www.fox17.com
+048, extracted from search results of : www.fox17.com
 krussell@fox.com
 
-040, extracted from search results of : www.fox23news.com
+049, extracted from search results of : www.fox23news.com
 reed@dailygazette.com
 mikec@talk1300.com
 news@talk1300.com
 paulv@talk1300.com
 jebrowledge@fox23news.com
 
-041, extracted from search results of : www.fox43topeka.com
+050, extracted from search results of : www.fox43topeka.com
 claudia@fox43topeka.com
 
-042, extracted from search results of : www.foxbaltimore.com
+051, extracted from search results of : www.foxbaltimore.com
 news@foxbaltimore.com
 newstips@wflx.com
 
-043, extracted from search results of : www.foxplay.com
+052, extracted from search results of : www.foxplay.com
 surveys@myview.com.au
 alwalied71@yahoo.com
 newsletter@dashboard.network-blazer.com
 novedades@foxplay.com
 notificaciones@foxplay.com
 
-044, extracted from search results of : www.foxsportsla.com
+053, extracted from search results of : www.foxsportsla.com
 primeronoticias@televisa.com.mx
 rta@rt-a.com
 enopinionde@televisa.com.mx
 formula1@foxsportsla.com
 deportesinviolencia@fox.com
 
-045, extracted from search results of : www.france3.fr
+054, extracted from search results of : www.france3.fr
 postmaster@cplus.fr
 chiffreslettres@france3.fr
 culture@sudouest.com
@@ -307,7 +381,7 @@ culture@politis.fr
 delannoy2@exchange.france3.fr
 topic@afp.com
 
-046, extracted from search results of : www.fuse.tv
+055, extracted from search results of : www.fuse.tv
 j_watson@globe.com
 quentin.peel@ft.com
 localnews@globe.com
@@ -316,40 +390,44 @@ indiantime@gisco.net
 d_lewis@globe.com
 alynn@fuse.tv
 
-047, extracted from search results of : www.golfchannel.com
+056, extracted from search results of : www.golfchannel.com
 jeff.szklinski@golfchannel.com
 Meghan.maguire@ehi.com
 
-048, extracted from search results of : www.hbo.com
+057, extracted from search results of : www.hbo.com
 karen.quinlan@timewarner.com
 Steve.Lefkowitz@timewarner.com
 Jim.Kiernan@timewarner.com
 tom.kazanecki@hbo.com
 
-049, extracted from search results of : www.hbo.pl
+058, extracted from search results of : www.hbo.pl
 e-mailkrak@hbo.pl
 widzowie@tvp.pl
 izabela.lopuch@hbo.pl
 info@catndocs.com
 
-050, extracted from search results of : www.hboasia.com
+059, extracted from search results of : www.hboasia.com
 spink_jonathan@hboasia.com.sg
 
-051, extracted from search results of : www.hotstar.com
+060, extracted from search results of : www.hotstar.com
 hello@hotstar.com
 info@hotstar.com.my
 
-052, extracted from search results of : www.hse24.de
+061, extracted from search results of : www.hse24.de
 consultas@madridhifi.com
 info@showlight.es
 info@servicesfortheweb.com
 reichweite@hse24.de
 lux@lux-team.com
 
-053, extracted from search results of : www.juwelo.de
+062, extracted from search results of : www.joj.sk
+akotonespackat@joj.sk
+mamaozenma@joj.sk
+
+063, extracted from search results of : www.juwelo.de
 kundenservice@juwelo.de
 
-054, extracted from search results of : www.kaaltv.com
+064, extracted from search results of : www.kaaltv.com
 email@dptv.org
 sschwarz@pioneer.org
 newsroom@tv74.com
@@ -358,13 +436,13 @@ news@kaaltv.com
 ksmq@ksmq.org
 mail@kaaltv.com
 
-055, extracted from search results of : www.kabeleins.de
+065, extracted from search results of : www.kabeleins.de
 zuschauerservice@kabeleins.de
 
-056, extracted from search results of : www.kadn.com
+066, extracted from search results of : www.kadn.com
 krystal@kadn.com
 
-057, extracted from search results of : www.kcra.com
+067, extracted from search results of : www.kcra.com
 newstips@kcra.com
 news@kovr.com
 announce@openstreetmap.org
@@ -377,7 +455,16 @@ ralph_lemite@yahoo.com
 sacnews@kcra.com
 teamfse@yahoo.com
 
-058, extracted from search results of : www.kdlt.com
+068, extracted from search results of : www.kdlh.com
+grendel@kdlh.com
+Tvd@kdlh.com
+jhowell@wpri.com
+news3@kdlh.com
+kermit@kdlh.com
+pat@wtvynews4.com
+dmesser@kdlh.com
+
+069, extracted from search results of : www.kdlt.com
 news@kevn.com
 fox7tv@kevn.com
 dexter@keloland.com
@@ -385,7 +472,7 @@ news@newscenter1.com
 markmillage@keloland.com
 news@kdlt.com
 
-059, extracted from search results of : www.kdrv.com
+070, extracted from search results of : www.kdrv.com
 newsdesk@kdrv.com
 newsroom@oregonian.com
 melissacano@kdrv.com
@@ -394,12 +481,33 @@ news@siskiyoudaily.com
 newsrelease@kobi5.com
 rmaiuri@kdrv.com
 
-060, extracted from search results of : www.kfsm.com
+071, extracted from search results of : www.kfsm.com
 kfsm@kfsm.com
 gary.gardner@winktv.com
 van.comer@kfsm.com
 
-061, extracted from search results of : www.kjct8.com
+072, extracted from search results of : www.kget.com
+MichaelTrihey@kget.com
+17news@kget.com
+
+073, extracted from search results of : www.kionrightnow.com
+davidlee@kionrightnow.com
+kball@thecalifornian.com
+msc@metcruz.com
+
+074, extracted from search results of : www.kirotv.com
+councilmembers@kentwa.gov
+newstips@kirotv.com
+0pyqybs59dok9qsy8rs@174.5.213.253
+eporter@kirotv.com
+ids@securitymetrics.com
+PeterJennings@abcnews.com
+59323238@n02.jpg
+s.england@comcast.net
+editor@thestranger.com
+seanews@kirotv.com
+
+075, extracted from search results of : www.kjct8.com
 stacey.smith@kkco11news.com
 info@krma.org
 jeff.wolf@9news.com
@@ -416,30 +524,60 @@ feedback@kjct8.com
 tv20news@wcjb.com
 news8@kjct8.com
 
-062, extracted from search results of : www.kjrh.com
+076, extracted from search results of : www.kjrh.com
 sgannon@sbgtv.com
 john.holcomb@newson6.net
 mpatton@okcfox.com
 jerkens@kjrh.com
 
-063, extracted from search results of : www.kmtv.com
+077, extracted from search results of : www.kktv.com
+w2crs@kktv.com
+Shari.Porter@groucho.mit.csu.edu.au
+aherbertson@kktv.com
+
+078, extracted from search results of : www.kmtv.com
 John.Anderson@fremontne.gov
 Jennifer.Bixby@fremontne.gov
 news@wowt.com
 news@ketv.com
 
-064, extracted from search results of : www.kmvt.com
+079, extracted from search results of : www.kmvt.com
 Dlowe@kmvt.com
 webmaster@kmvt.com
 rtatano@cbs19.tv
 lwagner@kmvt.com
 billkring@9and10news.com
 
-065, extracted from search results of : www.kqed.org
+080, extracted from search results of : www.koamtv.com
+PTuttle@joplinmo.org
+tn@pdh.dk
+vlewis@koamtv.com
+dvezina@bnet.pco-bcp.gc.ca
+info@royalvoyages.net
+jim@jcweather.us
+comments@koamtv.com
+mgaudette@koamtv.com
+CPuffinba@joplinmo.org
+fireshop@ufba.org.nz
+
+081, extracted from search results of : www.kqed.org
 mgreen@kqed.org
 Anne@kqed.org
 
-066, extracted from search results of : www.ksby.com
+082, extracted from search results of : www.krdotv.com
+mielau@krdotv.com
+
+083, extracted from search results of : www.krextv.com
+newswest@krextv.com
+accounts@krextv.com
+tips@nbc11news.com
+kxgnkdzn@midrivers.com
+news@krextv.com
+dhsmith@lesea.com
+pkidder@wfrv.cbs.com
+news8@kjct8.com
+
+084, extracted from search results of : www.ksby.com
 sports@atascaderonews.com
 mike@kprl.com
 editor@nctimes.com
@@ -459,14 +597,14 @@ cat@pressdemo.com
 sports@ksby.com
 bhalter@ksby.com
 
-067, extracted from search results of : www.ksl.com
+085, extracted from search results of : www.ksl.com
 brucen@ksl.com.au
 
-068, extracted from search results of : www.ksps.org
+086, extracted from search results of : www.ksps.org
 webmaster@kxly.com
 q6news@khq.com
 
-069, extracted from search results of : www.kstp.com
+087, extracted from search results of : www.kstp.com
 eperkins@kare11.com
 rshaver@kare11.com
 newsreply@kstp.com
@@ -474,13 +612,33 @@ news@kare11.com
 jschmit@kstp.com
 kgerhardt@kstp.com
 
-070, extracted from search results of : www.kttc.com
+088, extracted from search results of : www.kswo.com
+002801c3f4a9$668ef0c0$150752a6@pc21.kswo.com
+
+089, extracted from search results of : www.kttc.com
 News@kttc.com
 
-071, extracted from search results of : www.kvue.com
+090, extracted from search results of : www.ktul.com
+john.wooley@tulsaworld.com
+kentm@nwanews.com
+Pat.Baldwin@ktul.com
+info@ktul.com
+kathleenpixley@sbcglobal.net
+jmcintyre@ktul.com
+kswo@sirinet.net
+Pat@ktul.com
+jmoss@ktul.com
+quail@hibu.com
+
+091, extracted from search results of : www.kued.org
+'dwildfoerster@kued.org'
+vidoes@kued.org
+sshaum@kued.org
+
+092, extracted from search results of : www.kvue.com
 aramon@kvue.com
 
-072, extracted from search results of : www.kwkt.com
+093, extracted from search results of : www.kwkt.com
 smacias@kwkt.com
 rrichter@kwkt.com
 sslayden@kwkt.com
@@ -488,28 +646,39 @@ comments@kcentv.com
 news@kwtx.com
 psimmons@kxxv.com
 
-073, extracted from search results of : www.kyma.com
+094, extracted from search results of : www.kyma.com
 news@kyma.com
 kymanews@kyma.com
 
-074, extracted from search results of : www.lifedesigntv.com
+095, extracted from search results of : www.lequipe.fr
+brice.perrin@mondadori.fr
+bruno.janneau@yahoo.fr
+c.barreau@caradisiac.com
+bregagnon@lequipe.fr
+
+096, extracted from search results of : www.lifedesigntv.com
 comunicaciones@parquesoftmanizales.com
 comunicaciones@myzonastereo.com
 comunicaciones@fycconsultores.com
 
-075, extracted from search results of : www.localnews8.com
+097, extracted from search results of : www.localnews8.com
 newsdesk@localnews8.com
 news@localnews8.com
 
-076, extracted from search results of : www.manutd.com
+098, extracted from search results of : www.lorry.dk
+1212@dr.dk
+redaktion@lorry.dk
+anders.b.kristensen@lokalavisen.dk
+
+099, extracted from search results of : www.manutd.com
 Giles.Hall@manutd.com
 aaoy51@manutd.com
 
-077, extracted from search results of : www.mbc-america.com
+100, extracted from search results of : www.mbc-america.com
 Monica@mbc-america.com
 Monica.Ha@mbc-america.com
 
-078, extracted from search results of : www.montanapbs.org
+101, extracted from search results of : www.montanapbs.org
 latmag@latimes.com
 kurt.kasting@turner.com
 kufm@montanapbs.org
@@ -517,7 +686,7 @@ kingc@washpost.com
 feedback@montanapbs.org
 aaron_pruitt@montanapbs.org
 
-079, extracted from search results of : www.mpbc.org
+102, extracted from search results of : www.mpbc.org
 publisher@whatsup.nb.ca
 Catherine@mpbc.org
 jwb@wp.maine.com
@@ -526,16 +695,45 @@ jeff@mpbc.org
 radionews@mpbc.org
 kjamerson@wagmtv.com
 
-080, extracted from search results of : www.mtvla.com
+103, extracted from search results of : www.mpbn.net
+Barbara@mpbn.net
+talk@mpbn.net
+Barbara.Cariddi@mpbn.net
+
+104, extracted from search results of : www.mtv.ru
+starikov@1tvspb.ru
+zriteli@mtv.ru
+sales@galarec.ru
+yvesenyova@mtv.ru
+vedomosti@imedia.ru
+yebotja@mtv.ru
+naira@1tvspb.ru
+comment@vedomosti.ru
+remont@versya.ru
+maximov@burda.ru
+0234448076.23381632915043@mtv.ru
+yakunina@burda.ru
+party_zone@mtv.ru
+info@otriv.ru
+newsblok@mtv.ru
+o_gorynych@mail.ru
+upgrade@computery.ru
+united@mtv.ru
+
+105, extracted from search results of : www.mtvla.com
 Monique@mtvla.com
 Monique.Steele@mtvla.com
 glorivel@mtvla.com
 
-081, extracted from search results of : www.myfoxdfw.com
+106, extracted from search results of : www.myfoxatlanta.com
+portia.bruner@myfoxatlanta.com
+publicaffairs@wsbtv.com
+
+107, extracted from search results of : www.myfoxdfw.com
 Saul.Garza@myfoxdfw.com
 Saul@myfoxdfw.com
 
-082, extracted from search results of : www.n-tv.de
+108, extracted from search results of : www.n-tv.de
 planung@n-tv.de
 wirtschaft@ostsee-zeitung.de
 Zuschauer.Redaktion@n-tv.de
@@ -551,42 +749,42 @@ rbfs@radiobremen.de
 online@n-tv.de
 BRISANT@mdr.de
 
-083, extracted from search results of : www.nasa.gov
+109, extracted from search results of : www.nasa.gov
 aco@nasa.gov
 JSC-PSRPSEC@mail.nasa.gov
 trent.d.martin@nasa.gov
 lori.s.glaze@nasa.gov
 
-084, extracted from search results of : www.natgeotv.com
+110, extracted from search results of : www.natgeotv.com
 CAlbert@natgeotv.com
 
-085, extracted from search results of : www.nbc13.com
+111, extracted from search results of : www.nbc13.com
 TV5@wkrg.com
 alcarr@whnt19.com
 lucyr@wsfa.com
 wsfa@traveller.com
 roadbusters@nbc13.com
 
-086, extracted from search results of : www.nbc15.com
+112, extracted from search results of : www.nbc15.com
 steve@sasyna.org
 Jeremy.Nichols@nbc15.com
 Jeremy@nbc15.com
 
-087, extracted from search results of : www.netmedia.co.id
+113, extracted from search results of : www.netmedia.co.id
 mabella.denantrini@netmedia.co.id
 
-088, extracted from search results of : www.newsnet5.com
+114, extracted from search results of : www.newsnet5.com
 nn5news@newsnet5.com
 feedback@startribune.com
 pqyyuKK@newsnet5.com
 
-089, extracted from search results of : www.newspressnow.com
+115, extracted from search results of : www.newspressnow.com
 owenssj@umsystem.edu
 boardofcurators@umsystem.edu
 deatonb@missouri.edu
 werdman@kcsouthern.com
 
-090, extracted from search results of : www.nrk.no
+116, extracted from search results of : www.nrk.no
 post@nrk.no
 mail@nrk.no
 info@winterberg.de
@@ -597,7 +795,7 @@ news@nrk.no
 he*@nrk.no
 03030@nrk.no
 
-091, extracted from search results of : www.ntv.co.jp
+117, extracted from search results of : www.ntv.co.jp
 mail@rai.it
 info@ntv.co.jp
 pgk@na.rim.or.jp
@@ -611,17 +809,25 @@ info@rai.it
 itojun@itojun.org
 news@ntv.co.jp
 
-092, extracted from search results of : www.ouj.ac.jp
+118, extracted from search results of : www.ouj.ac.jp
 xxx@ouj.ac.jp
 
-093, extracted from search results of : www.pbssocal.org
+119, extracted from search results of : www.pbssocal.org
 Keena.Levert@pbssocal.org
 Keena@pbssocal.org
 
-094, extracted from search results of : www.prosiebenmaxx.de
+120, extracted from search results of : www.plus.es
+informal@jumpy.es
+karmele@karmelemarchante.com
+informativos@cope.es
+informacio.al.espectador@rtvv.es
+lecturas@hymsa.com
+la2noticias.tve@rtve.es
+
+121, extracted from search results of : www.prosiebenmaxx.de
 zuschauerservice@prosiebenmaxx.de
 
-095, extracted from search results of : www.protv.ro
+122, extracted from search results of : www.protv.ro
 corneln@expres.ro
 rmdsz@re.ro
 Rlib@kappa.ro
@@ -631,7 +837,7 @@ office@protv.ro
 andrei@expres.ro
 rpreda@expres.ro
 
-096, extracted from search results of : www.rds.ca
+123, extracted from search results of : www.rds.ca
 cmonref@tsn.ca
 info@cklu.ca
 Rufus.Dale@rds.ca
@@ -657,10 +863,10 @@ patrick.roy@rds.ca
 barb6525@hotmail.com
 newsfeedback@wired.com
 
-097, extracted from search results of : www.recordeuropa.com
+124, extracted from search results of : www.recordeuropa.com
 macardoso@recordeuropa.com
 
-098, extracted from search results of : www.reuters.com
+125, extracted from search results of : www.reuters.com
 marisa.kung@reuters.com
 david.milliken@reuters.com
 charles.wicksteed@reuters.com
@@ -668,27 +874,27 @@ jim.bai@reuters.com
 jason.guo@reuters.com
 zhongwei.hua@reuters.com
 
-099, extracted from search results of : www.ripbs.org
+126, extracted from search results of : www.ripbs.org
 rdunn@ripbs.org
 
-100, extracted from search results of : www.rotana.net
+127, extracted from search results of : www.rotana.net
 AbuDhabi@ae.ey.com
 3mgulf@mmm.com
 BAAreservation@jumeirah.com
 BAAfeedback@jumeirah.com
 
-101, extracted from search results of : www.rte.ie
+128, extracted from search results of : www.rte.ie
 jennifer.taaffe@rte.ie
 john.mcmahon@rte.ie
 elaine.conlan@rte.ie
 
-102, extracted from search results of : www.rtl.de
+129, extracted from search results of : www.rtl.de
 wolfgang.kunk@rtl.de
 38AA834A.B60387BE@rtl.de
 karl.jost@rtl.de
 3D36C27A.7000106@rtl.de
 
-103, extracted from search results of : www.sbs6.nl
+130, extracted from search results of : www.sbs6.nl
 wereldomroep@rnw.nl
 magazine@fnv.nl
 info@net5.nl
@@ -703,49 +909,80 @@ info@lokalos.nl
 ikon@ikon.nl
 info@netwerk.tv
 
-104, extracted from search results of : www.sjtv.com.tw
+131, extracted from search results of : www.sjtv.com.tw
 +rgreenslade067@gmail.com
 +mandy@sjtv.com.tw
 
-105, extracted from search results of : www.sky.com.br
+132, extracted from search results of : www.sky.com.br
 http://sky360web.sky.com.br
 diretoria@sky.com.br
 sky360web@sky.com.br
 
-106, extracted from search results of : www.smc.ae
+133, extracted from search results of : www.smc.ae
 info@smc.ae
 rafat.otifi@smc.ae
 mariam.alsuwaidi@smc.ae
 
-107, extracted from search results of : www.spiegel-geschichte.tv
+134, extracted from search results of : www.spiegel-geschichte.tv
 info@spiegel-geschichte.tv
 
-108, extracted from search results of : www.svt.se
+135, extracted from search results of : www.svt.se
 frank.hoffsummer@svt.se
 greveholm@svt.se
 openldap-software@openldap.org
 
-109, extracted from search results of : www.tf1.fr
+136, extracted from search results of : www.tbn.org
+cmay@tbn.org
+
+137, extracted from search results of : www.tele5.de
+info@tele5.de
+zuschauerredaktion@tele5.de
+presse@tele5.de
+
+138, extracted from search results of : www.telecinco.es
+protesteya@telecinco.es
+doctv@rtve.es
+informativos@informativost5.com
+madrid@efe.es
+serrano@telecinco.com
+aquihaytomate@telecinco.es
+herreraenlaonda@ondacero.es
+redaccionweb@informativost5.com
+redaccion@informativost5.com
+elbuscador@telecinco.es
+12meses12causas@telecinco.es
+
+139, extracted from search results of : www.televisa.com
+celia_flores@hotmail.com
+vazarazuam@televisa.com.mx
+Cheryl_Lynch@spe.sony.com
+
+140, extracted from search results of : www.tf1.fr
 yves33@tiscali.fr
 FXXXXXXXXXXX@tf1.fr
 http://www.tf1.fr
 
-110, extracted from search results of : www.thaipbs.or.th
+141, extracted from search results of : www.thaipbs.or.th
 thanapongt@thaipbs.or.th
 
-111, extracted from search results of : www.tjk.org
+142, extracted from search results of : www.thinktv.org
+Fstone@thinktv.org
+twhite@mtsu.edu
+mkirk@thinktv.org
+
+143, extracted from search results of : www.tjk.org
 zhaldan@tjk.org
 
-112, extracted from search results of : www.toledonewsnow.com
+144, extracted from search results of : www.toledonewsnow.com
 Jim.Fugett@toledonewsnow.com
 Jim@toledonewsnow.com
 
-113, extracted from search results of : www.top-channel.tv
+145, extracted from search results of : www.top-channel.tv
 shqip@top-channel.tv
 programme@top-channel.tv
 info@top-channel.tv
 
-114, extracted from search results of : www.tsn.ca
+146, extracted from search results of : www.tsn.ca
 stetgm@telus.net
 cmonref@tsn.ca
 agoldstein@tsn.ca
@@ -768,10 +1005,10 @@ rzamperin@900chml.com
 ssimic@tsn.ca
 aas@mts.net
 
-115, extracted from search results of : www.tv3.ie
+147, extracted from search results of : www.tv3.ie
 audience@tv3.ie
 
-116, extracted from search results of : www.tv4.se
+148, extracted from search results of : www.tv4.se
 eftertio@tv4.se
 371AF7A0.83DFE084@tv4.se
 nyhetsmorgon@tv4.se
@@ -787,23 +1024,23 @@ cecilia.salford@tv4.se
 ekot@sr.se
 mloftus@wyle.com
 
-117, extracted from search results of : www.tv8.com.tr
+149, extracted from search results of : www.tv8.com.tr
 gaziantepcagdasgazetesi@gmail.com
 b_sahin27@mynet.com
 gaziantepcumhuriyet@hotmail.com
 info@cagdasgazete.com
 
-118, extracted from search results of : www.tvarenasport.com
+150, extracted from search results of : www.tvarenasport.com
 redakcija@sportal.rs
 pressport@gmail.com
 redakcija@kurir-info.rs
 mondosport@wm.rs
 jslsport@novosti.rs
 
-119, extracted from search results of : www.tvbs.com.tw
+151, extracted from search results of : www.tvbs.com.tw
 service@tvbs.com.tw
 
-120, extracted from search results of : www.tvland.com
+152, extracted from search results of : www.tvland.com
 'David.Herman@tvland.com'
 'StefanieVerkauf@aol.com'
 'Deborah.Samuel@usdoj.gov'
@@ -814,45 +1051,101 @@ Vanessa.reyes@tvland.com
 curious@tvland.com
 postmaster@tvland.com
 
-121, extracted from search results of : www.tvr.ro
+153, extracted from search results of : www.tvn24.pl
+kontakt@tvn24.pl
+
+154, extracted from search results of : www.tvr.ro
 eurovision2016@tvr.ro
 
-122, extracted from search results of : www.u.tv
+155, extracted from search results of : www.u.tv
 www.stream@2u-tv.me
 sarah@u.tv
 info@u.tv
 www.stream2@u-tv.me
 
-123, extracted from search results of : www.unctv.org
+156, extracted from search results of : www.uktv.com.au
+feedback@uktv.com.au
+'linda.deubel@uktv.com.au'
+
+157, extracted from search results of : www.unctv.org
 fgraff@unctv.org
 
-124, extracted from search results of : www.ustv.com.tw
+158, extracted from search results of : www.univision.com
+jimmy.chong@univision.com.sg
+
+159, extracted from search results of : www.ustv.com.tw
 mmmike107@hotmail.com
 stan.chen@ustv.com.tw
 nigel.nien@gmail.com
 
-125, extracted from search results of : www.va.gov
+160, extracted from search results of : www.va.gov
 help.fss@va.gov
 
-126, extracted from search results of : www.viasat.se
+161, extracted from search results of : www.valleypbs.org
+Pbrotherton@valleypbs.org
+
+162, extracted from search results of : www.viasat.fi
+'tuuli.hakkarainen@saarijarvi.fi'
+'partel@partel.fi'
+'asiakaspalvelu@phpoy.fi'
+'info@productionhouse.fi'
+
+163, extracted from search results of : www.viasat.se
 Alexander.Ahlin@viasat.se
 susanne.nylen@mtgsverige.se
 Tobias.Wimnell@viasat.se
 johan.darin@viasat.se
 
-127, extracted from search results of : www.vpt.org
+164, extracted from search results of : www.viceland.com
+timb@viceland.com
+vice@viceland.com
+tomhann@hotmail.com
+bblum6@aol.com
+law@davieslaw.co.nz
+puamana@puamana.net
+sectreas@clc-ctc.ca
+
+165, extracted from search results of : www.vpt.org
 Wrosberg@vpt.org
 
-128, extracted from search results of : www.vtm.be
+166, extracted from search results of : www.vtm.be
 info@rtbf.be
 info@kanaal2.be
 postmaster@vtm.be
 info@bbc.co.uk
 
-129, extracted from search results of : www.wabg.com
+167, extracted from search results of : www.wabg.com
 jrogers@wabg.com
 
-130, extracted from search results of : www.wcny.org
+168, extracted from search results of : www.wbko.com
+wkyutv@wku.edu
+newsrelease@wkyt.com
+Dominique.Yates@wbko.com
+news@ksn.com
+Dominique@wbko.com
+john.preston@wbko.com
+news@kwch.com
+jpwblu@aol.com
+news@wkag.com
+wljc@wljc.com
+
+169, extracted from search results of : www.wchstv.com
+wcovtv20@mont.mindspring.com
+news@foxinc.com
+thuber@ap.org
+ctc-editor@tribune.com
+wcmh4@erinet.com
+ddowney@californian.com
+news@wchstv.com
+wcvb@aol.com
+viewermailreply@nbc.com
+info@wchstv.com
+newsroom@wciv.com
+mbrowning@loganbanner.com
+wcnctv36@aol.com
+editor@edit.wsj.com
+
+170, extracted from search results of : www.wcny.org
 info@weny.com
 matthew_michael@wcny.org
 wcny_online@wcny.org
@@ -860,7 +1153,7 @@ info@wetmtv.com
 test.user@wcny.org
 news36@weny.com
 
-131, extracted from search results of : www.wdaz.com
+171, extracted from search results of : www.wdaz.com
 khas@khastv.com
 news@wdaz.com
 jbernstrom@wdaz.com
@@ -877,11 +1170,11 @@ desk@kolnkgin.com
 jolson@kxmcnews.com
 pneumann@wdaz.com
 
-132, extracted from search results of : www.wdio.com
+172, extracted from search results of : www.wdio.com
 Darren.Danielson@wdio.com
 Darren@wdio.com
 
-133, extracted from search results of : www.wdtv.com
+173, extracted from search results of : www.wdtv.com
 info@wvfx.com
 mkraham@nbc25.com
 bscott@wdtv.com
@@ -890,7 +1183,7 @@ news@wtov.com
 gheskett@wdtv.com
 *@wdtv.com
 
-134, extracted from search results of : www.weartv.com
+174, extracted from search results of : www.weartv.com
 blab@blabtv.com
 legal@cityofpensacola.com
 comments@weartv.com
@@ -899,14 +1192,19 @@ news@weartv.com
 newstips@weartv.com
 wbqp@wbqp.com
 
-135, extracted from search results of : www.wfaa.com
+175, extracted from search results of : www.wfaa.com
 nharkrider@wfaa.com
 
-136, extracted from search results of : www.wfyi.org
+176, extracted from search results of : www.wfla.com
+news@wtvt.com
+kristin.wright@foxtv.com
+news@tampatrib.com
+
+177, extracted from search results of : www.wfyi.org
 captions@wfyi.org
 jburnham@wfyi.org
 
-137, extracted from search results of : www.wgme.com
+178, extracted from search results of : www.wgme.com
 deid@wgme.com
 wmtw@wmtw.com
 tvmail@wgme.com
@@ -919,14 +1217,14 @@ wderz@maine.rr.com
 sports@fosters.com
 newscenter@wcsh6.com
 
-138, extracted from search results of : www.wgntv.com
+179, extracted from search results of : www.wgntv.com
 jlyons@wgntv.com
 azuick@wgntv.com
 
-139, extracted from search results of : www.wgrz.com
+180, extracted from search results of : www.wgrz.com
 ClosedCaptioning@wgrz.com
 
-140, extracted from search results of : www.whbf.com
+181, extracted from search results of : www.whbf.com
 ggraber@wifr.com
 asteadman@whbf.com
 dloy@wroctv.com
@@ -934,17 +1232,17 @@ jwalls@whbf.com
 theston@whbf.com
 mmarin@rochellenews-leader.com
 
-141, extracted from search results of : www.whdh.com
+182, extracted from search results of : www.whdh.com
 newstips@whdh.com
 info@save-your-estate.com
 
-142, extracted from search results of : www.wilm-tv.com
+183, extracted from search results of : www.wilm-tv.com
 cknox@wilm-tv.com
 kwilliams@kauz.com
 jbarrett@kwch.com
 kmesser@kimatv.com
 
-143, extracted from search results of : www.winknews.com
+184, extracted from search results of : www.winknews.com
 christy.andrews@abc-7.com
 newstips@nbc-2.com
 comments@nbc-2.com
@@ -953,7 +1251,7 @@ info@ire.org
 newstips@abc-7.com
 news@fox4now.com
 
-144, extracted from search results of : www.wisn.com
+185, extracted from search results of : www.wisn.com
 _u29869@livefyre.com
 47200413@n03.jpg
 webstaff@wisn.com
@@ -965,7 +1263,7 @@ kim.ohlsson@sr.se
 hello@tweetdeck.com
 bfetterley@urbanecologycenter.org
 
-145, extracted from search results of : www.wjactv.com
+186, extracted from search results of : www.wjactv.com
 kkantz@wtaj.com
 news@fox8tv.com
 sports@wtajtv.com
@@ -975,7 +1273,7 @@ news@wjactv.com
 jream@fox8tv.com
 fquitoni@fox8tv.com
 
-146, extracted from search results of : www.wjbf.com
+187, extracted from search results of : www.wjbf.com
 arminorityhealth@gmail.com
 publicidad@cablehogar.com.ar
 talkback6@wjbf.com
@@ -983,42 +1281,42 @@ gmyers@wjbf.com
 afunkyfish@aol.com
 producers@wjbf.com
 
-147, extracted from search results of : www.wkbn.com
+188, extracted from search results of : www.wkbn.com
 cknox@wilm-tv.com
 Hartzler@wkbn.com
 animalcharityofohio@gmail.com
 assignment@wytv.com
 kmesser@kimatv.com
 
-148, extracted from search results of : www.wlky.com
+189, extracted from search results of : www.wlky.com
 vdortch@wlky.com
 awise@hearst.com
 fberkshire@kystandard.com
 elaine.filiatreau@ky.gov
 david.floyd@lrc.ky.gov
 
-149, extracted from search results of : www.wlns.com
+190, extracted from search results of : www.wlns.com
 bigshow.wjim@gmail.com
 tlewis@wlns.com
 skubickt@aol.com
 tmartin@ap.org
 tim.gillette@wilx.com
 
-150, extracted from search results of : www.wltx.com
+191, extracted from search results of : www.wltx.com
 Colby@wltx.com
 Colby.Gallagher@wltx.com
 rodell@wltx.com
 
-151, extracted from search results of : www.wmbb.com
+192, extracted from search results of : www.wmbb.com
 wjhg@wjhg.com
 wpbfnews@hearst.com
 wrbw@wrbw.com
 admin@wmbb.com
 
-152, extracted from search results of : www.wmdt.com
+193, extracted from search results of : www.wmdt.com
 Justin_Drabick@wmdt.com
 
-153, extracted from search results of : www.wmur.com
+194, extracted from search results of : www.wmur.com
 harry.accornero@leg.state.nh.us
 sports@nashuatelegraph.com
 aguiarjd@yahoo.com
@@ -1032,29 +1330,59 @@ jim.aguiar@leg.state.nh.us
 Editor@seacoastonline.com
 bds@ncia.net
 
-154, extracted from search results of : www.wogx.com
+195, extracted from search results of : www.wncn.com
+hr@wncn.com
+jwilliams@wncn.com
+
+196, extracted from search results of : www.wogx.com
 fox49@fox49.com
 wogx@wogx.com
 wtvjnews@nbc.com
 info@t51.com
 
-155, extracted from search results of : www.wqed.org
+197, extracted from search results of : www.wowktv.com
+chris@wvrecord.com
+jlilly@wvpubcast.org
+vsmith@ap.org
+
+198, extracted from search results of : www.wqed.org
 Darryl.Williams@wqed.org
 Darryl@wqed.org
 
-156, extracted from search results of : www.wsbtv.com
+199, extracted from search results of : www.wrcbtv.com
+http://storify.com/WRCBTV
+
+200, extracted from search results of : www.wsbtv.com
 staceyabrams@gmail.com
 news@wsbtv.com
 sharon.beasley-teague@house.ga.gov
 roberta.abdul-salaam@house.ga.gov
 
-157, extracted from search results of : www.wtva.com
+201, extracted from search results of : www.wsls.com
+news@wsls.com
+news@wdbj7.com
+
+202, extracted from search results of : www.wtva.com
 rbyers@wtva.com
 
-158, extracted from search results of : www.wvia.org
+203, extracted from search results of : www.wtvq.com
+jewis@fox41.com
+info@royaltybon.com
+dgarner@wtvq.com
+36listens@wtvq.com
+lane@fox41.com
+
+204, extracted from search results of : www.wvia.org
 KathrynDavies@wvia.org
 
-159, extracted from search results of : www.yoopa.ca
+205, extracted from search results of : www.wwlp.com
+mfitzpatrick@wwlp.com
+news@wwlp.com
+
+206, extracted from search results of : www.wxyz.com
+channel7investigates@wxyz.com
+
+207, extracted from search results of : www.yoopa.ca
 pascalgareau@gareauauto.ca
 lecteurs@yoopa.ca
 lfp.events@sunmedia.ca
